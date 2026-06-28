@@ -21,8 +21,8 @@ export default function RailNav() {
       </Link>
       <div className="hr" />
       <Link
-        href="/index"
-        className={`rail-all${path?.startsWith("/index") ? " active" : ""}`}
+        href="/all"
+        className={`rail-all${path?.startsWith("/all") ? " active" : ""}`}
       >
         ALL
       </Link>
