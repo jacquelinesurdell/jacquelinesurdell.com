@@ -1,0 +1,73 @@
+import Link from "next/link";
+import RailNav from "@/components/RailNav";
+import works from "@/data/works.json";
+
+type Work = {
+  slug: string; title: string; year: string; category: string;
+  medium: string; dimensions: string; series: string; description: string;
+  images: string[]; sourceUrl: string;
+};
+
+const ALL = works as Work[];
+
+export default function WorkView({ slug }: { slug: string }) {
+  const i = ALL.findIndex((w) => w.slug === slug);
+  const w = ALL[i];
+  if (!w) return null;
+  const prev = ALL[(i - 1 + ALL.length) % ALL.length];
+  const next = ALL[(i + 1) % ALL.length];
+
+  return (
+    <div className="frame">
+      <RailNav />
+      <main className="main">
+        <div className="work-head">
+          <h1 className="work-title">{w.title}</h1>
+          <div className="work-meta">
+            {[w.year, w.medium, w.dimensions].filter(Boolean).join("\n")}
+            {w.sourceUrl ? (
+              <>
+                {"\n"}
+                <a href={w.sourceUrl} target="_blank" rel="noopener">
+                  jacquelinesurdell.com <span className="arrow">↗</span>
+                </a>
+              </>
+            ) : null}
+          </div>
+        </div>
+
+        {w.description && w.category === "exhibition" ? (
+          <p className="work-desc">{w.description}</p>
+        ) : null}
+
+        <hr />
+
+        <div className="gallery">
+          {w.images.map((src, n) => (
+            <figure className="fig" key={src}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={src} alt={`${w.title} (${n + 1})`} loading="lazy" />
+              {n === 0 ? (
+                <figcaption>
+                  <i>{w.title}</i>
+                  {w.year ? `, ${w.year}` : ""}
+                  {w.medium ? `. ${w.medium}` : ""}
+                  {w.dimensions ? `, ${w.dimensions}` : ""}
+                </figcaption>
+              ) : null}
+            </figure>
+          ))}
+          {w.images.length === 0 && w.description ? (
+            <p className="work-desc" style={{ marginTop: 0 }}>{w.description}</p>
+          ) : null}
+        </div>
+
+        <div className="work-nav">
+          <Link href={`/work/${prev.slug}`}>&larr; {prev.title}</Link>
+          <span className="counter">{i + 1} / {ALL.length}</span>
+          <Link href={`/work/${next.slug}`}>{next.title} &rarr;</Link>
+        </div>
+      </main>
+    </div>
+  );
+}
