@@ -1,5 +1,6 @@
 import Link from "next/link";
 import RailNav from "@/components/RailNav";
+import { asset } from "@/lib/asset";
 import works from "@/data/works.json";
 
 type Work = {
@@ -46,7 +47,7 @@ export default function WorkView({ slug }: { slug: string }) {
           {w.images.map((src, n) => (
             <figure className="fig" key={src}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={src} alt={`${w.title} (${n + 1})`} loading="lazy" />
+              <img src={asset(src)} alt={`${w.title} (${n + 1})`} loading="lazy" />
               {n === 0 ? (
                 <figcaption>
                   <i>{w.title}</i>

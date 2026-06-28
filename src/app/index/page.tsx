@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { asset } from "@/lib/asset";
 import works from "@/data/works.json";
 
 type Work = {
@@ -23,7 +24,7 @@ export default function IndexGrid() {
         {ALL.map((w) => (
           <Link href={`/work/${w.slug}`} key={w.slug} className="tile">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={w.images[0]} alt={w.title} loading="lazy" />
+            <img src={asset(w.images[0])} alt={w.title} loading="lazy" />
             <div className="tile-cap">
               <i>{w.title}</i>
               {w.year ? `, ${w.year}` : ""}

@@ -1,8 +1,8 @@
 name: Deploy to GitHub Pages
 
-# Manual-trigger only for now: avoids a broken auto-deploy before the apex
-# custom domain (jacquelinesurdell.com) is configured. Re-add the push trigger
-# at go-live, once Pages + CNAME are set.
+# Manual-trigger only: this is the PREVIEW deploy to the github.io project
+# subpath (jacquelinesurdell.github.io/jacquelinesurdell.com/). At apex go-live,
+# unset NEXT_PUBLIC_BASE_PATH below and add a public/CNAME = jacquelinesurdell.com.
 on:
   workflow_dispatch:
 
@@ -25,6 +25,8 @@ jobs:
           node-version: 24
       - run: npm ci
       - run: npm run build
+        env:
+          NEXT_PUBLIC_BASE_PATH: /jacquelinesurdell.com
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
