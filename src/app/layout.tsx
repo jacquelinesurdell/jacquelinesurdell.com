@@ -1,10 +1,15 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Jacqueline Surdell",
   description:
     "Jacqueline Surdell is a Chicago artist working in large-scale woven sculpture exploring industry, labor, body, and craft.",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({

@@ -26,14 +26,6 @@ export default function WorkView({ slug }: { slug: string }) {
           <h1 className="work-title">{w.title}</h1>
           <div className="work-meta">
             {[w.year, w.medium, w.dimensions].filter(Boolean).join("\n")}
-            {w.sourceUrl ? (
-              <>
-                {"\n"}
-                <a href={w.sourceUrl} target="_blank" rel="noopener">
-                  jacquelinesurdell.com <span className="arrow">↗</span>
-                </a>
-              </>
-            ) : null}
           </div>
         </div>
 
