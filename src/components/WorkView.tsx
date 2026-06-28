@@ -22,6 +22,16 @@ export default function WorkView({ slug }: { slug: string }) {
     <div className="frame">
       <RailNav />
       <main className="main">
+        {/* top band: prev/next arrows at right (matches reference) */}
+        <div className="work-top">
+          <nav className="arrows">
+            <Link href={`/work/${prev.slug}`} aria-label="Previous">&larr;</Link>
+            <Link href={`/work/${next.slug}`} aria-label="Next">&rarr;</Link>
+          </nav>
+        </div>
+
+        <hr />
+
         <div className="work-head">
           <h1 className="work-title">{w.title}</h1>
           <div className="work-meta">
@@ -55,10 +65,12 @@ export default function WorkView({ slug }: { slug: string }) {
           ) : null}
         </div>
 
-        <div className="work-nav">
-          <Link href={`/work/${prev.slug}`}>&larr; {prev.title}</Link>
+        <div className="work-foot">
           <span className="counter">{i + 1} / {ALL.length}</span>
-          <Link href={`/work/${next.slug}`}>{next.title} &rarr;</Link>
+          <nav className="arrows">
+            <Link href={`/work/${prev.slug}`} aria-label="Previous">&larr;</Link>
+            <Link href={`/work/${next.slug}`} aria-label="Next">&rarr;</Link>
+          </nav>
         </div>
       </main>
     </div>
