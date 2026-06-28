@@ -35,7 +35,11 @@ hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
 .rail{
   position:fixed;top:1rem;right:1rem;width:19%;max-width:300px;z-index:20;
   display:flex;flex-direction:column;align-items:flex-end;text-align:right;
+  max-height:calc(100vh - 2rem);overflow-y:auto;overflow-x:hidden;
+  padding-bottom:1.2rem;
+  scrollbar-width:none;-ms-overflow-style:none;
 }
+.rail::-webkit-scrollbar{width:0;height:0;display:none}
 .rail-name{font-size:1.25rem;font-weight:500;color:var(--ink);line-height:1.2}
 .rail .hr{width:100%;border-top:1px solid var(--line);margin:.7rem 0}
 .rail-all{font-size:.8rem;color:var(--ink-3)}
