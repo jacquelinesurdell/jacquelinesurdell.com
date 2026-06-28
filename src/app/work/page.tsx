@@ -32,7 +32,7 @@ export default function Work() {
               <p className="uppercase tracking-[0.12em] text-[var(--muted-foreground)] mb-5">
                 {label(g.cat)}
               </p>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-10">
+              <div className="flex flex-col gap-y-16">
                 {g.items.map((w) => (
                   <Link key={w.slug} href={`/work/${w.slug}`} className="group block">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
