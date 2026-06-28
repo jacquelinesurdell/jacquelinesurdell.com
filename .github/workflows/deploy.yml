@@ -26,7 +26,10 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
+          # PREVIEW (github.io subpath). At apex go-live: set BASE_PATH to "" and
+          # SITE_URL to https://jacquelinesurdell.com, and add public/CNAME.
           NEXT_PUBLIC_BASE_PATH: /jacquelinesurdell.com
+          NEXT_PUBLIC_SITE_URL: https://jacquelinesurdell.github.io/jacquelinesurdell.com
       - uses: actions/configure-pages@v5
         with:
           enablement: true
