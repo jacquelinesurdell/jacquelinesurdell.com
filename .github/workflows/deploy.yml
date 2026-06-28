@@ -1,8 +1,9 @@
 name: Deploy to GitHub Pages
 
+# Manual-trigger only for now: avoids a broken auto-deploy before the apex
+# custom domain (jacquelinesurdell.com) is configured. Re-add the push trigger
+# at go-live, once Pages + CNAME are set.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
