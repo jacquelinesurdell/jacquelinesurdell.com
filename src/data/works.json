@@ -1,0 +1,566 @@
+[
+  {
+    "slug": "ah-pussy-of-the-sands",
+    "title": "Ah, Pussy, of the Sands",
+    "category": "installation",
+    "images": [
+      "/images/works/ah-pussy-of-the-sands/01.jpg",
+      "/images/works/ah-pussy-of-the-sands/02.jpg",
+      "/images/works/ah-pussy-of-the-sands/03.jpg",
+      "/images/works/ah-pussy-of-the-sands/04.jpg",
+      "/images/works/ah-pussy-of-the-sands/05.jpg",
+      "/images/works/ah-pussy-of-the-sands/06.jpg"
+    ]
+  },
+  {
+    "slug": "installation",
+    "title": "Installation",
+    "category": "installation",
+    "images": [
+      "/images/works/installation/01.jpg",
+      "/images/works/installation/02.jpg",
+      "/images/works/installation/03.jpg",
+      "/images/works/installation/04.jpg"
+    ]
+  },
+  {
+    "slug": "sculpture",
+    "title": "Sculpture",
+    "category": "sculpture",
+    "images": [
+      "/images/works/sculpture/01.jpg",
+      "/images/works/sculpture/02.jpg",
+      "/images/works/sculpture/03.jpg",
+      "/images/works/sculpture/04.jpg",
+      "/images/works/sculpture/05.jpg",
+      "/images/works/sculpture/06.jpg"
+    ]
+  },
+  {
+    "slug": "body-work",
+    "title": "Body Work",
+    "category": "installation",
+    "images": [
+      "/images/works/body-work/01.jpg",
+      "/images/works/body-work/02.jpg",
+      "/images/works/body-work/03.jpg",
+      "/images/works/body-work/04.jpg"
+    ]
+  },
+  {
+    "slug": "dear-william-leonard-pereira",
+    "title": "Dear William Leonard Pereira",
+    "category": "installation",
+    "images": [
+      "/images/works/dear-william-leonard-pereira/01.jpg",
+      "/images/works/dear-william-leonard-pereira/02.jpg",
+      "/images/works/dear-william-leonard-pereira/03.jpg",
+      "/images/works/dear-william-leonard-pereira/04.jpg",
+      "/images/works/dear-william-leonard-pereira/05.jpg",
+      "/images/works/dear-william-leonard-pereira/06.jpg"
+    ]
+  },
+  {
+    "slug": "examination-of-workroom",
+    "title": "Examination of Workroom",
+    "category": "installation",
+    "images": [
+      "/images/works/examination-of-workroom/01.jpg"
+    ]
+  },
+  {
+    "slug": "shuddering-turns-to-sobbing",
+    "title": "Shuddering Turns to Sobbing",
+    "category": "installation",
+    "images": [
+      "/images/works/shuddering-turns-to-sobbing/01.jpg",
+      "/images/works/shuddering-turns-to-sobbing/02.jpg",
+      "/images/works/shuddering-turns-to-sobbing/03.jpg",
+      "/images/works/shuddering-turns-to-sobbing/04.jpg",
+      "/images/works/shuddering-turns-to-sobbing/05.jpg",
+      "/images/works/shuddering-turns-to-sobbing/06.jpg"
+    ]
+  },
+  {
+    "slug": "tectonic-cord",
+    "title": "Tectonic Cord",
+    "category": "installation",
+    "images": [
+      "/images/works/tectonic-cord/01.jpg",
+      "/images/works/tectonic-cord/02.jpg",
+      "/images/works/tectonic-cord/03.jpg"
+    ]
+  },
+  {
+    "slug": "tents",
+    "title": "Tents",
+    "category": "installation",
+    "images": [
+      "/images/works/tents/01.jpg",
+      "/images/works/tents/02.jpg",
+      "/images/works/tents/03.jpg",
+      "/images/works/tents/04.jpg",
+      "/images/works/tents/05.jpg",
+      "/images/works/tents/06.jpg"
+    ]
+  },
+  {
+    "slug": "coaches-award-an-all-relative-color-field",
+    "title": "Coaches Award: An All Relative Color Field",
+    "category": "sculpture",
+    "images": [
+      "/images/works/coaches-award-an-all-relative-color-field/01.jpg",
+      "/images/works/coaches-award-an-all-relative-color-field/02.jpg",
+      "/images/works/coaches-award-an-all-relative-color-field/03.jpg",
+      "/images/works/coaches-award-an-all-relative-color-field/04.jpg",
+      "/images/works/coaches-award-an-all-relative-color-field/05.jpg"
+    ]
+  },
+  {
+    "slug": "how-high-is-too-high",
+    "title": "How High is Too High?",
+    "category": "sculpture",
+    "images": [
+      "/images/works/how-high-is-too-high/01.jpg",
+      "/images/works/how-high-is-too-high/02.jpg",
+      "/images/works/how-high-is-too-high/03.jpg",
+      "/images/works/how-high-is-too-high/04.jpg",
+      "/images/works/how-high-is-too-high/05.jpg"
+    ]
+  },
+  {
+    "slug": "lets-be-stars",
+    "title": "Let's be Stars",
+    "category": "sculpture",
+    "images": [
+      "/images/works/lets-be-stars/01.jpg",
+      "/images/works/lets-be-stars/02.jpg",
+      "/images/works/lets-be-stars/03.jpg",
+      "/images/works/lets-be-stars/04.jpg",
+      "/images/works/lets-be-stars/05.jpg",
+      "/images/works/lets-be-stars/06.jpg"
+    ]
+  },
+  {
+    "slug": "survival-axe-sculpture",
+    "title": "Survival Axe Sculpture",
+    "category": "sculpture",
+    "images": [
+      "/images/works/survival-axe-sculpture/01.jpg",
+      "/images/works/survival-axe-sculpture/02.jpg"
+    ]
+  },
+  {
+    "slug": "untitled-series",
+    "title": "Untitled Series",
+    "category": "sculpture",
+    "images": [
+      "/images/works/untitled-series/01.jpg",
+      "/images/works/untitled-series/02.jpg",
+      "/images/works/untitled-series/03.jpg",
+      "/images/works/untitled-series/04.jpg",
+      "/images/works/untitled-series/05.jpg",
+      "/images/works/untitled-series/06.jpg"
+    ]
+  },
+  {
+    "slug": "human-measurements",
+    "title": "Human Measurements",
+    "category": "works-on-paper",
+    "images": [
+      "/images/works/human-measurements/01.jpg",
+      "/images/works/human-measurements/02.jpg",
+      "/images/works/human-measurements/03.jpg",
+      "/images/works/human-measurements/04.jpg",
+      "/images/works/human-measurements/05.jpg",
+      "/images/works/human-measurements/06.jpg"
+    ]
+  },
+  {
+    "slug": "diplomat-with-without-track-suit",
+    "title": "Diplomat With/Without Track Suit",
+    "category": "photography",
+    "images": [
+      "/images/works/diplomat-with-without-track-suit/01.jpg",
+      "/images/works/diplomat-with-without-track-suit/02.jpg",
+      "/images/works/diplomat-with-without-track-suit/03.jpg",
+      "/images/works/diplomat-with-without-track-suit/04.jpg",
+      "/images/works/diplomat-with-without-track-suit/05.jpg"
+    ]
+  },
+  {
+    "slug": "limbo-suspension",
+    "title": "Limbo Suspension",
+    "category": "photography",
+    "images": [
+      "/images/works/limbo-suspension/01.jpg",
+      "/images/works/limbo-suspension/02.jpg",
+      "/images/works/limbo-suspension/03.jpg",
+      "/images/works/limbo-suspension/04.jpg",
+      "/images/works/limbo-suspension/05.jpg",
+      "/images/works/limbo-suspension/06.jpg"
+    ]
+  },
+  {
+    "slug": "familial-endurance",
+    "title": "Familial Endurance",
+    "category": "performance",
+    "images": []
+  },
+  {
+    "slug": "youre-a-hack",
+    "title": "You're A Hack",
+    "category": "video",
+    "images": []
+  },
+  {
+    "slug": "endurance-of-the-smile",
+    "title": "Endurance Of The Smile",
+    "category": "video",
+    "images": []
+  },
+  {
+    "slug": "ah-pussy-of-the-sands-iteration-iii",
+    "title": "Ah, Pussy, of the Sands, Iteration III",
+    "category": "installation",
+    "images": [
+      "/images/works/ah-pussy-of-the-sands-iteration-iii/01.jpg",
+      "/images/works/ah-pussy-of-the-sands-iteration-iii/02.jpg"
+    ]
+  },
+  {
+    "slug": "kerk-straat-church-street",
+    "title": "Kerk Straat (Church Street)",
+    "category": "installation",
+    "images": [
+      "/images/works/kerk-straat-church-street/01.jpg",
+      "/images/works/kerk-straat-church-street/02.jpg",
+      "/images/works/kerk-straat-church-street/03.jpg",
+      "/images/works/kerk-straat-church-street/04.jpg",
+      "/images/works/kerk-straat-church-street/05.jpg",
+      "/images/works/kerk-straat-church-street/06.jpg"
+    ]
+  },
+  {
+    "slug": "urban-contours",
+    "title": "Urban Contours",
+    "category": "installation",
+    "images": [
+      "/images/works/urban-contours/01.jpg",
+      "/images/works/urban-contours/02.jpg",
+      "/images/works/urban-contours/03.jpg",
+      "/images/works/urban-contours/04.jpg",
+      "/images/works/urban-contours/05.jpg"
+    ]
+  },
+  {
+    "slug": "kerk-straat",
+    "title": "Kerk Straat",
+    "category": "performance",
+    "images": [
+      "/images/works/kerk-straat/01.jpg",
+      "/images/works/kerk-straat/02.jpg",
+      "/images/works/kerk-straat/03.jpg",
+      "/images/works/kerk-straat/04.jpg",
+      "/images/works/kerk-straat/05.jpg",
+      "/images/works/kerk-straat/06.jpg"
+    ]
+  },
+  {
+    "slug": "find-the-open-space",
+    "title": "Find the Open Space",
+    "category": "sculpture",
+    "images": [
+      "/images/works/find-the-open-space/01.jpg"
+    ]
+  },
+  {
+    "slug": "a-heavy-dew",
+    "title": "A Heavy Dew",
+    "category": "sculpture",
+    "images": [
+      "/images/works/a-heavy-dew/01.jpg",
+      "/images/works/a-heavy-dew/02.jpg"
+    ]
+  },
+  {
+    "slug": "delicate",
+    "title": "Delicate",
+    "category": "sculpture",
+    "images": [
+      "/images/works/delicate/01.jpg",
+      "/images/works/delicate/02.jpg"
+    ]
+  },
+  {
+    "slug": "destruction",
+    "title": "Destruction",
+    "category": "sculpture",
+    "images": [
+      "/images/works/destruction/01.jpg",
+      "/images/works/destruction/02.jpg"
+    ]
+  },
+  {
+    "slug": "melancholy-of-always",
+    "title": "Melancholy of Always",
+    "category": "sculpture",
+    "images": [
+      "/images/works/melancholy-of-always/01.jpg",
+      "/images/works/melancholy-of-always/02.jpg"
+    ]
+  },
+  {
+    "slug": "pale-nightmares",
+    "title": "Pale Nightmares",
+    "category": "sculpture",
+    "images": [
+      "/images/works/pale-nightmares/01.jpg",
+      "/images/works/pale-nightmares/02.jpg",
+      "/images/works/pale-nightmares/03.jpg",
+      "/images/works/pale-nightmares/04.jpg"
+    ]
+  },
+  {
+    "slug": "scylla-series",
+    "title": "Scylla Series",
+    "category": "sculpture",
+    "images": [
+      "/images/works/scylla-series/01.jpg",
+      "/images/works/scylla-series/02.jpg",
+      "/images/works/scylla-series/03.jpg",
+      "/images/works/scylla-series/04.jpg",
+      "/images/works/scylla-series/05.jpg",
+      "/images/works/scylla-series/06.jpg"
+    ]
+  },
+  {
+    "slug": "straight-laced",
+    "title": "Straight Laced",
+    "category": "installation",
+    "images": [
+      "/images/works/straight-laced/01.jpg",
+      "/images/works/straight-laced/02.jpg",
+      "/images/works/straight-laced/03.jpg",
+      "/images/works/straight-laced/04.jpg",
+      "/images/works/straight-laced/05.jpg",
+      "/images/works/straight-laced/06.jpg"
+    ]
+  },
+  {
+    "slug": "visions-of-medea",
+    "title": "Visions of Medea",
+    "category": "sculpture",
+    "images": [
+      "/images/works/visions-of-medea/01.jpg",
+      "/images/works/visions-of-medea/02.jpg",
+      "/images/works/visions-of-medea/03.jpg",
+      "/images/works/visions-of-medea/04.jpg"
+    ]
+  },
+  {
+    "slug": "we-will-win-our-banner-in-the-sky",
+    "title": "We Will Win / Our Banner in the Sky",
+    "category": "sculpture",
+    "images": [
+      "/images/works/we-will-win-our-banner-in-the-sky/01.jpg",
+      "/images/works/we-will-win-our-banner-in-the-sky/02.jpg",
+      "/images/works/we-will-win-our-banner-in-the-sky/03.jpg",
+      "/images/works/we-will-win-our-banner-in-the-sky/04.jpg",
+      "/images/works/we-will-win-our-banner-in-the-sky/05.jpg",
+      "/images/works/we-will-win-our-banner-in-the-sky/06.jpg"
+    ]
+  },
+  {
+    "slug": "untitled-noir-series",
+    "title": "Untitled Noir Series",
+    "category": "sculpture",
+    "images": [
+      "/images/works/untitled-noir-series/01.jpg",
+      "/images/works/untitled-noir-series/02.jpg",
+      "/images/works/untitled-noir-series/03.jpg",
+      "/images/works/untitled-noir-series/04.jpg",
+      "/images/works/untitled-noir-series/05.jpg",
+      "/images/works/untitled-noir-series/06.jpg"
+    ]
+  },
+  {
+    "slug": "her",
+    "title": "[her]",
+    "category": "sculpture",
+    "images": [
+      "/images/works/her/01.jpg",
+      "/images/works/her/02.jpg",
+      "/images/works/her/03.jpg",
+      "/images/works/her/04.jpg",
+      "/images/works/her/05.jpg"
+    ]
+  },
+  {
+    "slug": "scylla-iv",
+    "title": "Scylla iv",
+    "category": "sculpture",
+    "images": [
+      "/images/works/scylla-iv/01.jpg",
+      "/images/works/scylla-iv/02.jpg",
+      "/images/works/scylla-iv/03.jpg"
+    ]
+  },
+  {
+    "slug": "study-of-red-ropes",
+    "title": "Study of Red Rope",
+    "category": "sculpture",
+    "images": [
+      "/images/works/study-of-red-ropes/01.jpg",
+      "/images/works/study-of-red-ropes/02.jpg",
+      "/images/works/study-of-red-ropes/03.jpg",
+      "/images/works/study-of-red-ropes/04.jpg"
+    ]
+  },
+  {
+    "slug": "charybdis-iii",
+    "title": "Charybdis III",
+    "category": "sculpture",
+    "images": [
+      "/images/works/charybdis-iii/01.jpg",
+      "/images/works/charybdis-iii/02.jpg",
+      "/images/works/charybdis-iii/03.jpg",
+      "/images/works/charybdis-iii/04.jpg"
+    ]
+  },
+  {
+    "slug": "cotopaxi-with-cotton-candy-skies",
+    "title": "Cotopaxi with Cotton Candy Skies",
+    "category": "sculpture",
+    "images": [
+      "/images/works/cotopaxi-with-cotton-candy-skies/01.jpg",
+      "/images/works/cotopaxi-with-cotton-candy-skies/02.jpg",
+      "/images/works/cotopaxi-with-cotton-candy-skies/03.jpg",
+      "/images/works/cotopaxi-with-cotton-candy-skies/04.jpg",
+      "/images/works/cotopaxi-with-cotton-candy-skies/05.jpg",
+      "/images/works/cotopaxi-with-cotton-candy-skies/06.jpg"
+    ]
+  },
+  {
+    "slug": "desire-to-ascend-our",
+    "title": "Desire to Ascend (our)",
+    "category": "sculpture",
+    "images": [
+      "/images/works/desire-to-ascend-our/01.jpg",
+      "/images/works/desire-to-ascend-our/02.jpg",
+      "/images/works/desire-to-ascend-our/03.jpg",
+      "/images/works/desire-to-ascend-our/04.jpg",
+      "/images/works/desire-to-ascend-our/05.jpg",
+      "/images/works/desire-to-ascend-our/06.jpg"
+    ]
+  },
+  {
+    "slug": "earth-licker",
+    "title": "Earth Licker",
+    "category": "sculpture",
+    "images": [
+      "/images/works/earth-licker/01.jpg",
+      "/images/works/earth-licker/02.jpg",
+      "/images/works/earth-licker/03.jpg",
+      "/images/works/earth-licker/04.jpg",
+      "/images/works/earth-licker/05.jpg",
+      "/images/works/earth-licker/06.jpg"
+    ]
+  },
+  {
+    "slug": "mist-in-lavender-series",
+    "title": "Mist in Lavender Series",
+    "category": "sculpture",
+    "images": [
+      "/images/works/mist-in-lavender-series/01.jpg",
+      "/images/works/mist-in-lavender-series/02.jpg",
+      "/images/works/mist-in-lavender-series/03.jpg",
+      "/images/works/mist-in-lavender-series/04.jpg",
+      "/images/works/mist-in-lavender-series/05.jpg"
+    ]
+  },
+  {
+    "slug": "not-one-but-not-two-either-blue",
+    "title": "Not one but not two either (Blue)",
+    "category": "sculpture",
+    "images": [
+      "/images/works/not-one-but-not-two-either-blue/01.jpg",
+      "/images/works/not-one-but-not-two-either-blue/02.jpg"
+    ]
+  },
+  {
+    "slug": "not-one-but-not-two-either-red",
+    "title": "Not one but not two either (red)",
+    "category": "sculpture",
+    "images": [
+      "/images/works/not-one-but-not-two-either-red/01.jpg",
+      "/images/works/not-one-but-not-two-either-red/02.jpg",
+      "/images/works/not-one-but-not-two-either-red/03.jpg",
+      "/images/works/not-one-but-not-two-either-red/04.jpg",
+      "/images/works/not-one-but-not-two-either-red/05.jpg",
+      "/images/works/not-one-but-not-two-either-red/06.jpg"
+    ]
+  },
+  {
+    "slug": "reliquary-7",
+    "title": "Reliquary #7",
+    "category": "sculpture",
+    "images": [
+      "/images/works/reliquary-7/01.jpg",
+      "/images/works/reliquary-7/02.jpg",
+      "/images/works/reliquary-7/03.jpg",
+      "/images/works/reliquary-7/04.jpg",
+      "/images/works/reliquary-7/05.jpg",
+      "/images/works/reliquary-7/06.jpg"
+    ]
+  },
+  {
+    "slug": "votive-series",
+    "title": "Votive Series",
+    "category": "sculpture",
+    "images": [
+      "/images/works/votive-series/01.jpg",
+      "/images/works/votive-series/02.jpg",
+      "/images/works/votive-series/03.jpg",
+      "/images/works/votive-series/04.jpg",
+      "/images/works/votive-series/05.jpg",
+      "/images/works/votive-series/06.jpg"
+    ]
+  },
+  {
+    "slug": "untitled-smoke",
+    "title": "Untitled [Smoke]",
+    "category": "sculpture",
+    "images": [
+      "/images/works/untitled-smoke/01.jpg",
+      "/images/works/untitled-smoke/02.jpg",
+      "/images/works/untitled-smoke/03.jpg"
+    ]
+  },
+  {
+    "slug": "lil-bebs",
+    "title": "lil ebs",
+    "category": "sculpture",
+    "images": [
+      "/images/works/lil-bebs/01.jpg",
+      "/images/works/lil-bebs/02.jpg",
+      "/images/works/lil-bebs/03.jpg",
+      "/images/works/lil-bebs/04.jpg",
+      "/images/works/lil-bebs/05.jpg",
+      "/images/works/lil-bebs/06.jpg"
+    ]
+  },
+  {
+    "slug": "nightscapes",
+    "title": "Nightscapes",
+    "category": "sculpture",
+    "images": [
+      "/images/works/nightscapes/01.jpg",
+      "/images/works/nightscapes/02.jpg",
+      "/images/works/nightscapes/03.jpg",
+      "/images/works/nightscapes/04.jpg",
+      "/images/works/nightscapes/05.jpg",
+      "/images/works/nightscapes/06.jpg"
+    ]
+  }
+]
