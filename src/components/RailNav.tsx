@@ -59,13 +59,17 @@ export default function RailNav() {
 
   return (
     <>
-      {/* Desktop right rail */}
+      {/* Desktop right rail: static header (name + rule) + scrolling list */}
       <nav className="rail">
-        <Link href="/" className="rail-name">
-          Jacqueline Surdell
-        </Link>
-        <div className="hr" />
-        <Groups />
+        <div className="rail-top">
+          <Link href="/" className="rail-name">
+            Jacqueline Surdell
+          </Link>
+          <div className="hr" />
+        </div>
+        <div className="rail-scroll">
+          <Groups />
+        </div>
       </nav>
 
       {/* Mobile top bar + slide-down index */}
