@@ -1,106 +1,233 @@
 {
- "about": "Jacqueline Surdell was born and raised in Chicago, IL. Now the third largest city in the US (and the largest in the Midwest), Chicago’s history of industry, labor, and midwest grit plays a significant role in Surdell’s work. Surdell’s Polish grandfather worked in the steel mills in Hegewisch (a neighborhood on the south side of Chicago), while her Dutch grandmother is a landscape painter. The dichotomy established between manual labor and conceptual labor influenced Surdell at an early age. Listening to stories of the mills — the operation of massive blast furnaces, chaotic melting pits, and subsequent injuries, was complimented with memories of frolicking in wildflower fields while her grandmother painted the colorful landscape. The combination resulted in an early-developed arts view where life and work, body and labor, industry and craft, and the high-brow traditions of plein-air landscape painting, merged. Those close familial memories influence Surdell’s complex terrain between art-making, body, sanctuary, and spirit.\n\nFrom childhood through college, Surdell was a competitive athlete. She approaches her studio practice with a disciplined resolve forged in the intense, repetitive realm of competitive sports. Her years as an athlete primed her interest in repetitive, laborious, craft-based practices. Building her wall sculptures demands full body action, employing her body as a weaving shuttle and her hand as a brushstroke. Moving in and out of the warp, with pounds and yards of industrial rope on self-made mural sized looms. Although her material is fiber, her approach is painterly, manipulating her medium with knotted layers, reducing the material to open the structure, and draping to create volume and texture.\n\nSurdell approaches her studio practice with the meticulous precision of craft and the unbridled spontaneity of contemporary painting. She reimagines the woven canvas as a space of undulation and growth. As the expanded histories of painting materialize in her work as content, simultaneously, swollen tendrils and textures of bound rope deny illusions of the classically painted picture plane. The works actively work to bridge the division between painting and sculpture. In this way, her work calls into association other binary categorizations such as rigid and collapsed, construction techniques coded as masculine or feminine, and ontological spaces between body and sculpture. Her energetic and materially grounded practice brings to attention the tools, environments, and actions that contain and display performances of labor, history, and power.\n\nSurdell lives and works in Chicago, IL. She received her MFA in Fiber and Material Studies from the School of the Art Institute of Chicago in 2017; in 2015, she received her BFA from Occidental College in Los Angeles.",
- "cv": {
-  "education": [
-   "MFA, Fiber and Material Studies, School of the Art Institute of Chicago, 2017",
-   "BFA, Occidental College, Los Angeles, 2015"
+  "about": "Jacqueline Surdell constructs landscapes. Through weaving, knotting, and sculptural construction, she creates tactile reliefs that blur the boundaries between painting, sculpture, and architecture. Built from industrial cordage and steel, her works translate the language of landscape painting into physical form, investigating how landscapes are shaped, inhabited, remembered, and transformed. Her practice considers the ways humans attempt to preserve, engineer, and mythologize the natural world, revealing landscape as both a record of lived experience and an active participant in cultural and ecological change.\n\nDrawing from the histories of landscape painting, material culture, and craft, Surdell examines forests, waterways, and constructed environments as living archives, where traces of devotion, labor, conflict, grief, and environmental transformation become embedded over time. Her sculptures oscillate between abstraction and representation, inviting viewers to encounter landscape as a physical terrain shaped by accumulation, tension, memory, and time.\n\nSurdell has presented solo exhibitions at SECRIST | BEACH (Chicago), Gallery COMMON (Tokyo), Abroms-Engel Institute for the Visual Arts (Birmingham, AL), Louis Buhl & Co. (Detroit), Devening Projects (Chicago), and PSU Gallery (San Francisco). Her work has also been exhibited at The Hole (New York), BravinLee Programs (New York), the Peeler Art Center at DePauw University, and Library Street Collective (Detroit). In 2025, she presented a solo booth with SECRIST | BEACH at The Armory Show, where her work was featured in The New York Times.\n\nSurdell is the recipient of a DCASE Individual Artists Program Grant and a Pollock-Krasner Foundation Fellowship in Sculpture supporting a residency at the Vermont Studio Center. In 2026, she was selected for Silver Art Projects at the World Trade Center in New York. Her work is held in private and corporate collections, including The Peninsula Chicago.",
+  "cv": {
+    "education": [
+      "2017 MFA, Fiber and Material Studies, School of the Art Institute of Chicago, Chicago, IL",
+      "2015 BA, Occidental College, Major in Studio Art with Sculpture focus; Graduated with Distinction, Cum Laude, Los Angeles, CA"
+    ],
+    "solo_exhibitions": [
+      "2025 The Conversion: Rings, Rupture, and the Forest Archive, solo, SECRIST | BEACH, Chicago, IL",
+      "2025 The Armory Show, solo booth, SECRIST | BEACH, New York, NY",
+      "2024 Bliss!, solo, Gallery COMMON, Tokyo, Japan",
+      "2023 Adoration Garden, solo, Abroms-Engel Institute for the Visual Arts, Birmingham, AL",
+      "2023 Lil Bebs, solo, Louis Buhl & Co., Detroit, MI",
+      "2022 Score!, solo, Devening Projects, Chicago, IL",
+      "2022 Asymmetry, two-person, Library Street Collective, Detroit, MI",
+      "2021 I started from a place of embracing that which I cannot control, solo, PSG, San Francisco, CA",
+      "2019 Straight Laced, solo, University of Wisconsin Parkside, Kenosha, WI",
+      "2018 Participation Trophies, solo, Apparatus Projects, Chicago, IL"
+    ],
+    "group_exhibitions": [
+      "2026 Confluence, curated by Chanelle Lacy and Dara Pizzuti, The Peninsula Chicago, Chicago, IL",
+      "2025-2026 Thread Count, curated by Charlotte Grüssing, The Hole, New York, NY",
+      "2025 The Golden Thread 2: A Fiber Arts Exhibition, BravinLee Programs, New York, NY",
+      "2024 Beyond: Tapestry Expanded, curated by Erica Warren, Peeler Art Center at DePauw University, IN",
+      "2024 Making Time, SECRIST | BEACH, Chicago, IL",
+      "2021-2024 A Beautiful Mess: Weavers and Knotters of the Vanguard, Bedford Gallery, San Francisco, CA [traveling: Montgomery Museum of Fine Arts, Sonoma State University, Huntsville Museum of Art, Sarasota Art Museum]",
+      "2022 Toolbox@Twenty, Hyde Park Art Center, Chicago, IL",
+      "2021 The Sowers, Fondation Thalie, Brussels, Belgium",
+      "2020 This Is America | Art USA Today, Kunsthal KAdE, Amersfoort, Netherlands",
+      "2020 SEAMS, Portrait Society Gallery, Milwaukee, WI",
+      "2019 Cinch, Antenna.Works, New Orleans, LA",
+      "2018 Hand-Eye Coordination: Sports in Art, Western Exhibitions, Chicago, IL",
+      "2017 Biennial 29, South Bend Museum of Art, South Bend, IN",
+      "2017 MFA Thesis Exhibition, Sullivan Gallery, School of the Art Institute of Chicago, Chicago, IL",
+      "2015 Honors BFA Thesis, Installation, Administrative Center, Occidental College, Los Angeles, CA",
+      "2015 Bachelor of Fine Arts Thesis Exhibition, Weingart Gallery, Occidental College, Los Angeles, CA"
+    ],
+    "residencies_awards": [
+      "2027 Sculpture Space, Utica, NY",
+      "2026-2027 Silver Arts, New York, NY",
+      "2026 Fountainhead, Miami, FL",
+      "2025 DCASE Individual Artist Grant, Chicago, IL",
+      "2025 Millay Arts, Austerlitz, NY",
+      "2023 Artadia semi-finalist, Chicago Awards, Brooklyn, NY",
+      "2022 Vermont Studio Center, Pollock-Krasner Foundation Fellowship in Sculpture, Johnson, VT",
+      "2019 STUDIO Artist-In-Residence, John Michael Kohler Arts Center, Sheboygan, WI",
+      "2018 Ragdale Foundation, Lake Forest, IL",
+      "2018 ACRE, Steuben, WI",
+      "2017-2018 Hatch Projects Resident, Chicago Artist Coalition, Chicago, IL",
+      "2017, 2016 Luce Scholars Fellowship, Semi-Finalist, Los Angeles, CA"
+    ],
+    "art_fairs": [
+      "2026 EXPO Chicago, SECRIST | BEACH, Chicago, IL",
+      "2025 The Armory Show, solo booth, SECRIST | BEACH, New York, NY",
+      "2025 EXPO Chicago, SECRIST | BEACH, Chicago, IL",
+      "2024 Design Miami.Basel, Mindy Solomon Gallery, Miami Beach, FL",
+      "2024 EXPO Chicago, SECRIST | BEACH, Chicago, IL",
+      "2024 EXPO Chicago, Library Street Collective, Chicago, IL",
+      "2023 UNTITLED, Library Street Collective, Miami Beach, FL",
+      "2023 Threshold, solo booth, East/East, Gallery COMMON, Tokyo, Japan"
+    ],
+    "commissions": [
+      "2029 (forthcoming) Art in Embassies Commission, U.S. Embassy, Ulaanbaatar, Mongolia. Curated by Welmoed Laanstra, Senior Curator, Art in Embassies, U.S. Department of State.",
+      "2023 Untitled XVI: Overlooking the Water, private commission, San Francisco, CA"
+    ],
+    "collections": [
+      "Joan Flash Artist Book Collection, Chicago, IL",
+      "Fondation Thalie, Brussels, Belgium [Untitled IIV: Gully in the Mountains]"
+    ],
+    "lectures": [
+      "2025 Panelist, The Conversion: Rings, Rupture, and the Forest Archive, SECRIST | BEACH, Chicago, IL",
+      "2024 Guest Panelist, Making Time, SECRIST | BEACH, Chicago, IL",
+      "2024 Guest Panelist, Textile Art Across Generations, Madison Square Park Conservancy, New York",
+      "2024 Visiting Artist, Lecture and Studio visits, Vermont Studio Center, Johnson, VT",
+      "2023 Visiting Artist Lecture, Abroms-Engel Institute of Visual Arts, Birmingham, AL",
+      "2023 Visiting Artist Lecture, Vermont Studio Center, Johnson, VT [virtual]",
+      "2022 Visiting Artist Lecture, Birmingham Museum of Art, Birmingham, AL",
+      "2019 Visiting Artist Lecture & Workshop, John Michael Kohler Arts Center, Sheboygan, WI",
+      "2017 Visiting Artist Lecture, Jefferson Pinder, Contemporary Practices, School of the Art Institute of Chicago",
+      "2016 Artist Talk: \"Tempering the Chaos of My Thoughts and Practice with Some, or Little, Control,\" School of the Art Institute of Chicago, Chicago, IL",
+      "2015 Artist Talk: \"Embracing the Old to Look for New: Searching for Modernist Subversion through Idealist Tactics,\" School of the Art Institute of Chicago, Chicago, IL"
+    ],
+    "press": [
+      {
+        "year": "2025",
+        "title": "Daunted by the Sprawling Armory Show? Try These 13 Certified Winners",
+        "publication": "The New York Times",
+        "author": "Will Heinrich",
+        "url": "https://www.nytimes.com/2025/09/04/arts/design/armory-show-javits-center.html"
+      },
+      {
+        "year": "2025",
+        "title": "Jacqueline Surdell: An Artist's Voice Helps Scale Her Art",
+        "publication": "Chicago Gallery News",
+        "author": "Alison Reilly",
+        "url": "https://www.chicagogallerynews.com/articles/jacqueline-surdell-an-artists-voice-helps-scale-her-art"
+      },
+      {
+        "year": "2025",
+        "title": "How Textiles Weave Together the Cycle of Life",
+        "publication": "Hyperallergic",
+        "author": "Lori Waxman",
+        "url": "https://hyperallergic.com/how-textiles-weave-together-the-cycle-of-life/"
+      },
+      {
+        "year": "2025",
+        "title": "The Best Booths at the 2025 Armory Show, From Imagined Queer Bars to a Soothing Sound Bath",
+        "publication": "ARTnews",
+        "author": "Maximilíano Durón",
+        "url": "https://www.artnews.com/list/art-news/market/armory-show-2025-best-booths-1234750845/victoria-idongesit-udondian-at-ko/"
+      },
+      {
+        "year": "2025",
+        "title": "Textile Fine Art: Conversations with Artists Creating by Hand",
+        "publication": "Book",
+        "author": "Helen Adams",
+        "url": ""
+      },
+      {
+        "year": "2024",
+        "title": "LVL3 Artist of the Week",
+        "publication": "LVL3",
+        "author": "",
+        "url": "https://lvl3official.com/jacqueline-surdell/"
+      },
+      {
+        "year": "2023",
+        "title": "Jacqueline Surdell: Focus",
+        "publication": "Artemorbida Textile Arts Magazine",
+        "author": "Maria Rosaria Roseo, trans. Marina Dlacic",
+        "url": ""
+      },
+      {
+        "year": "2023",
+        "title": "Leveling Up: A New Generation of Women Is Putting Textile Art Back on the Map",
+        "publication": "Sotheby's International Realty",
+        "author": "Emma Crichton-Miller",
+        "url": "https://www.sothebysrealty.com/reside/leveling-up-march2023"
+      },
+      {
+        "year": "2023",
+        "title": "What is a good job?",
+        "publication": "Popeye Magazine",
+        "author": "Shoko Yoshida",
+        "url": ""
+      },
+      {
+        "year": "2022",
+        "title": "Best Chicago art exhibitions of 2022",
+        "publication": "Chicago Tribune",
+        "author": "Lori Waxman",
+        "url": "https://www.chicagotribune.com/entertainment/museums/ct-ent-best-chicago-art-year-2022-20221208-zkgczewo3fhz3ljeroleprm3ba-story.html"
+      },
+      {
+        "year": "2022",
+        "title": "Review of Score! at Devening Projects",
+        "publication": "Dovetail Magazine",
+        "author": "Kate Mothes",
+        "url": "https://dovetailmag.com/jacqueline-surdell-score/"
+      },
+      {
+        "year": "2022",
+        "title": "Review of Asymmetry at Library Street Collective",
+        "publication": "Detroit Art Review",
+        "author": "K.A. Letts",
+        "url": "https://detroitartreview.com/2022/04/asymmetry-library-street-collective/"
+      },
+      {
+        "year": "2021",
+        "title": "Jacqueline Surdell: Paradoxical Processes",
+        "publication": "TLmag 35 Extended: Tactile/Textile/Texture",
+        "author": "Zeniya Vreugdenhil",
+        "url": "https://tlmagazine.com/jacqueline-surdell-paradoxical-process/"
+      },
+      {
+        "year": "2020",
+        "title": "SEAMS Unfolds in Many Directions at Portrait Society Exhibit",
+        "publication": "Shepherd Express",
+        "author": "Shane McAdams",
+        "url": "https://shepherdexpress.com/culture/visual-art/seams-unfolds-in-many-directions-at-portrait-society-exhibit/"
+      },
+      {
+        "year": "2020",
+        "title": "Jacqueline Surdell: Weaving Together the Unlikely",
+        "publication": "Create! Magazine",
+        "author": "Christina Nafziger",
+        "url": ""
+      },
+      {
+        "year": "2018",
+        "title": "The View from the Bleachers: A Review of Hand-Eye Coordination: Sports and Art",
+        "publication": "Newcity",
+        "author": "Luke Fidler",
+        "url": "https://art.newcity.com/2018/01/30/the-view-from-the-bleachers-a-review-of-hand-eye-coordination-sports-and-art-at-western-exhibitions/"
+      },
+      {
+        "year": "2017",
+        "title": "Biennial 29, South Bend Museum of Art shows diversity of Midwestern art",
+        "publication": "South Bend Tribune",
+        "author": "Becky Malewitz",
+        "url": ""
+      },
+      {
+        "year": "2015",
+        "title": "Sculptural Wall Hangings by Jacqueline Surdell",
+        "publication": "Design Milk",
+        "author": "Jaime Derringer",
+        "url": "https://design-milk.com/sculptural-wall-hangings-jacqueline-surdell/"
+      }
+    ]
+  },
+  "contact": {
+    "email": "studio@jacquelinesurdell.com",
+    "instagram": "https://www.instagram.com/jacquelinesurdell/",
+    "tumblr": "https://jacquelinesurdellthings.tumblr.com/",
+    "website": "https://www.jacquelinesurdell.com"
+  },
+  "categories": [
+    {
+      "key": "exhibition",
+      "label": "Exhibitions"
+    },
+    {
+      "key": "installation",
+      "label": "Installations"
+    },
+    {
+      "key": "sculpture",
+      "label": "Select Works"
+    }
   ],
-  "projects_exhibitions": [
-   "PROJECTS",
-   "Threshold",
-   "Adoration Garden",
-   "Asymmetry",
-   "Straight Laced",
-   "Lil bebs",
-   "Spoken For",
-   "Score!",
-   "I started from a place of embracing that which I can not control"
-  ],
-  "press": [
-   "2023 Press",
-   "Art Review",
-   "Winners announced for Chicago Artadia Awards 2023",
-   "April 203",
-   "POPEYE Magazine",
-   "April 2023",
-   "sotheby’s realty",
-   "Leveling Up — A new generation of women is putting textile art back on the map",
-   "March 2023",
-   "2022 Press",
-   "Numéro Magazine",
-   "Au Luxembourg, l'art contemporain prend son envol",
-   "Chicago Tribune",
-   "BEST OF 2022 ART EXHIBITIONS ‘Tea, Torture & Reparations’ at DePaul, an outdoor ‘Flourish’ and a big year for the Cultural Center",
-   "December 2022",
-   "Detroit Art Review",
-   "Asymmetry @ Library Street Collective",
-   "April 2022",
-   "The Design Edit",
-   "An interview with Jacqueline Surdell",
-   "March 2022",
-   "DOVETAIL MAGAZINE",
-   "Second Skins Jacqueline Surdell and feminine power",
-   "Textiel Plus Magazine",
-   "Powerlady",
-   "2021 Exhibitions + Press",
-   "TL Magazine",
-   "Jacqueline Surdell: Paradoxical Process May 2021",
-   "Patricia Sweetow Gallery",
-   "Solo Exhibition at Patricia Sweetow Gallery June 5 – August 14, 2021",
-   "Bedford Gallery",
-   "A Beautiful Mess: Weavers And Knotters Of The Vanguard February 26 - June 13, 2021",
-   "2020 Exhibitions + Press",
-   "kunsthalkade",
-   "This is America: Art USA Today September 26, 2020 - January 03, 2021",
-   "NRC Review",
-   "This is America: Art USA Today September 26, 2020 - January 03, 2021",
-   "Portrait Society Gallery",
-   "SEAMS: Contemporary Textile Artists September 25, 2020 - November 28, 2020",
-   "shepherd Express Review",
-   "SEAMS: Contemporary Textile Artists September 25, 2020 - November 28, 2020",
-   "Books + Publications",
-   "Second to none",
-   "Second to None,” a print book containing 27 original interviews with Chicago's leading female founders, is a celebration of Chicago's next generation of female trailblazers who are making waves, building community, and breaking glass ceilings.",
-   "2019 Press",
-   "Create! Magazine Feature/Exhibition Review",
-   "Crafted Illusions"
-  ]
- },
- "contact": {
-  "email": "jacquelinesurdell@gmail.com",
-  "instagram": "https://www.instagram.com/jacquelinesurdell/",
-  "twitter": "https://twitter.com/jaxsurdell",
-  "tumblr": "https://jacquelinesurdellthings.tumblr.com/",
-  "website": "https://www.jacquelinesurdell.com"
- },
- "categories": [
-  {
-   "key": "exhibition",
-   "label": "Exhibitions"
-  },
-  {
-   "key": "installation",
-   "label": "Installation"
-  },
-  {
-   "key": "sculpture",
-   "label": "Sculpture"
-  },
-  {
-   "key": "photography",
-   "label": "Photography"
-  },
-  {
-   "key": "works-on-paper",
-   "label": "Works on Paper"
-  },
-  {
-   "key": "video",
-   "label": "Video"
-  },
-  {
-   "key": "performance",
-   "label": "Performance"
-  }
- ]
+  "cvPdf": "/JacquelineSurdell-CV.pdf"
 }

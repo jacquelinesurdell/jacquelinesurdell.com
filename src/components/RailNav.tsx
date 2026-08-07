@@ -6,15 +6,17 @@ import { usePathname } from "next/navigation";
 import works from "@/data/works.json";
 import site from "@/data/site.json";
 
-type Work = { slug: string; title: string; category: string };
+type Work = { slug: string; title: string; category: string; featured?: boolean };
 type Cat = { key: string; label: string };
 
 export default function RailNav() {
   const path = usePathname();
   const [open, setOpen] = useState(false);
   const cats = site.categories as Cat[];
+  // Only the featured cut appears in navigation. The rest stay in the data so
+  // nothing is lost, but the site leads with the last five years of work.
   const byCat = (key: string) =>
-    (works as Work[]).filter((w) => w.category === key);
+    (works as Work[]).filter((w) => w.category === key && w.featured);
   const active = (href: string) => (path === href ? " active" : "");
 
   const Groups = () => (
@@ -44,13 +46,13 @@ export default function RailNav() {
         );
       })}
       <div className="rail-group">
-        <div className="rail-cat">About</div>
+        <div className="rail-cat">Information</div>
         <div className="rail-items">
-          <Link href="/bio-cv" className={`rail-link${active("/bio-cv")}`} onClick={() => setOpen(false)}>
-            Bio / CV
+          <Link href="/bio" className={`rail-link${active("/bio")}`} onClick={() => setOpen(false)}>
+            Bio
           </Link>
-          <Link href="/bio-cv" className={`rail-link${active("/bio-cv")}`} onClick={() => setOpen(false)}>
-            Contact
+          <Link href="/texts" className={`rail-link${active("/texts")}`} onClick={() => setOpen(false)}>
+            Texts
           </Link>
         </div>
       </div>
@@ -62,7 +64,8 @@ export default function RailNav() {
       {/* Desktop right rail: static header (name + rule) + scrolling list */}
       <nav className="rail">
         <div className="rail-top">
-          <Link href="/" className="rail-name">
+          {/* The brief: clicking the name always returns to the main All page. */}
+          <Link href="/all" className="rail-name">
             Jacqueline Surdell
           </Link>
           <div className="hr" />
@@ -74,7 +77,7 @@ export default function RailNav() {
 
       {/* Mobile top bar + slide-down index */}
       <div className="mbar">
-        <Link href="/" className="mbar-name" onClick={() => setOpen(false)}>
+        <Link href="/all" className="mbar-name" onClick={() => setOpen(false)}>
           Jacqueline Surdell
         </Link>
         <button

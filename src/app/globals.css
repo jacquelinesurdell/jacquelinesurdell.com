@@ -131,3 +131,66 @@ hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
 .cv-block .yr{color:var(--ink-4);margin-right:.5rem}
 .contact-links a{display:block;font-size:.9rem;line-height:1.9}
 .contact-links a:hover{text-decoration:underline}
+
+/* --- Bio page: bio spans half the column, right side reserved for video --- */
+.bio-half {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3.4rem;
+  align-items: start;
+}
+.bio-aside {
+  min-height: 1px;
+}
+.cv-download {
+  margin-top: 2rem;
+}
+.cv-download a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.28);
+}
+
+/* --- Texts page --- */
+.texts-intro {
+  max-width: 46ch;
+  color: rgba(0, 0, 0, 0.55);
+  margin: 0 0 2.6rem;
+}
+.texts-year {
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  gap: 1.4rem;
+  padding: 1.1rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.14);
+}
+.texts-year-label {
+  color: rgba(0, 0, 0, 0.45);
+}
+.texts-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.texts-list li {
+  margin-bottom: 0.9rem;
+  max-width: 62ch;
+}
+.texts-list a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.24);
+}
+.texts-meta {
+  display: block;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 800px) {
+  .bio-half {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .texts-year {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+}

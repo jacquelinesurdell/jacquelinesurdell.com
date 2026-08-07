@@ -1,1060 +1,2049 @@
 [
- {
-  "slug": "asymmetry",
-  "title": "Asymmetry",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/asymmetry/01.jpg",
-   "/media/asymmetry/02.jpg",
-   "/media/asymmetry/03.jpg",
-   "/media/asymmetry/04.jpg",
-   "/media/asymmetry/05.jpg",
-   "/media/asymmetry/06.jpg",
-   "/media/asymmetry/07.jpg",
-   "/media/asymmetry/08.jpg",
-   "/media/asymmetry/09.jpg",
-   "/media/asymmetry/10.jpg",
-   "/media/asymmetry/11.jpg",
-   "/media/asymmetry/12.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/asymmetry"
- },
- {
-  "slug": "i-started-from-a-place-of-embracing-that-which-i-can-not-control",
-  "title": "I Started from a Place of Embracing that Which I Can Not Control",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/01.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/02.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/03.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/04.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/05.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/06.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/07.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/08.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/09.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/10.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/11.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/12.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/13.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/14.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/15.jpg",
-   "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/16.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/i-started-from-a-place-of-embracing-that-which-i-can-not-control"
- },
- {
-  "slug": "score",
-  "title": "Score!",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/score/01.jpg",
-   "/media/score/02.jpg",
-   "/media/score/03.jpg",
-   "/media/score/04.jpg",
-   "/media/score/05.jpg",
-   "/media/score/06.jpg",
-   "/media/score/07.jpg",
-   "/media/score/08.jpg",
-   "/media/score/09.jpg",
-   "/media/score/10.jpg",
-   "/media/score/11.jpg",
-   "/media/score/12.jpg",
-   "/media/score/13.jpg",
-   "/media/score/14.jpg",
-   "/media/score/15.jpg",
-   "/media/score/16.jpg",
-   "/media/score/17.jpg",
-   "/media/score/18.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/score"
- },
- {
-  "slug": "toolbox-at-twenty",
-  "title": "toolbox@twenty",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "exhibition",
-  "medium": "",
-  "dimensions": "22 × 6 × 2",
-  "series": "",
-  "description": "\"Toolbox @ Twenty\" is an exhibit and performance series based on our Toolbox platform, a cross-disciplinary dialogue to inspire new choreographic tactics. In this, our first museum exhibit, we've invited a powerhouse of four Chicago artists to exchange with us and install their artwork: painter Jackie Kazarian, sculptor/builder Edra Soto, fiber artist Jacqueline Surdell, and sound artist Sadie Woods. Each guest artist has been dialoguing with a Seldoms dance artist. From these conversations, we've built new dancemaking tools and new short dances, which will be performed alongside their paintings, fiber work, dance film, and sound collage in the Hyde Park Art Center.",
-  "images": [
-   "/media/toolbox-at-twenty/01.jpg",
-   "/media/toolbox-at-twenty/02.jpg",
-   "/media/toolbox-at-twenty/03.jpg",
-   "/media/toolbox-at-twenty/04.jpg",
-   "/media/toolbox-at-twenty/05.jpg",
-   "/media/toolbox-at-twenty/06.jpg",
-   "/media/toolbox-at-twenty/07.jpg",
-   "/media/toolbox-at-twenty/08.jpg",
-   "/media/toolbox-at-twenty/09.jpg",
-   "/media/toolbox-at-twenty/10.jpg",
-   "/media/toolbox-at-twenty/11.jpg",
-   "/media/toolbox-at-twenty/12.jpg",
-   "/media/toolbox-at-twenty/13.jpg",
-   "/media/toolbox-at-twenty/14.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/spoken-for"
- },
- {
-  "slug": "straight-laced",
-  "title": "Straight Laced",
-  "year": "2019",
-  "yearNum": 2019,
-  "category": "installation",
-  "medium": "Installation",
-  "dimensions": "Variable Gallery Dimensions: W14’ x L34’",
-  "series": "",
-  "description": "Wielding a hybrid technique of weaving and macrame, Straight Laced transforms both gallery and ordinary gym equipment into a holy space — suggesting timelessness and monumental sites of ritual. Engaging greek mythology in title, Arachne Dearest suggests a shrine to individual devotion and sacrifice (highlighting micro-histories versus the more traditional heroic conquests). For instance, Arachne’s transformation into a spider after out-weaving the goddess Athena. Textile is inherently connected to stories of creation — these weightlifting \"cages\" carry obsessively knotted macrame designed based on volleyball charts — scoring the labor of bodies in space. By tying and knotting, I create moments that are precariously held together int he way that myths change depending on context. I distort the seriousness of myth to accommodate humor through my use of materials (like athletic socks). Adding humor and abjection to weighty references strategically undermines a seemingly authoritative installation — suggesting an anti-monument.",
-  "images": [
-   "/media/straight-laced/01.jpg",
-   "/media/straight-laced/02.jpg",
-   "/media/straight-laced/03.jpg",
-   "/media/straight-laced/04.jpg",
-   "/media/straight-laced/05.jpg",
-   "/media/straight-laced/06.jpg",
-   "/media/straight-laced/07.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/straight-laced"
- },
- {
-  "slug": "kerk-straat-church-street",
-  "title": "Kerk Straat (Church Street)",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "installation",
-  "medium": "paint, wood, sound Dimensions: variable 2018",
-  "dimensions": "variable 2018",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/kerk-straat-church-street/01.jpg",
-   "/media/kerk-straat-church-street/02.jpg",
-   "/media/kerk-straat-church-street/03.jpg",
-   "/media/kerk-straat-church-street/04.jpg",
-   "/media/kerk-straat-church-street/05.jpg",
-   "/media/kerk-straat-church-street/06.jpg",
-   "/media/kerk-straat-church-street/07.jpg",
-   "/media/kerk-straat-church-street/08.jpg",
-   "/media/kerk-straat-church-street/09.jpg",
-   "/media/kerk-straat-church-street/10.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/kerk-straat-church-street"
- },
- {
-  "slug": "urban-contours",
-  "title": "Urban Contours",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "installation",
-  "medium": "paint, wood, sound Dimensions: variable 2018",
-  "dimensions": "variable 2018",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/urban-contours/01.jpg",
-   "/media/urban-contours/02.jpg",
-   "/media/urban-contours/03.jpg",
-   "/media/urban-contours/04.jpg",
-   "/media/urban-contours/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/urban-contours"
- },
- {
-  "slug": "ah-pussy-of-the-sands",
-  "title": "Ah, Pussy, of the Sands",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "installation",
-  "medium": "",
-  "dimensions": "9\"x3",
-  "series": "",
-  "description": "Ah, Pussy, of the Sands , Video Installation, 2017 Ah, Pussy, of the Sands No.2 , double-channel projection, color video, sound, 29:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Human measure I, II , Sweat and body paint on archival paper, 48\"x84\", 2017 Cassandra Davis, cinematography",
-  "images": [
-   "/media/ah-pussy-of-the-sands/01.jpg",
-   "/media/ah-pussy-of-the-sands/02.jpg",
-   "/media/ah-pussy-of-the-sands/03.jpg",
-   "/media/ah-pussy-of-the-sands/04.jpg",
-   "/media/ah-pussy-of-the-sands/05.jpg",
-   "/media/ah-pussy-of-the-sands/06.jpg",
-   "/media/ah-pussy-of-the-sands/07.jpg",
-   "/media/ah-pussy-of-the-sands/08.jpg",
-   "/media/ah-pussy-of-the-sands/09.jpg",
-   "/media/ah-pussy-of-the-sands/10.jpg",
-   "/media/ah-pussy-of-the-sands/11.jpg",
-   "/media/ah-pussy-of-the-sands/12.jpg",
-   "/media/ah-pussy-of-the-sands/13.png",
-   "/media/ah-pussy-of-the-sands/14.jpg",
-   "/media/ah-pussy-of-the-sands/15.jpg",
-   "/media/ah-pussy-of-the-sands/16.jpg",
-   "/media/ah-pussy-of-the-sands/17.jpg",
-   "/media/ah-pussy-of-the-sands/18.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands"
- },
- {
-  "slug": "body-work",
-  "title": "Body Work",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "installation",
-  "medium": "",
-  "dimensions": "9\"x3",
-  "series": "",
-  "description": "Body Work , Video Installation, 2017 Ah, Pussy, of the Sands No.3 , single-channel projection, color video, sound, 30:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Jump box I, II , 12\"x12\", 36\"x36\", 2017 Human measure I, II, III , Sweat and body paint on archival paper, custom float frame, 48\"x84\", 2017 Limbo Suspension I, II , Archival Inkjet print, 32\"x40\", 2017 Body Work represents ongoing research into the cultural and societal anxieties surrounding the changing definitions and decisions of labor. The installation specifically examines artistic labor, athletic labor, female labor, and the concept of cultural production in the digital age. Through the use of found object sculpture, remnants of performance, photography, and video, Body Work situates sporting labor and the labor of the female artist within the broader sociopolitical landscape — one wrought with gender inequalities. Such actions allow me to think through the paradoxical ways in which success in either realm is considered a form of social aspiration as well as a form of entrapment. Here I identify the underpaid labor of both female athletes and female artists as part of a larger domestic economy with national and global ramifications. This dialectic approach to the economic and social issues plaguing women's labor functions as both sympathetic and highly critical.",
-  "images": [
-   "/media/body-work/01.jpg",
-   "/media/body-work/02.jpg",
-   "/media/body-work/03.jpg",
-   "/media/body-work/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/body-work"
- },
- {
-  "slug": "shuddering-turns-to-sobbing",
-  "title": "Shuddering Turns to Sobbing",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "installation",
-  "medium": "",
-  "dimensions": "12\"x36",
-  "series": "",
-  "description": "Shuddering Turns to Sobbing , Video Installation, 2016 No Words , CNC steel cut text, aprox 12\"x36\", 2016 Survival Axe Sculpture , pine planks hacked apart with survival axe, wood glue, screws, 5’9\"x2’, 2016 Endurance of the Smile , Single-channel projection, color video, 07:30 minute loop, 2016 Body Size , gym court planks, maple, resin, enamel, 4’x3’, 2016 Coaches Award: An All Relative Color Field , epoxy on gym court plank with deflated Coaches Award/volleyball, 4’x3’, 2016 Steam rises the fog of your third eye. One eyebrow travels from the left to center – then the other. Pressing hard into the middle of your forehead — they meet under force long ends breaking under stress press skin of your forehead up towards your hairline. Soft pads wrinkly fingers press to their core. momentarily sooth, continue their tireless action to the center and up. press hard. Linear plains of string genetic fiber whips, turns; settling under their own wet weight like oil to skin — adhered and burning. dark mop fiber hanging, slopping, tangled but smooth. Plastic, greasy, sticky. Stained bones meet your forehead. rest there momentarily. Hard cartilage on skull — only a thin layer soft, rubbery, plainer cells between the two. eyelids extend — wrinkle up then smooth out over dark, glassy, eyeballs. Pressure — so much pressure within the dark eyes. Heat, floods, saturated warmth, burning – blood vessels burst leaving the color red. The color of blood — oxidized blood. Different than stains of the body, genderless People tell me I have \"nice eyes\" — brown in the shade green in the light. One must look closely to see the green — beneath darkness there is lightness. What is wrong with darkness I wonder — why are you commenting on my eyes what do my eyes say? — what language do they speak? Filling with clear lightness they rub up down and left and right upon soft, wet, skin. Little wrinkly lily pads, ten of them, caress, hold, push, press, stress upon raised muscle Below stains — they press. Lily pads on fingers, fingers on hands, hands to broken wrists. wrists crack, stress, open and close, joints creaking — they pull, tighten their grasp Skin shifts over bone. shuddering turns to sobbing Pellets strike, oil shifts, forearms tighten, water flows, hot, angry, eyebrows push — they push so hard. Listening. there is sound. loud. guitar. lyrics. screaming. is this my own personal baptism? octagons press, eyebrows pressure, knees crack in desperation, stain ever present. No way to clean it up now. forever stained. forever broken. forever tight.",
-  "images": [
-   "/media/shuddering-turns-to-sobbing/01.jpg",
-   "/media/shuddering-turns-to-sobbing/02.jpg",
-   "/media/shuddering-turns-to-sobbing/03.jpg",
-   "/media/shuddering-turns-to-sobbing/04.jpg",
-   "/media/shuddering-turns-to-sobbing/05.jpg",
-   "/media/shuddering-turns-to-sobbing/06.jpg",
-   "/media/shuddering-turns-to-sobbing/07.jpg",
-   "/media/shuddering-turns-to-sobbing/08.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/shuddering-turns-to-sobbing"
- },
- {
-  "slug": "ah-pussy-of-the-sands-iteration-iii",
-  "title": "Ah, Pussy, of the Sands, Iteration III",
-  "year": "2015-2018 (range)",
-  "yearNum": 2015,
-  "category": "installation",
-  "medium": "Untitled Body Size: An All Relative Colorfield (Pink over Blue)",
-  "dimensions": "",
-  "series": "",
-  "description": "Installation from left to right, including: Coaches Award: an all Relative Color Field ; Ah, Pussy, of the Sands No. 4 ; How High is too High? ; Untitled Body Size: An All Relative Colorfield (Pink over Blue); Limbo Suspension III ; Limbo Suspension as part of, Hand-Eye Coordination: Sports and Art",
-  "images": [
-   "/media/ah-pussy-of-the-sands-iteration-iii/01.jpg",
-   "/media/ah-pussy-of-the-sands-iteration-iii/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands-iteration-iii"
- },
- {
-  "slug": "dear-william-leonard-pereira",
-  "title": "Dear William Leonard Pereira",
-  "year": "2015",
-  "yearNum": 2015,
-  "category": "installation",
-  "medium": "braided cotton cord",
-  "dimensions": "dimensions variable",
-  "series": "",
-  "description": "I use knotting techniques as a type of connective drawing device, a way to create structure and define space. It is a transformative technique that combines the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. Dear William Leonardo Piera represents ongoing explorations into the haptic quality of craftbased sculptures/installations existing within the built environment. The installations’ existence inside an administrative building (within a private institution) asks fundamental questions concerning expressions of power in the built environment.",
-  "images": [
-   "/media/dear-william-leonard-pereira/01.jpg",
-   "/media/dear-william-leonard-pereira/02.jpg",
-   "/media/dear-william-leonard-pereira/03.jpg",
-   "/media/dear-william-leonard-pereira/04.jpg",
-   "/media/dear-william-leonard-pereira/05.jpg",
-   "/media/dear-william-leonard-pereira/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/dear-william-leonard-pereira"
- },
- {
-  "slug": "examination-of-workroom",
-  "title": "Examination of Workroom",
-  "year": "2015",
-  "yearNum": 2015,
-  "category": "installation",
-  "medium": "Examination of Workroom/Knotted Environment, braided cotton cord of various size",
-  "dimensions": "9'x9'",
-  "series": "",
-  "description": "The idea of an artist, \"studio\" is fascinating. The traditionally four square/rectangular walls of white are on one hand exciting and on the other anxiety inducing. My installations respond and question the spaces of previously defined lines within built environments. Here, I expand upon the sterile-ness of the SAIC studio -- using the studio's \"bones\" as an armature off which to build knotted forms. The elaborate webs and new walls materialize as an invasion of an otherwise authoritarian space. In this way, this installation asks fundamental questions about the artists place, function, and broader respeonsibility within the built environment.",
-  "images": [
-   "/media/examination-of-workroom/01.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/examination-of-workroom"
- },
- {
-  "slug": "tectonic-cord",
-  "title": "Tectonic Cord",
-  "year": "2014",
-  "yearNum": 2014,
-  "category": "installation",
-  "medium": "Tectonic Cord",
-  "dimensions": "dimensions variable",
-  "series": "",
-  "description": "Tectonic Cord explores knotting techniques as a type of connective drawing device as a way to create structure and define space on an architectural scale. The installation transformed a public dining hall into a vibrant and colorful alternate ceiling becoming a gathering space prompting new conversations and social interaction. The work injects a fanciful component into a space where people often dine in a perfunctory way.",
-  "images": [
-   "/media/tectonic-cord/01.jpg",
-   "/media/tectonic-cord/02.jpg",
-   "/media/tectonic-cord/03.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/tectonic-cord"
- },
- {
-  "slug": "tents",
-  "title": "Tents",
-  "year": "2014",
-  "yearNum": 2014,
-  "category": "installation",
-  "medium": "cotton rope",
-  "dimensions": "",
-  "series": "",
-  "description": "\"Tents is a site-specific installation on Occidental College Campus. This project focuses on aesthetics of the human form through the context of vernacular architecture and the bodily scaled crafts of knitting and macramé. The three elements used for constructed, arundo grass harvested from the L.A. River, knit swaths, and dyed rope, loosely function as bones, skin, and viscera respectively. Tents aims to echo the human body in the form of nomadic homes. The form simulates osmosis on the larger scale of consciousness. In other words. The tents act as our bodies (vessels), the occupants symbolize consciences, fluidly moving through them, sharing them, demonstrating our inter-being.\" - Hannah Rindlaub",
-  "images": [
-   "/media/tents/01.jpg",
-   "/media/tents/02.jpg",
-   "/media/tents/03.jpg",
-   "/media/tents/04.jpg",
-   "/media/tents/05.jpg",
-   "/media/tents/06.jpg",
-   "/media/tents/07.jpg",
-   "/media/tents/08.jpg",
-   "/media/tents/09.jpg",
-   "/media/tents/10.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/installation/tents"
- },
- {
-  "slug": "charybdis-iii",
-  "title": "Charybdis III",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/charybdis-iii/01.jpg",
-   "/media/charybdis-iii/02.jpg",
-   "/media/charybdis-iii/03.jpg",
-   "/media/charybdis-iii/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/charybdis-iii"
- },
- {
-  "slug": "cotopaxi-with-cotton-candy-skies",
-  "title": "Cotopaxi with Cotton Candy Skies",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "Cotopaxi with Cotton Candy Skies",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/cotopaxi-with-cotton-candy-skies/01.jpg",
-   "/media/cotopaxi-with-cotton-candy-skies/02.jpg",
-   "/media/cotopaxi-with-cotton-candy-skies/03.jpg",
-   "/media/cotopaxi-with-cotton-candy-skies/04.jpg",
-   "/media/cotopaxi-with-cotton-candy-skies/05.jpg",
-   "/media/cotopaxi-with-cotton-candy-skies/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/cotopaxi-with-cotton-candy-skies"
- },
- {
-  "slug": "desire-to-ascend-our",
-  "title": "Desire to Ascend (our)",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Score! (installation)",
-  "description": "",
-  "images": [
-   "/media/desire-to-ascend-our/01.jpg",
-   "/media/desire-to-ascend-our/02.jpg",
-   "/media/desire-to-ascend-our/03.jpg",
-   "/media/desire-to-ascend-our/04.jpg",
-   "/media/desire-to-ascend-our/05.jpg",
-   "/media/desire-to-ascend-our/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/desire-to-ascend-our"
- },
- {
-  "slug": "earth-licker",
-  "title": "Earth Licker",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Asymmetry (installation)",
-  "description": "",
-  "images": [
-   "/media/earth-licker/01.jpg",
-   "/media/earth-licker/02.jpg",
-   "/media/earth-licker/03.jpg",
-   "/media/earth-licker/04.jpg",
-   "/media/earth-licker/05.jpg",
-   "/media/earth-licker/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/earth-licker"
- },
- {
-  "slug": "mist-in-lavender-series",
-  "title": "Mist in Lavender Series",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Mist in Lavender Series",
-  "description": "",
-  "images": [
-   "/media/mist-in-lavender-series/01.jpg",
-   "/media/mist-in-lavender-series/02.jpg",
-   "/media/mist-in-lavender-series/03.jpg",
-   "/media/mist-in-lavender-series/04.jpg",
-   "/media/mist-in-lavender-series/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/mist-in-lavender-series"
- },
- {
-  "slug": "not-one-but-not-two-either-blue",
-  "title": "Not one but not two either (Blue)",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Asymmetry (installation)",
-  "description": "",
-  "images": [
-   "/media/not-one-but-not-two-either-blue/01.jpg",
-   "/media/not-one-but-not-two-either-blue/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-blue"
- },
- {
-  "slug": "not-one-but-not-two-either-red",
-  "title": "Not one but not two either (red)",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Asymmetry (installation)",
-  "description": "",
-  "images": [
-   "/media/not-one-but-not-two-either-red/01.jpg",
-   "/media/not-one-but-not-two-either-red/02.jpg",
-   "/media/not-one-but-not-two-either-red/03.jpg",
-   "/media/not-one-but-not-two-either-red/04.jpg",
-   "/media/not-one-but-not-two-either-red/05.jpg",
-   "/media/not-one-but-not-two-either-red/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-red"
- },
- {
-  "slug": "reliquary-7",
-  "title": "Reliquary #7",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Score! (installation)",
-  "description": "",
-  "images": [
-   "/media/reliquary-7/01.jpg",
-   "/media/reliquary-7/02.jpg",
-   "/media/reliquary-7/03.jpg",
-   "/media/reliquary-7/04.jpg",
-   "/media/reliquary-7/05.jpg",
-   "/media/reliquary-7/06.jpg",
-   "/media/reliquary-7/07.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/reliquary-7"
- },
- {
-  "slug": "votive-series",
-  "title": "Votive Series",
-  "year": "2022",
-  "yearNum": 2022,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "Votive Series",
-  "description": "",
-  "images": [
-   "/media/votive-series/01.jpg",
-   "/media/votive-series/02.jpg",
-   "/media/votive-series/03.jpg",
-   "/media/votive-series/04.jpg",
-   "/media/votive-series/05.jpg",
-   "/media/votive-series/06.jpg",
-   "/media/votive-series/07.jpg",
-   "/media/votive-series/08.jpg",
-   "/media/votive-series/09.jpg",
-   "/media/votive-series/10.jpg",
-   "/media/votive-series/11.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/votive-series"
- },
- {
-  "slug": "cotopaxi-blood-moon-after-frederic-edwin-church",
-  "title": "Cotopaxi Blood Moon after Frederic Edwin Church",
-  "year": "2021",
-  "yearNum": 2021,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/cotopaxi-blood-moon-after-frederic-edwin-church/01.jpg",
-   "/media/cotopaxi-blood-moon-after-frederic-edwin-church/02.jpg",
-   "/media/cotopaxi-blood-moon-after-frederic-edwin-church/03.jpg",
-   "/media/cotopaxi-blood-moon-after-frederic-edwin-church/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-cotopaxi-blood-moon-after-frederic-edwin-church"
- },
- {
-  "slug": "penelopes-charybdis",
-  "title": "Penelope's Charybdis",
-  "year": "2021",
-  "yearNum": 2021,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/penelopes-charybdis/01.jpg",
-   "/media/penelopes-charybdis/02.jpg",
-   "/media/penelopes-charybdis/03.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-penelopes-charybdis"
- },
- {
-  "slug": "scylla-iv",
-  "title": "Scylla iv",
-  "year": "2021",
-  "yearNum": 2021,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/scylla-iv/01.jpg",
-   "/media/scylla-iv/02.jpg",
-   "/media/scylla-iv/03.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-iv"
- },
- {
-  "slug": "study-of-red-rope",
-  "title": "Study of Red Rope",
-  "year": "2021",
-  "yearNum": 2021,
-  "category": "sculpture",
-  "medium": "Study of Red Rope",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/study-of-red-rope/01.jpg",
-   "/media/study-of-red-rope/02.jpg",
-   "/media/study-of-red-rope/03.jpg",
-   "/media/study-of-red-rope/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/study-of-red-ropes"
- },
- {
-  "slug": "delicate",
-  "title": "Delicate",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "braided cotton cord, paracord, steel conduit",
-  "dimensions": "60\"x72\"x10",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/delicate/01.jpg",
-   "/media/delicate/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/delicate"
- },
- {
-  "slug": "destruction",
-  "title": "Destruction",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "84\"x96\"x12",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/destruction/01.jpg",
-   "/media/destruction/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/destruction"
- },
- {
-  "slug": "melancholy-of-always",
-  "title": "Melancholy of Always",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "cotton cord, nylon, fabric paracord, steel Dimensions: 78\"x 80\"x",
-  "dimensions": "78\"x 80\"x\"; 96\" bar",
-  "series": "",
-  "description": "The first in a series of works harnessing the Hudson Valley River School movement and paintings as a lens to grapple with, and attempt to navigate, our current moment in history.",
-  "images": [
-   "/media/melancholy-of-always/01.jpg",
-   "/media/melancholy-of-always/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/melancholy-of-always"
- },
- {
-  "slug": "pale-nightmares",
-  "title": "Pale Nightmares",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "cotton cord, nylon cord, paracord, fabric, steel Dimensions: 61\"x60\"x12",
-  "dimensions": "61\"x60\"x12\"; 72\" bar",
-  "series": "",
-  "description": "The second in a series of works harnessing the Hudson Valley River School movement and paintings as a lens to grapple with, and attempt to navigate, our current moment in history. Included in: This is America: Art USA Today , at the Kunsthal KAdE museum of modern and contemporary art, Amersfoort, Netherlands. Featured and reviewed in Patricia Sweetow Gallery .",
-  "images": [
-   "/media/pale-nightmares/01.jpg",
-   "/media/pale-nightmares/02.jpg",
-   "/media/pale-nightmares/03.jpg",
-   "/media/pale-nightmares/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/pale-nightmares"
- },
- {
-  "slug": "the-consummation-state",
-  "title": "The Consummation State",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/the-consummation-state/01.jpg",
-   "/media/the-consummation-state/02.jpg",
-   "/media/the-consummation-state/03.jpg",
-   "/media/the-consummation-state/04.jpg",
-   "/media/the-consummation-state/05.jpg",
-   "/media/the-consummation-state/06.jpg",
-   "/media/the-consummation-state/07.jpg",
-   "/media/the-consummation-state/08.jpg",
-   "/media/the-consummation-state/09.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-the-consummation-state"
- },
- {
-  "slug": "visions-of-medea",
-  "title": "Visions of Medea",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "nylon, paracord",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/visions-of-medea/01.jpg",
-   "/media/visions-of-medea/02.jpg",
-   "/media/visions-of-medea/03.jpg",
-   "/media/visions-of-medea/04.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/visions-of-medea"
- },
- {
-  "slug": "we-will-win-our-banner-in-the-sky",
-  "title": "We Will Win / Our Banner in the Sky",
-  "year": "2020",
-  "yearNum": 2020,
-  "category": "sculpture",
-  "medium": "cotton cord, nylon, paracord, fabric, ribbons",
-  "dimensions": "84\" x 108\" x 12\"; 120\" bar",
-  "series": "",
-  "description": "Made during the turbulence of the election, this work explores the symbology of the stars on the American Flag. These weighty symbols are fused with abstracted topographies including heat maps of the California Fires and dying coral reefs.",
-  "images": [
-   "/media/we-will-win-our-banner-in-the-sky/01.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/02.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/03.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/04.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/05.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/06.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/07.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/08.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/09.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/10.jpg",
-   "/media/we-will-win-our-banner-in-the-sky/11.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/we-will-win-our-banner-in-the-sky"
- },
- {
-  "slug": "her",
-  "title": "[her]",
-  "year": "2019",
-  "yearNum": 2019,
-  "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/her/01.jpg",
-   "/media/her/02.jpg",
-   "/media/her/03.jpg",
-   "/media/her/04.jpg",
-   "/media/her/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/her"
- },
- {
-  "slug": "scylla-series",
-  "title": "Scylla Series",
-  "year": "2019",
-  "yearNum": 2019,
-  "category": "sculpture",
-  "medium": "braided cotton cord, paracord",
-  "dimensions": "18\"x20\"x6",
-  "series": "Scylla Series",
-  "description": "This series of works references Homer's sea monster, Scylla. The mass of jumbled knots accumulates, mutates, spreads, and expands from the framed \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
-  "images": [
-   "/media/scylla-series/01.jpg",
-   "/media/scylla-series/02.jpg",
-   "/media/scylla-series/03.jpg",
-   "/media/scylla-series/04.jpg",
-   "/media/scylla-series/05.jpg",
-   "/media/scylla-series/06.jpg",
-   "/media/scylla-series/07.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-series"
- },
- {
-  "slug": "untitled-noir-series",
-  "title": "Untitled Noir Series",
-  "year": "2019",
-  "yearNum": 2019,
-  "category": "sculpture",
-  "medium": "braided cotton cord of various size, steel",
-  "dimensions": "dimensions variable",
-  "series": "Untitled Noir Series",
-  "description": "Untitled Series explores knotting techniques as a type of connective drawing device, creating structure and defining space. It is a transformative technique combining the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. The incorporation of egalitarian material, such as rope and steel, renders the work large-scale, suggesting strength, machinery, and industry. The result is a series of sculptures rendered through a combination of industrial versus domestic and tradition versus modern.",
-  "images": [
-   "/media/untitled-noir-series/01.jpg",
-   "/media/untitled-noir-series/02.jpg",
-   "/media/untitled-noir-series/03.jpg",
-   "/media/untitled-noir-series/04.jpg",
-   "/media/untitled-noir-series/05.jpg",
-   "/media/untitled-noir-series/06.jpg",
-   "/media/untitled-noir-series/07.jpg",
-   "/media/untitled-noir-series/08.jpg",
-   "/media/untitled-noir-series/09.jpg",
-   "/media/untitled-noir-series/10.jpg",
-   "/media/untitled-noir-series/11.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-noir-series"
- },
- {
-  "slug": "a-heavy-dew",
-  "title": "A Heavy Dew",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "sculpture",
-  "medium": "Braided cotton cord, steel",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/a-heavy-dew/01.jpg",
-   "/media/a-heavy-dew/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/a-heavy-dew"
- },
- {
-  "slug": "find-the-open-space",
-  "title": "Find the Open Space",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "sculpture",
-  "medium": "Braided cotton cord, steel, bungee cord",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/find-the-open-space/01.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/find-the-open-space"
- },
- {
-  "slug": "untitled-series",
-  "title": "Untitled Series",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "sculpture",
-  "medium": "braided cotton cord of various size, steel",
-  "dimensions": "dimensions variable",
-  "series": "Untitled Series",
-  "description": "Untitled Series explores knotting techniques as a type of connective drawing device, creating structure and defining space. It is a transformative technique combining the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. The incorporation of egalitarian material, such as rope and steel, renders the work large-scale, suggesting strength, machinery, and industry. The result is a series of sculptures rendered through a combination of industrial versus domestic and tradition versus modern.",
-  "images": [
-   "/media/untitled-series/01.jpg",
-   "/media/untitled-series/02.jpg",
-   "/media/untitled-series/03.jpg",
-   "/media/untitled-series/04.jpg",
-   "/media/untitled-series/05.jpg",
-   "/media/untitled-series/06.jpg",
-   "/media/untitled-series/07.jpg",
-   "/media/untitled-series/08.jpg",
-   "/media/untitled-series/09.jpg",
-   "/media/untitled-series/10.jpg",
-   "/media/untitled-series/11.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-series"
- },
- {
-  "slug": "coaches-award-an-all-relative-color-field",
-  "title": "Coaches Award: An All Relative Color Field",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "sculpture",
-  "medium": "2016 Black resin on gym court plank with deflated volleyball 4’x3.5'",
-  "dimensions": "",
-  "series": "",
-  "description": "Coaches Award is a playful take on Harold Rosenberg’s 1950s terminology of, \"action painting\". In his iconic article, The American Action Painters , Rosenberg describes the canvas as, \"an arena in which to act\". Here, the wood court not only represents a realm for action but is an arena upon which years of action or, \"gesticulation\" occurred. Encased in resin, the final exercise upon this arena is that of the artist. The process mirrors the artist body embracing and memorializing the expressions of athletic bodies ingrained within the wood court.",
-  "images": [
-   "/media/coaches-award-an-all-relative-color-field/01.jpg",
-   "/media/coaches-award-an-all-relative-color-field/02.jpg",
-   "/media/coaches-award-an-all-relative-color-field/03.jpg",
-   "/media/coaches-award-an-all-relative-color-field/04.jpg",
-   "/media/coaches-award-an-all-relative-color-field/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/coaches-award-an-all-relative-color-field"
- },
- {
-  "slug": "how-high-is-too-high",
-  "title": "How High is Too High?",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "sculpture",
-  "medium": "gym court plank, maple, resin, enamel",
-  "dimensions": "60\"x180",
-  "series": "",
-  "description": "In this iteration, the augmented vertec leans precariously at 15ft tall (well beyond human limits). The new height stages, performs, and measures the apex of the average leopard jump and reach. I choose the leopard, and employ \"leopard logic\", to explore socially constructed spaces of devision (hierarchies) versus physical realms of genetically altered bodily difference (height) in humans. Leopards are the smallest members of the large cat category. Yet, the leopard is highly adaptable and lives across the globe, from sub-Saharan Africa, to, Russia, China and the islands of Java and Sri Lanka, (according to the International Union for Conservation of Nature (IUCN)). These cats survive in almost any type of habitat, including rainforests, deserts, woodlands, grassland savannas, forests, mountain habitats, coastal scrubs, shrub lands and swampy areas. In fact, leopards live in more places than any other large cat. Their adaptability and status as predator makes the leopard the perfect metaphor to explore the ways in which humans create spaces of difference between each other — as we do with the natural realm. The project follows a form of nonsensical questions stemming from, \"leopard logic\": Why do we as humans consider ourselves above the natural world? Where does our sense of authority come from? Why do we create hierarchical understandings of existence in the manner in which we do? Who is really in power? Who is in control? Why?",
-  "images": [
-   "/media/how-high-is-too-high/01.jpg",
-   "/media/how-high-is-too-high/02.jpg",
-   "/media/how-high-is-too-high/03.jpg",
-   "/media/how-high-is-too-high/04.jpg",
-   "/media/how-high-is-too-high/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/how-high-is-too-high"
- },
- {
-  "slug": "lets-be-stars",
-  "title": "Let's be Stars",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "sculpture",
-  "medium": "braided cotton cord of various size, custom steel frame",
-  "dimensions": "31\"x31",
-  "series": "",
-  "description": "Applying cotton cord of various size, Let’s be Stars explores the terms of painting. The mass of jumbled knots accumulates, mutates, spreads and expands from the \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
-  "images": [
-   "/media/lets-be-stars/01.jpg",
-   "/media/lets-be-stars/02.jpg",
-   "/media/lets-be-stars/03.jpg",
-   "/media/lets-be-stars/04.jpg",
-   "/media/lets-be-stars/05.jpg",
-   "/media/lets-be-stars/06.jpg",
-   "/media/lets-be-stars/07.jpg",
-   "/media/lets-be-stars/08.jpg",
-   "/media/lets-be-stars/09.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/lets-be-stars"
- },
- {
-  "slug": "survival-axe-sculpture",
-  "title": "Survival Axe Sculpture",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "sculpture",
-  "medium": "2x4 pine planks hacked apart with survival axe, wood glue",
-  "dimensions": "2x4",
-  "series": "",
-  "description": "\"The day after Trump won the the elections last November, Surdell purchased a survival ax. She unleashed her frustration and anger on lumber in flurry of cathartic rage. She stacked the wounded beams into dimensions that echoed her own body as physical manifestation of her pain and disappointment.\" - Jared Packard, Curator of (Re)Flex Space, 2017",
-  "images": [
-   "/media/survival-axe-sculpture/01.jpg",
-   "/media/survival-axe-sculpture/02.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/survival-axe-sculpture"
- },
- {
-  "slug": "diplomat-with-without-track-suit",
-  "title": "Diplomat With/Without Track Suit",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "photography",
-  "medium": "Photographer Archival Inkjet print 32\"x40",
-  "dimensions": "32\"x40",
-  "series": "",
-  "description": "This photo series represents ongoing research into the inherently political aspects of sports and how the politicalization of sports functions throughout history. After a residency in Berlin, I began investigating the inner workings of the German Democratic Republic dictatorship established in East Germany post World War II. The GDR stands as the forerunner in the field of sports politics, and characteristics of the iconic political sports model lives on in contemporary capitalist socialites. High ranking government officials strategically mobilized an elite sport system as a means to increase international authority and image. Such high ranking political officers often referred to their athletes as, \"diplomats in tracksuits\", as the athletes' personal successes in the realms of sport (particularly the international Olympic stage) represented the strength of the young East German government. In this image the athlete-artist stands in a turquoise pant suit humorously taking on the sign of \"diplomat\" and exploring the the symbology and masking quality of \"the uniform\". I consider the uniform to be anything that condenses or hides individually while simultaneously connecting people through shared cloth (ie the athletic uniform, military uniform, the dress suit, etc). The masked athlete-artist faces the wall and mimics the surrounding turf (fake grass). In this way, the composition hints at the possibility, and likelihood, of warped truth.",
-  "images": [
-   "/media/diplomat-with-without-track-suit/01.jpg",
-   "/media/diplomat-with-without-track-suit/02.jpg",
-   "/media/diplomat-with-without-track-suit/03.jpg",
-   "/media/diplomat-with-without-track-suit/04.jpg",
-   "/media/diplomat-with-without-track-suit/05.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/photography/diplomat-with-without-track-suit"
- },
- {
-  "slug": "limbo-suspension",
-  "title": "Limbo Suspension",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "photography",
-  "medium": "Photographer Archival Inkjet print 32\"x40",
-  "dimensions": "32\"x40",
-  "series": "",
-  "description": "This photo series represents a response to and research into the concept of life after death. I posit, if the body is the vessel holding energy (energy that can not be created nor destroyed) where then, does this energy go when the body (vessel) breaks? This work considers the concept of limbo as the artist-athlete engages with the art historical narratives of the classical nude as seen in both painting and photography. Rendered suspended of my own accord I challenge the gaze while physically grappling with self-inflicted restraints. Suspended from the walls of a historical artistic institution (The Art Institute of Chicago) the performative sculpture both holds the body while threatening to collapse in and upon the same body. In this way I address risk of the body while garnering strength from my vulnerability.",
-  "images": [
-   "/media/limbo-suspension/01.jpg",
-   "/media/limbo-suspension/02.jpg",
-   "/media/limbo-suspension/03.jpg",
-   "/media/limbo-suspension/04.jpg",
-   "/media/limbo-suspension/05.jpg",
-   "/media/limbo-suspension/06.jpg",
-   "/media/limbo-suspension/07.jpg",
-   "/media/limbo-suspension/08.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/photography/limbo-suspension"
- },
- {
-  "slug": "human-measurements",
-  "title": "Human Measurements",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "works-on-paper",
-  "medium": "Sweat and body paint on archival paper",
-  "dimensions": "48\"x84",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/human-measurements/01.jpg",
-   "/media/human-measurements/02.jpg",
-   "/media/human-measurements/03.jpg",
-   "/media/human-measurements/04.jpg",
-   "/media/human-measurements/05.jpg",
-   "/media/human-measurements/06.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/works-on-paper/human-measurements"
- },
- {
-  "slug": "ah-pussy-of-the-sands-no-2",
-  "title": "Ah, Pussy, of the Sands, No.2",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "video",
-  "medium": "color video, sound",
-  "dimensions": "",
-  "series": "",
-  "description": "In, Ah, Pussy, of the Sands No.2 , I pull from my biography to explore the notion of the contemporary athlete as animal, specifically, as cat. I investigate perceived notions of authority and hierarchical understandings by conflating the objectification of the athletic body, the female body, and the natural realm. Evoking the appearance of Aimee Mullins’s leopard character in Mathew Barney’s Cremaster 3 (2002), with narration of Yves Klein’s renowned performance, Blue Women Art, 1962 , I draw parallels between two historically acclaimed male artists (Barney and Klein) who use the female body as a tool for their own means and benefit. Yet where Barney produced a personal mythology with idiosyncratic references in U.S. popular culture, I work within the myth of the studio itself, as embodied by artists such Bruce Nauman and Carolee Schneemann. The symbol of the cat goes back to Olympia, the dawn of modernism, and the rupture of agency beginning with Olympia's restrictive hand. The artist-athlete, like a figure for physical vitality or potency itself, subverts such concept by painting herself, pushing herself, highlighting her trained physicality, and flaunting her body and skill. My approach is modeled after iconic Schneemann works such as, Up to and Including her Limits (1972-76), and Aimee Mullins’s career as Olympic athlete, model, actress, and activist. Using my body as a literal means of production, I take back my body from the objectified pages of modern and contemporary art histories by means of fantastical play hybridized with a show of bodily power, strength, and force of will. The final product renders me the single agent of my trained body, mind, and practice, while nodding to the histories of women who came before.",
-  "images": [],
-  "sourceUrl": "https://www.jacquelinesurdell.com/video-ah-pussy-of-the-sands-no2"
- },
- {
-  "slug": "endurance-of-the-smile",
-  "title": "Endurance Of The Smile",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "video",
-  "medium": "color video",
-  "dimensions": "",
-  "series": "",
-  "description": "I wonder where stereotypes come from. I question how and why they are are perpetuated, in what contexts, and how they shift over time. Endurance of the Smile is a 07:33 minute long videoperformance where I interrogate my own stereotype, \"the smiley white-girl\", utilizing facial endurance as a tool to explore personal versus perceived perception. Here I smile until my facial muscles can no longer tighten. The simple, humorous, subversion seeks to ask questions of the viewer, to make viewers aware of themselves, as well as to reflect upon their own biases as they participate in the work. \"Jacqueline Surdell takes on perceptions of women in acerbic, highly physical performances. Taking on Yves Klein and the patriarchy, she reminds us that not only must women deal with being sexualized, we are also expected to smile through it.\" - Miranda Lash | Curator of Contemporary Art, Speed Art Museum",
-  "images": [],
-  "sourceUrl": "https://www.jacquelinesurdell.com/video/endurance-of-the-smile"
- },
- {
-  "slug": "youre-a-hack",
-  "title": "You're A Hack",
-  "year": "2016",
-  "yearNum": 2016,
-  "category": "video",
-  "medium": "color video, sound",
-  "dimensions": "",
-  "series": "",
-  "description": "\"The day after Trump won the the elections last November, Surdell purchased a survival ax. She unleashed her frustration and anger on lumber in flurry of cathartic rage. She stacked the wounded beams into dimensions that echoed her own body as physical manifestation of her pain and disappointment.\" - Jared Packard, Curator of (Re)Flex Space, 2017",
-  "images": [],
-  "sourceUrl": "https://www.jacquelinesurdell.com/video/youre-a-hack"
- },
- {
-  "slug": "kerk-straat",
-  "title": "Kerk Straat",
-  "year": "2018",
-  "yearNum": 2018,
-  "category": "performance",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "",
-  "images": [
-   "/media/kerk-straat/01.jpg",
-   "/media/kerk-straat/02.jpg",
-   "/media/kerk-straat/03.jpg",
-   "/media/kerk-straat/04.jpg",
-   "/media/kerk-straat/05.jpg",
-   "/media/kerk-straat/06.jpg",
-   "/media/kerk-straat/07.jpg",
-   "/media/kerk-straat/08.jpg"
-  ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/performance/kerk-straat"
- },
- {
-  "slug": "familial-endurance",
-  "title": "Familial Endurance",
-  "year": "2017",
-  "yearNum": 2017,
-  "category": "performance",
-  "medium": "Performance",
-  "dimensions": "",
-  "series": "",
-  "description": "Familial Endurance explores the concept of endurance in relation to familial histories. Through the lens of my Grandmothers’ having endured life, this 4 hour durational work pulls from the stories of their lives. In the act of sharing family mythology we grow closer. While my Grandmothers and mother share their stories I simultaneously build both collective and personal narratives physically manifesting the audio events as it is woven into my personal history and shared family history. Cycling represents the ongoing process of the manifestation of self — the rendering of personal identity created through familial tales. The indoor bike is an apparatus of stagnant change — as one increases the resistance the body endures and gains strength. As intense experiences are shared family ties grow stronger and confidence in the sense of self increases. This performance sits precariously at the brink of pretentiousness, and melodrama — a leisure activity turned excessive and absurd. In this way, the work seeks to address privileges in time and leisure labor.",
-  "images": [],
-  "sourceUrl": "https://www.jacquelinesurdell.com/performance/familial-endurance"
- }
+  {
+    "slug": "the-conversion",
+    "title": "The Conversion: Rings, Rupture, and the Forest Archive",
+    "year": "2025",
+    "yearNum": 2025,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "venue": "SECRIST | BEACH, Chicago, IL",
+    "images": [
+      "/media/the-conversion/01.jpg",
+      "/media/the-conversion/02.jpg",
+      "/media/the-conversion/03.jpg",
+      "/media/the-conversion/04.jpg",
+      "/media/the-conversion/05.jpg",
+      "/media/the-conversion/06.jpg",
+      "/media/the-conversion/07.jpg",
+      "/media/the-conversion/08.jpg",
+      "/media/the-conversion/09.jpg",
+      "/media/the-conversion/10.jpg",
+      "/media/the-conversion/11.jpg",
+      "/media/the-conversion/12.jpg",
+      "/media/the-conversion/13.jpg",
+      "/media/the-conversion/14.jpg",
+      "/media/the-conversion/15.jpg",
+      "/media/the-conversion/16.jpg",
+      "/media/the-conversion/17.jpg",
+      "/media/the-conversion/18.jpg",
+      "/media/the-conversion/19.jpg",
+      "/media/the-conversion/20.jpg",
+      "/media/the-conversion/21.jpg",
+      "/media/the-conversion/22.jpg",
+      "/media/the-conversion/23.jpg",
+      "/media/the-conversion/24.jpg",
+      "/media/the-conversion/25.jpg",
+      "/media/the-conversion/26.jpg",
+      "/media/the-conversion/27.jpg",
+      "/media/the-conversion/28.jpg",
+      "/media/the-conversion/29.jpg",
+      "/media/the-conversion/30.jpg",
+      "/media/the-conversion/31.jpg",
+      "/media/the-conversion/32.jpg",
+      "/media/the-conversion/33.jpg",
+      "/media/the-conversion/34.jpg",
+      "/media/the-conversion/35.jpg",
+      "/media/the-conversion/36.jpg",
+      "/media/the-conversion/37.jpg",
+      "/media/the-conversion/38.jpg",
+      "/media/the-conversion/39.jpg",
+      "/media/the-conversion/40.jpg",
+      "/media/the-conversion/41.jpg",
+      "/media/the-conversion/42.jpg",
+      "/media/the-conversion/43.jpg",
+      "/media/the-conversion/44.jpg",
+      "/media/the-conversion/45.jpg",
+      "/media/the-conversion/46.jpg",
+      "/media/the-conversion/47.jpg",
+      "/media/the-conversion/48.jpg",
+      "/media/the-conversion/49.jpg",
+      "/media/the-conversion/50.jpg",
+      "/media/the-conversion/51.jpg",
+      "/media/the-conversion/52.jpg",
+      "/media/the-conversion/53.jpg",
+      "/media/the-conversion/54.jpg",
+      "/media/the-conversion/55.jpg",
+      "/media/the-conversion/56.jpg",
+      "/media/the-conversion/57.jpg",
+      "/media/the-conversion/58.jpg",
+      "/media/the-conversion/59.jpg",
+      "/media/the-conversion/60.jpg",
+      "/media/the-conversion/61.jpg",
+      "/media/the-conversion/62.jpg",
+      "/media/the-conversion/63.jpg"
+    ],
+    "imageCaptions": {
+      "/media/the-conversion/07.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-conversion/08.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/09.jpg": {
+        "title": "Desire Path",
+        "medium": "detail",
+        "dimensions": "nylon cord, fabric, steel, 49 x 73 x 7 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/10.jpg": {
+        "title": "Desire Path",
+        "medium": "detail",
+        "dimensions": "nylon cord, fabric, steel, 49 x 73 x 7 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/19.jpg": {
+        "title": "Eve and Adam",
+        "medium": "Desire Path",
+        "dimensions": "Cloudscape",
+        "year": 2025
+      },
+      "/media/the-conversion/20.jpg": {
+        "title": "Installationview Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) Desire Path Cloudscape;She Paused, Peering Through the Veil StigmataI TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/21.jpg": {
+        "title": "Installationview Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) Desire Path Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/22.jpg": {
+        "title": "Installationview My Kaleidoscopic View",
+        "medium": "Penance of Leaves",
+        "dimensions": "OriginStudy(Human Measurements)",
+        "year": 2025
+      },
+      "/media/the-conversion/23.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/24.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/25.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/26.jpg": {
+        "title": "Installationview Paul Tondos",
+        "medium": "scale",
+        "dimensions": "ianace",
+        "year": 2025
+      },
+      "/media/the-conversion/27.jpg": {
+        "title": "Kalideoscopic view Lionsgate Portal",
+        "medium": "Desire Path",
+        "dimensions": "Cloudscape",
+        "year": 2025
+      },
+      "/media/the-conversion/28.jpg": {
+        "title": "Lion detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/29.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/30.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/32.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/33.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches (2)",
+        "year": 2025
+      },
+      "/media/the-conversion/34.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/35.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/36.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/37.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/38.jpg": {
+        "title": "Paul + Tondos",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/39.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/40.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/41.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/42.jpg": {
+        "title": "Paul",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/43.jpg": {
+        "title": "Penance of Leaves + Drawing",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/44.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/45.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/46.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/47.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/48.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/49.jpg": {
+        "title": "StigmataI TondoI",
+        "medium": "Paul",
+        "dimensions": "suddenly",
+        "year": 2025
+      },
+      "/media/the-conversion/50.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-conversion/51.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/52.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/53.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/54.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/55.jpg": {
+        "title": "Tondo I",
+        "medium": "nylon cord, steel",
+        "dimensions": "43 x 35 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/56.jpg": {
+        "title": "installationview Paul StigmataI",
+        "medium": "TondoI",
+        "dimensions": "Scale",
+        "year": 2025
+      }
+    },
+    "sourceUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "the-armory-show",
+    "title": "The Armory Show",
+    "year": "2025",
+    "yearNum": 2025,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "venue": "SECRIST | BEACH, New York, NY",
+    "images": [
+      "/media/the-armory-show/01.jpg",
+      "/media/the-armory-show/02.jpg",
+      "/media/the-armory-show/03.jpg",
+      "/media/the-armory-show/04.jpg",
+      "/media/the-armory-show/05.jpg",
+      "/media/the-armory-show/06.jpg",
+      "/media/the-armory-show/07.jpg",
+      "/media/the-armory-show/08.jpg",
+      "/media/the-armory-show/09.jpg",
+      "/media/the-armory-show/10.jpg",
+      "/media/the-armory-show/11.jpg",
+      "/media/the-armory-show/12.jpg",
+      "/media/the-armory-show/13.jpg",
+      "/media/the-armory-show/14.jpg",
+      "/media/the-armory-show/15.jpg",
+      "/media/the-armory-show/16.jpg",
+      "/media/the-armory-show/17.jpg",
+      "/media/the-armory-show/18.jpg",
+      "/media/the-armory-show/19.jpg",
+      "/media/the-armory-show/20.jpg",
+      "/media/the-armory-show/21.jpg",
+      "/media/the-armory-show/22.jpg",
+      "/media/the-armory-show/23.jpg",
+      "/media/the-armory-show/24.jpg",
+      "/media/the-armory-show/25.jpg",
+      "/media/the-armory-show/26.jpg",
+      "/media/the-armory-show/27.jpg",
+      "/media/the-armory-show/28.jpg",
+      "/media/the-armory-show/29.jpg",
+      "/media/the-armory-show/30.jpg",
+      "/media/the-armory-show/31.jpg",
+      "/media/the-armory-show/32.jpg",
+      "/media/the-armory-show/33.jpg",
+      "/media/the-armory-show/34.jpg",
+      "/media/the-armory-show/35.jpg",
+      "/media/the-armory-show/36.jpg",
+      "/media/the-armory-show/37.jpg",
+      "/media/the-armory-show/38.jpg",
+      "/media/the-armory-show/39.jpg",
+      "/media/the-armory-show/40.jpg",
+      "/media/the-armory-show/41.jpg",
+      "/media/the-armory-show/42.jpg",
+      "/media/the-armory-show/43.jpg",
+      "/media/the-armory-show/44.jpg",
+      "/media/the-armory-show/45.jpg",
+      "/media/the-armory-show/46.jpg",
+      "/media/the-armory-show/47.jpg",
+      "/media/the-armory-show/48.jpg",
+      "/media/the-armory-show/49.jpg",
+      "/media/the-armory-show/50.jpg",
+      "/media/the-armory-show/51.jpg",
+      "/media/the-armory-show/52.jpg",
+      "/media/the-armory-show/53.jpg",
+      "/media/the-armory-show/54.jpg",
+      "/media/the-armory-show/55.jpg",
+      "/media/the-armory-show/56.jpg",
+      "/media/the-armory-show/57.jpg",
+      "/media/the-armory-show/58.jpg",
+      "/media/the-armory-show/59.jpg",
+      "/media/the-armory-show/60.jpg",
+      "/media/the-armory-show/61.jpg",
+      "/media/the-armory-show/62.jpg",
+      "/media/the-armory-show/63.jpg",
+      "/media/the-armory-show/64.jpg",
+      "/media/the-armory-show/65.jpg",
+      "/media/the-armory-show/66.jpg",
+      "/media/the-armory-show/67.jpg"
+    ],
+    "imageCaptions": {
+      "/media/the-armory-show/01.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/02.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/03.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/04.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/05.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/06.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/07.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/08.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/09.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/10.jpg": {
+        "title": "Installationview StigmataII Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) cotton cord, nylon cord, steel",
+        "medium": "28x26x9inches",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/11.jpg": {
+        "title": "Installationview TondoI Cloudscape cotton cord, nylon cord, steel",
+        "medium": "43 x 35 x 12inches",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/12.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/13.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/14.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/15.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/16.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/17.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/18.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/19.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/20.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/21.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) detail",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/22.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/23.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/24.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/25.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/26.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/27.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/28.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/29.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/30.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/31.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/32.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/33.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/34.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/35.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/36.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      }
+    },
+    "sourceUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "bliss",
+    "title": "Bliss!",
+    "year": "2024",
+    "yearNum": 2024,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "venue": "Gallery COMMON, Tokyo, Japan",
+    "images": [
+      "/media/bliss/01.jpg",
+      "/media/bliss/02.jpg",
+      "/media/bliss/03.jpg",
+      "/media/bliss/04.jpg",
+      "/media/bliss/05.jpg",
+      "/media/bliss/06.jpg",
+      "/media/bliss/07.jpg",
+      "/media/bliss/08.jpg",
+      "/media/bliss/09.jpg",
+      "/media/bliss/10.jpg",
+      "/media/bliss/11.jpg",
+      "/media/bliss/12.jpg",
+      "/media/bliss/13.jpg",
+      "/media/bliss/14.jpg",
+      "/media/bliss/15.jpg",
+      "/media/bliss/16.jpg",
+      "/media/bliss/17.jpg",
+      "/media/bliss/18.jpg",
+      "/media/bliss/19.jpg",
+      "/media/bliss/20.jpg",
+      "/media/bliss/21.jpg",
+      "/media/bliss/22.jpg",
+      "/media/bliss/23.jpg",
+      "/media/bliss/24.jpg",
+      "/media/bliss/25.jpg",
+      "/media/bliss/26.jpg",
+      "/media/bliss/27.jpg",
+      "/media/bliss/28.jpg",
+      "/media/bliss/29.jpg",
+      "/media/bliss/30.jpg",
+      "/media/bliss/31.jpg",
+      "/media/bliss/32.jpg",
+      "/media/bliss/33.jpg",
+      "/media/bliss/34.jpg",
+      "/media/bliss/35.jpg",
+      "/media/bliss/36.jpg",
+      "/media/bliss/37.jpg",
+      "/media/bliss/38.jpg",
+      "/media/bliss/39.jpg",
+      "/media/bliss/40.jpg",
+      "/media/bliss/41.jpg",
+      "/media/bliss/42.jpg",
+      "/media/bliss/43.jpg",
+      "/media/bliss/44.jpg",
+      "/media/bliss/45.jpg",
+      "/media/bliss/46.jpg",
+      "/media/bliss/47.jpg",
+      "/media/bliss/48.jpg",
+      "/media/bliss/49.jpg",
+      "/media/bliss/50.jpg",
+      "/media/bliss/51.jpg",
+      "/media/bliss/52.jpg",
+      "/media/bliss/53.jpg",
+      "/media/bliss/54.jpg",
+      "/media/bliss/55.jpg",
+      "/media/bliss/56.jpg",
+      "/media/bliss/57.jpg",
+      "/media/bliss/58.jpg",
+      "/media/bliss/59.jpg",
+      "/media/bliss/60.jpg",
+      "/media/bliss/61.jpg",
+      "/media/bliss/62.jpg",
+      "/media/bliss/63.jpg",
+      "/media/bliss/64.jpg",
+      "/media/bliss/65.jpg",
+      "/media/bliss/66.jpg",
+      "/media/bliss/67.jpg",
+      "/media/bliss/68.jpg",
+      "/media/bliss/69.jpg",
+      "/media/bliss/70.jpg",
+      "/media/bliss/71.jpg",
+      "/media/bliss/72.jpg",
+      "/media/bliss/73.jpg",
+      "/media/bliss/74.jpg",
+      "/media/bliss/75.jpg",
+      "/media/bliss/76.jpg",
+      "/media/bliss/77.jpg",
+      "/media/bliss/78.jpg",
+      "/media/bliss/79.jpg",
+      "/media/bliss/80.jpg",
+      "/media/bliss/81.jpg",
+      "/media/bliss/82.jpg",
+      "/media/bliss/83.jpg",
+      "/media/bliss/84.jpg",
+      "/media/bliss/85.jpg",
+      "/media/bliss/86.jpg",
+      "/media/bliss/87.jpg",
+      "/media/bliss/88.jpg",
+      "/media/bliss/89.jpg",
+      "/media/bliss/90.jpg",
+      "/media/bliss/91.jpg",
+      "/media/bliss/92.jpg",
+      "/media/bliss/93.jpg",
+      "/media/bliss/94.jpg",
+      "/media/bliss/95.jpg",
+      "/media/bliss/96.jpg",
+      "/media/bliss/97.jpg",
+      "/media/bliss/98.jpg",
+      "/media/bliss/99.jpg",
+      "/media/bliss/100.jpg",
+      "/media/bliss/101.jpg"
+    ],
+    "imageCaptions": {},
+    "sourceUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "adoration-garden",
+    "title": "Adoration Garden",
+    "year": "2023",
+    "yearNum": 2023,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "venue": "Abroms-Engel Institute for the Visual Arts, Birmingham, AL",
+    "images": [
+      "/media/adoration-garden/01.jpg",
+      "/media/adoration-garden/02.jpg",
+      "/media/adoration-garden/03.jpg",
+      "/media/adoration-garden/04.jpg",
+      "/media/adoration-garden/05.jpg",
+      "/media/adoration-garden/06.jpg",
+      "/media/adoration-garden/07.jpg",
+      "/media/adoration-garden/08.jpg",
+      "/media/adoration-garden/09.jpg",
+      "/media/adoration-garden/10.jpg",
+      "/media/adoration-garden/11.jpg",
+      "/media/adoration-garden/12.jpg",
+      "/media/adoration-garden/13.jpg",
+      "/media/adoration-garden/14.jpg",
+      "/media/adoration-garden/15.jpg",
+      "/media/adoration-garden/16.jpg",
+      "/media/adoration-garden/17.jpg",
+      "/media/adoration-garden/18.jpg",
+      "/media/adoration-garden/19.jpg",
+      "/media/adoration-garden/20.jpg",
+      "/media/adoration-garden/21.jpg",
+      "/media/adoration-garden/22.jpg"
+    ],
+    "imageCaptions": {
+      "/media/adoration-garden/03.jpg": {
+        "title": "AdorationGarden Busia’sHomeAltar",
+        "medium": "wood, paint",
+        "dimensions": "12x6 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/04.jpg": {
+        "title": "AdorationGarden I dread the loss of heaven",
+        "medium": "vinyl",
+        "dimensions": "10x5 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/06.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/07.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/08.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/09.jpg": {
+        "title": "AdorationGarden",
+        "medium": "going up?, three-sided early 20th Century Elevator Directional Lantern salvaged from Chicago Medinah Athletic Club Tower Interior Lobby, bronze, glass",
+        "dimensions": "9 x 5 x 3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/10.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/11.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/12.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/13.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/14.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/15.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/16.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/17.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/18.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/19.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/20.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/21.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      }
+    },
+    "sourceUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "lil-bebs",
+    "title": "Lil Bebs",
+    "year": "2023",
+    "yearNum": 2023,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "venue": "Louis Buhl & Co., Detroit, MI",
+    "images": [
+      "/media/lil-bebs/01.jpg",
+      "/media/lil-bebs/02.jpg",
+      "/media/lil-bebs/03.jpg",
+      "/media/lil-bebs/04.jpg",
+      "/media/lil-bebs/05.jpg",
+      "/media/lil-bebs/06.jpg",
+      "/media/lil-bebs/07.jpg",
+      "/media/lil-bebs/08.jpg",
+      "/media/lil-bebs/09.jpg",
+      "/media/lil-bebs/10.jpg",
+      "/media/lil-bebs/11.jpg",
+      "/media/lil-bebs/12.jpg",
+      "/media/lil-bebs/13.jpg",
+      "/media/lil-bebs/14.jpg",
+      "/media/lil-bebs/15.jpg",
+      "/media/lil-bebs/16.jpg",
+      "/media/lil-bebs/17.jpg",
+      "/media/lil-bebs/18.jpg",
+      "/media/lil-bebs/19.jpg",
+      "/media/lil-bebs/20.jpg",
+      "/media/lil-bebs/21.jpg",
+      "/media/lil-bebs/22.jpg",
+      "/media/lil-bebs/23.jpg",
+      "/media/lil-bebs/24.jpg",
+      "/media/lil-bebs/25.jpg"
+    ],
+    "imageCaptions": {},
+    "sourceUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "asymmetry",
+    "title": "Asymmetry",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/asymmetry/01.jpg",
+      "/media/asymmetry/02.jpg",
+      "/media/asymmetry/03.jpg",
+      "/media/asymmetry/04.jpg",
+      "/media/asymmetry/05.jpg",
+      "/media/asymmetry/06.jpg",
+      "/media/asymmetry/07.jpg",
+      "/media/asymmetry/08.jpg",
+      "/media/asymmetry/09.jpg",
+      "/media/asymmetry/10.jpg",
+      "/media/asymmetry/11.jpg",
+      "/media/asymmetry/12.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/asymmetry",
+    "featured": true
+  },
+  {
+    "slug": "i-started-from-a-place-of-embracing-that-which-i-can-not-control",
+    "title": "I Started from a Place of Embracing that Which I Can Not Control",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/01.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/02.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/03.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/04.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/05.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/06.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/07.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/08.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/09.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/10.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/11.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/12.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/13.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/14.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/15.jpg",
+      "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/16.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/i-started-from-a-place-of-embracing-that-which-i-can-not-control",
+    "featured": true
+  },
+  {
+    "slug": "score",
+    "title": "Score!",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/score/01.jpg",
+      "/media/score/02.jpg",
+      "/media/score/03.jpg",
+      "/media/score/04.jpg",
+      "/media/score/05.jpg",
+      "/media/score/06.jpg",
+      "/media/score/07.jpg",
+      "/media/score/08.jpg",
+      "/media/score/09.jpg",
+      "/media/score/10.jpg",
+      "/media/score/11.jpg",
+      "/media/score/12.jpg",
+      "/media/score/13.jpg",
+      "/media/score/14.jpg",
+      "/media/score/15.jpg",
+      "/media/score/16.jpg",
+      "/media/score/17.jpg",
+      "/media/score/18.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/score",
+    "featured": true
+  },
+  {
+    "slug": "toolbox-at-twenty",
+    "title": "toolbox@twenty",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "exhibition",
+    "medium": "",
+    "dimensions": "22 × 6 × 2",
+    "series": "",
+    "description": "\"Toolbox @ Twenty\" is an exhibit and performance series based on our Toolbox platform, a cross-disciplinary dialogue to inspire new choreographic tactics. In this, our first museum exhibit, we've invited a powerhouse of four Chicago artists to exchange with us and install their artwork: painter Jackie Kazarian, sculptor/builder Edra Soto, fiber artist Jacqueline Surdell, and sound artist Sadie Woods. Each guest artist has been dialoguing with a Seldoms dance artist. From these conversations, we've built new dancemaking tools and new short dances, which will be performed alongside their paintings, fiber work, dance film, and sound collage in the Hyde Park Art Center.",
+    "images": [
+      "/media/toolbox-at-twenty/01.jpg",
+      "/media/toolbox-at-twenty/02.jpg",
+      "/media/toolbox-at-twenty/03.jpg",
+      "/media/toolbox-at-twenty/04.jpg",
+      "/media/toolbox-at-twenty/05.jpg",
+      "/media/toolbox-at-twenty/06.jpg",
+      "/media/toolbox-at-twenty/07.jpg",
+      "/media/toolbox-at-twenty/08.jpg",
+      "/media/toolbox-at-twenty/09.jpg",
+      "/media/toolbox-at-twenty/10.jpg",
+      "/media/toolbox-at-twenty/11.jpg",
+      "/media/toolbox-at-twenty/12.jpg",
+      "/media/toolbox-at-twenty/13.jpg",
+      "/media/toolbox-at-twenty/14.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/spoken-for",
+    "featured": true
+  },
+  {
+    "slug": "charybdis-iii",
+    "title": "Charybdis III",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/charybdis-iii/01.jpg",
+      "/media/charybdis-iii/02.jpg",
+      "/media/charybdis-iii/03.jpg",
+      "/media/charybdis-iii/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/charybdis-iii",
+    "featured": true
+  },
+  {
+    "slug": "cotopaxi-with-cotton-candy-skies",
+    "title": "Cotopaxi with Cotton Candy Skies",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "Cotopaxi with Cotton Candy Skies",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/cotopaxi-with-cotton-candy-skies/01.jpg",
+      "/media/cotopaxi-with-cotton-candy-skies/02.jpg",
+      "/media/cotopaxi-with-cotton-candy-skies/03.jpg",
+      "/media/cotopaxi-with-cotton-candy-skies/04.jpg",
+      "/media/cotopaxi-with-cotton-candy-skies/05.jpg",
+      "/media/cotopaxi-with-cotton-candy-skies/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/cotopaxi-with-cotton-candy-skies",
+    "featured": true
+  },
+  {
+    "slug": "desire-to-ascend-our",
+    "title": "Desire to Ascend (our)",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Score! (installation)",
+    "description": "",
+    "images": [
+      "/media/desire-to-ascend-our/01.jpg",
+      "/media/desire-to-ascend-our/02.jpg",
+      "/media/desire-to-ascend-our/03.jpg",
+      "/media/desire-to-ascend-our/04.jpg",
+      "/media/desire-to-ascend-our/05.jpg",
+      "/media/desire-to-ascend-our/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/desire-to-ascend-our",
+    "featured": true
+  },
+  {
+    "slug": "earth-licker",
+    "title": "Earth Licker",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Asymmetry (installation)",
+    "description": "",
+    "images": [
+      "/media/earth-licker/01.jpg",
+      "/media/earth-licker/02.jpg",
+      "/media/earth-licker/03.jpg",
+      "/media/earth-licker/04.jpg",
+      "/media/earth-licker/05.jpg",
+      "/media/earth-licker/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/earth-licker",
+    "featured": true
+  },
+  {
+    "slug": "mist-in-lavender-series",
+    "title": "Mist in Lavender Series",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Mist in Lavender Series",
+    "description": "",
+    "images": [
+      "/media/mist-in-lavender-series/01.jpg",
+      "/media/mist-in-lavender-series/02.jpg",
+      "/media/mist-in-lavender-series/03.jpg",
+      "/media/mist-in-lavender-series/04.jpg",
+      "/media/mist-in-lavender-series/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/mist-in-lavender-series",
+    "featured": true
+  },
+  {
+    "slug": "not-one-but-not-two-either-blue",
+    "title": "Not one but not two either (Blue)",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Asymmetry (installation)",
+    "description": "",
+    "images": [
+      "/media/not-one-but-not-two-either-blue/01.jpg",
+      "/media/not-one-but-not-two-either-blue/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-blue",
+    "featured": true
+  },
+  {
+    "slug": "not-one-but-not-two-either-red",
+    "title": "Not one but not two either (red)",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Asymmetry (installation)",
+    "description": "",
+    "images": [
+      "/media/not-one-but-not-two-either-red/01.jpg",
+      "/media/not-one-but-not-two-either-red/02.jpg",
+      "/media/not-one-but-not-two-either-red/03.jpg",
+      "/media/not-one-but-not-two-either-red/04.jpg",
+      "/media/not-one-but-not-two-either-red/05.jpg",
+      "/media/not-one-but-not-two-either-red/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-red",
+    "featured": true
+  },
+  {
+    "slug": "reliquary-7",
+    "title": "Reliquary #7",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Score! (installation)",
+    "description": "",
+    "images": [
+      "/media/reliquary-7/01.jpg",
+      "/media/reliquary-7/02.jpg",
+      "/media/reliquary-7/03.jpg",
+      "/media/reliquary-7/04.jpg",
+      "/media/reliquary-7/05.jpg",
+      "/media/reliquary-7/06.jpg",
+      "/media/reliquary-7/07.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/reliquary-7",
+    "featured": true
+  },
+  {
+    "slug": "votive-series",
+    "title": "Votive Series",
+    "year": "2022",
+    "yearNum": 2022,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "Votive Series",
+    "description": "",
+    "images": [
+      "/media/votive-series/01.jpg",
+      "/media/votive-series/02.jpg",
+      "/media/votive-series/03.jpg",
+      "/media/votive-series/04.jpg",
+      "/media/votive-series/05.jpg",
+      "/media/votive-series/06.jpg",
+      "/media/votive-series/07.jpg",
+      "/media/votive-series/08.jpg",
+      "/media/votive-series/09.jpg",
+      "/media/votive-series/10.jpg",
+      "/media/votive-series/11.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/votive-series",
+    "featured": true
+  },
+  {
+    "slug": "cotopaxi-blood-moon-after-frederic-edwin-church",
+    "title": "Cotopaxi Blood Moon after Frederic Edwin Church",
+    "year": "2021",
+    "yearNum": 2021,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/cotopaxi-blood-moon-after-frederic-edwin-church/01.jpg",
+      "/media/cotopaxi-blood-moon-after-frederic-edwin-church/02.jpg",
+      "/media/cotopaxi-blood-moon-after-frederic-edwin-church/03.jpg",
+      "/media/cotopaxi-blood-moon-after-frederic-edwin-church/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-cotopaxi-blood-moon-after-frederic-edwin-church",
+    "featured": true
+  },
+  {
+    "slug": "penelopes-charybdis",
+    "title": "Penelope's Charybdis",
+    "year": "2021",
+    "yearNum": 2021,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/penelopes-charybdis/01.jpg",
+      "/media/penelopes-charybdis/02.jpg",
+      "/media/penelopes-charybdis/03.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-penelopes-charybdis",
+    "featured": true
+  },
+  {
+    "slug": "scylla-iv",
+    "title": "Scylla iv",
+    "year": "2021",
+    "yearNum": 2021,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/scylla-iv/01.jpg",
+      "/media/scylla-iv/02.jpg",
+      "/media/scylla-iv/03.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-iv",
+    "featured": true
+  },
+  {
+    "slug": "study-of-red-rope",
+    "title": "Study of Red Rope",
+    "year": "2021",
+    "yearNum": 2021,
+    "category": "sculpture",
+    "medium": "Study of Red Rope",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/study-of-red-rope/01.jpg",
+      "/media/study-of-red-rope/02.jpg",
+      "/media/study-of-red-rope/03.jpg",
+      "/media/study-of-red-rope/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/study-of-red-ropes",
+    "featured": true
+  },
+  {
+    "slug": "delicate",
+    "title": "Delicate",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "braided cotton cord, paracord, steel conduit",
+    "dimensions": "60\"x72\"x10",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/delicate/01.jpg",
+      "/media/delicate/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/delicate",
+    "featured": false
+  },
+  {
+    "slug": "destruction",
+    "title": "Destruction",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "84\"x96\"x12",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/destruction/01.jpg",
+      "/media/destruction/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/destruction",
+    "featured": false
+  },
+  {
+    "slug": "melancholy-of-always",
+    "title": "Melancholy of Always",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "cotton cord, nylon, fabric paracord, steel Dimensions: 78\"x 80\"x",
+    "dimensions": "78\"x 80\"x\"; 96\" bar",
+    "series": "",
+    "description": "The first in a series of works harnessing the Hudson Valley River School movement and paintings as a lens to grapple with, and attempt to navigate, our current moment in history.",
+    "images": [
+      "/media/melancholy-of-always/01.jpg",
+      "/media/melancholy-of-always/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/melancholy-of-always",
+    "featured": false
+  },
+  {
+    "slug": "pale-nightmares",
+    "title": "Pale Nightmares",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "cotton cord, nylon cord, paracord, fabric, steel Dimensions: 61\"x60\"x12",
+    "dimensions": "61\"x60\"x12\"; 72\" bar",
+    "series": "",
+    "description": "The second in a series of works harnessing the Hudson Valley River School movement and paintings as a lens to grapple with, and attempt to navigate, our current moment in history. Included in: This is America: Art USA Today , at the Kunsthal KAdE museum of modern and contemporary art, Amersfoort, Netherlands. Featured and reviewed in Patricia Sweetow Gallery .",
+    "images": [
+      "/media/pale-nightmares/01.jpg",
+      "/media/pale-nightmares/02.jpg",
+      "/media/pale-nightmares/03.jpg",
+      "/media/pale-nightmares/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/pale-nightmares",
+    "featured": false
+  },
+  {
+    "slug": "the-consummation-state",
+    "title": "The Consummation State",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/the-consummation-state/01.jpg",
+      "/media/the-consummation-state/02.jpg",
+      "/media/the-consummation-state/03.jpg",
+      "/media/the-consummation-state/04.jpg",
+      "/media/the-consummation-state/05.jpg",
+      "/media/the-consummation-state/06.jpg",
+      "/media/the-consummation-state/07.jpg",
+      "/media/the-consummation-state/08.jpg",
+      "/media/the-consummation-state/09.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-the-consummation-state",
+    "featured": false
+  },
+  {
+    "slug": "visions-of-medea",
+    "title": "Visions of Medea",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "nylon, paracord",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/visions-of-medea/01.jpg",
+      "/media/visions-of-medea/02.jpg",
+      "/media/visions-of-medea/03.jpg",
+      "/media/visions-of-medea/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/visions-of-medea",
+    "featured": false
+  },
+  {
+    "slug": "we-will-win-our-banner-in-the-sky",
+    "title": "We Will Win / Our Banner in the Sky",
+    "year": "2020",
+    "yearNum": 2020,
+    "category": "sculpture",
+    "medium": "cotton cord, nylon, paracord, fabric, ribbons",
+    "dimensions": "84\" x 108\" x 12\"; 120\" bar",
+    "series": "",
+    "description": "Made during the turbulence of the election, this work explores the symbology of the stars on the American Flag. These weighty symbols are fused with abstracted topographies including heat maps of the California Fires and dying coral reefs.",
+    "images": [
+      "/media/we-will-win-our-banner-in-the-sky/01.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/02.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/03.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/04.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/05.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/06.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/07.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/08.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/09.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/10.jpg",
+      "/media/we-will-win-our-banner-in-the-sky/11.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/we-will-win-our-banner-in-the-sky",
+    "featured": false
+  },
+  {
+    "slug": "straight-laced",
+    "title": "Straight Laced",
+    "year": "2019",
+    "yearNum": 2019,
+    "category": "installation",
+    "medium": "Installation",
+    "dimensions": "Variable Gallery Dimensions: W14’ x L34’",
+    "series": "",
+    "description": "Wielding a hybrid technique of weaving and macrame, Straight Laced transforms both gallery and ordinary gym equipment into a holy space — suggesting timelessness and monumental sites of ritual. Engaging greek mythology in title, Arachne Dearest suggests a shrine to individual devotion and sacrifice (highlighting micro-histories versus the more traditional heroic conquests). For instance, Arachne’s transformation into a spider after out-weaving the goddess Athena. Textile is inherently connected to stories of creation — these weightlifting \"cages\" carry obsessively knotted macrame designed based on volleyball charts — scoring the labor of bodies in space. By tying and knotting, I create moments that are precariously held together int he way that myths change depending on context. I distort the seriousness of myth to accommodate humor through my use of materials (like athletic socks). Adding humor and abjection to weighty references strategically undermines a seemingly authoritative installation — suggesting an anti-monument.",
+    "images": [
+      "/media/straight-laced/01.jpg",
+      "/media/straight-laced/02.jpg",
+      "/media/straight-laced/03.jpg",
+      "/media/straight-laced/04.jpg",
+      "/media/straight-laced/05.jpg",
+      "/media/straight-laced/06.jpg",
+      "/media/straight-laced/07.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/straight-laced",
+    "featured": false
+  },
+  {
+    "slug": "her",
+    "title": "[her]",
+    "year": "2019",
+    "yearNum": 2019,
+    "category": "sculpture",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/her/01.jpg",
+      "/media/her/02.jpg",
+      "/media/her/03.jpg",
+      "/media/her/04.jpg",
+      "/media/her/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/her",
+    "featured": false
+  },
+  {
+    "slug": "scylla-series",
+    "title": "Scylla Series",
+    "year": "2019",
+    "yearNum": 2019,
+    "category": "sculpture",
+    "medium": "braided cotton cord, paracord",
+    "dimensions": "18\"x20\"x6",
+    "series": "Scylla Series",
+    "description": "This series of works references Homer's sea monster, Scylla. The mass of jumbled knots accumulates, mutates, spreads, and expands from the framed \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
+    "images": [
+      "/media/scylla-series/01.jpg",
+      "/media/scylla-series/02.jpg",
+      "/media/scylla-series/03.jpg",
+      "/media/scylla-series/04.jpg",
+      "/media/scylla-series/05.jpg",
+      "/media/scylla-series/06.jpg",
+      "/media/scylla-series/07.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-series",
+    "featured": false
+  },
+  {
+    "slug": "untitled-noir-series",
+    "title": "Untitled Noir Series",
+    "year": "2019",
+    "yearNum": 2019,
+    "category": "sculpture",
+    "medium": "braided cotton cord of various size, steel",
+    "dimensions": "dimensions variable",
+    "series": "Untitled Noir Series",
+    "description": "Untitled Series explores knotting techniques as a type of connective drawing device, creating structure and defining space. It is a transformative technique combining the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. The incorporation of egalitarian material, such as rope and steel, renders the work large-scale, suggesting strength, machinery, and industry. The result is a series of sculptures rendered through a combination of industrial versus domestic and tradition versus modern.",
+    "images": [
+      "/media/untitled-noir-series/01.jpg",
+      "/media/untitled-noir-series/02.jpg",
+      "/media/untitled-noir-series/03.jpg",
+      "/media/untitled-noir-series/04.jpg",
+      "/media/untitled-noir-series/05.jpg",
+      "/media/untitled-noir-series/06.jpg",
+      "/media/untitled-noir-series/07.jpg",
+      "/media/untitled-noir-series/08.jpg",
+      "/media/untitled-noir-series/09.jpg",
+      "/media/untitled-noir-series/10.jpg",
+      "/media/untitled-noir-series/11.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-noir-series",
+    "featured": false
+  },
+  {
+    "slug": "kerk-straat-church-street",
+    "title": "Kerk Straat (Church Street)",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "installation",
+    "medium": "paint, wood, sound Dimensions: variable 2018",
+    "dimensions": "variable 2018",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/kerk-straat-church-street/01.jpg",
+      "/media/kerk-straat-church-street/02.jpg",
+      "/media/kerk-straat-church-street/03.jpg",
+      "/media/kerk-straat-church-street/04.jpg",
+      "/media/kerk-straat-church-street/05.jpg",
+      "/media/kerk-straat-church-street/06.jpg",
+      "/media/kerk-straat-church-street/07.jpg",
+      "/media/kerk-straat-church-street/08.jpg",
+      "/media/kerk-straat-church-street/09.jpg",
+      "/media/kerk-straat-church-street/10.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/kerk-straat-church-street",
+    "featured": false
+  },
+  {
+    "slug": "urban-contours",
+    "title": "Urban Contours",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "installation",
+    "medium": "paint, wood, sound Dimensions: variable 2018",
+    "dimensions": "variable 2018",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/urban-contours/01.jpg",
+      "/media/urban-contours/02.jpg",
+      "/media/urban-contours/03.jpg",
+      "/media/urban-contours/04.jpg",
+      "/media/urban-contours/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/urban-contours",
+    "featured": false
+  },
+  {
+    "slug": "a-heavy-dew",
+    "title": "A Heavy Dew",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "sculpture",
+    "medium": "Braided cotton cord, steel",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/a-heavy-dew/01.jpg",
+      "/media/a-heavy-dew/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/a-heavy-dew",
+    "featured": false
+  },
+  {
+    "slug": "find-the-open-space",
+    "title": "Find the Open Space",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "sculpture",
+    "medium": "Braided cotton cord, steel, bungee cord",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/find-the-open-space/01.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/find-the-open-space",
+    "featured": false
+  },
+  {
+    "slug": "untitled-series",
+    "title": "Untitled Series",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "sculpture",
+    "medium": "braided cotton cord of various size, steel",
+    "dimensions": "dimensions variable",
+    "series": "Untitled Series",
+    "description": "Untitled Series explores knotting techniques as a type of connective drawing device, creating structure and defining space. It is a transformative technique combining the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. The incorporation of egalitarian material, such as rope and steel, renders the work large-scale, suggesting strength, machinery, and industry. The result is a series of sculptures rendered through a combination of industrial versus domestic and tradition versus modern.",
+    "images": [
+      "/media/untitled-series/01.jpg",
+      "/media/untitled-series/02.jpg",
+      "/media/untitled-series/03.jpg",
+      "/media/untitled-series/04.jpg",
+      "/media/untitled-series/05.jpg",
+      "/media/untitled-series/06.jpg",
+      "/media/untitled-series/07.jpg",
+      "/media/untitled-series/08.jpg",
+      "/media/untitled-series/09.jpg",
+      "/media/untitled-series/10.jpg",
+      "/media/untitled-series/11.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-series",
+    "featured": false
+  },
+  {
+    "slug": "kerk-straat",
+    "title": "Kerk Straat",
+    "year": "2018",
+    "yearNum": 2018,
+    "category": "performance",
+    "medium": "",
+    "dimensions": "",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/kerk-straat/01.jpg",
+      "/media/kerk-straat/02.jpg",
+      "/media/kerk-straat/03.jpg",
+      "/media/kerk-straat/04.jpg",
+      "/media/kerk-straat/05.jpg",
+      "/media/kerk-straat/06.jpg",
+      "/media/kerk-straat/07.jpg",
+      "/media/kerk-straat/08.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/performance/kerk-straat",
+    "featured": false
+  },
+  {
+    "slug": "ah-pussy-of-the-sands",
+    "title": "Ah, Pussy, of the Sands",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "installation",
+    "medium": "",
+    "dimensions": "9\"x3",
+    "series": "",
+    "description": "Ah, Pussy, of the Sands , Video Installation, 2017 Ah, Pussy, of the Sands No.2 , double-channel projection, color video, sound, 29:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Human measure I, II , Sweat and body paint on archival paper, 48\"x84\", 2017 Cassandra Davis, cinematography",
+    "images": [
+      "/media/ah-pussy-of-the-sands/01.jpg",
+      "/media/ah-pussy-of-the-sands/02.jpg",
+      "/media/ah-pussy-of-the-sands/03.jpg",
+      "/media/ah-pussy-of-the-sands/04.jpg",
+      "/media/ah-pussy-of-the-sands/05.jpg",
+      "/media/ah-pussy-of-the-sands/06.jpg",
+      "/media/ah-pussy-of-the-sands/07.jpg",
+      "/media/ah-pussy-of-the-sands/08.jpg",
+      "/media/ah-pussy-of-the-sands/09.jpg",
+      "/media/ah-pussy-of-the-sands/10.jpg",
+      "/media/ah-pussy-of-the-sands/11.jpg",
+      "/media/ah-pussy-of-the-sands/12.jpg",
+      "/media/ah-pussy-of-the-sands/13.png",
+      "/media/ah-pussy-of-the-sands/14.jpg",
+      "/media/ah-pussy-of-the-sands/15.jpg",
+      "/media/ah-pussy-of-the-sands/16.jpg",
+      "/media/ah-pussy-of-the-sands/17.jpg",
+      "/media/ah-pussy-of-the-sands/18.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands",
+    "featured": false
+  },
+  {
+    "slug": "body-work",
+    "title": "Body Work",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "installation",
+    "medium": "",
+    "dimensions": "9\"x3",
+    "series": "",
+    "description": "Body Work , Video Installation, 2017 Ah, Pussy, of the Sands No.3 , single-channel projection, color video, sound, 30:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Jump box I, II , 12\"x12\", 36\"x36\", 2017 Human measure I, II, III , Sweat and body paint on archival paper, custom float frame, 48\"x84\", 2017 Limbo Suspension I, II , Archival Inkjet print, 32\"x40\", 2017 Body Work represents ongoing research into the cultural and societal anxieties surrounding the changing definitions and decisions of labor. The installation specifically examines artistic labor, athletic labor, female labor, and the concept of cultural production in the digital age. Through the use of found object sculpture, remnants of performance, photography, and video, Body Work situates sporting labor and the labor of the female artist within the broader sociopolitical landscape — one wrought with gender inequalities. Such actions allow me to think through the paradoxical ways in which success in either realm is considered a form of social aspiration as well as a form of entrapment. Here I identify the underpaid labor of both female athletes and female artists as part of a larger domestic economy with national and global ramifications. This dialectic approach to the economic and social issues plaguing women's labor functions as both sympathetic and highly critical.",
+    "images": [
+      "/media/body-work/01.jpg",
+      "/media/body-work/02.jpg",
+      "/media/body-work/03.jpg",
+      "/media/body-work/04.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/body-work",
+    "featured": false
+  },
+  {
+    "slug": "diplomat-with-without-track-suit",
+    "title": "Diplomat With/Without Track Suit",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "photography",
+    "medium": "Photographer Archival Inkjet print 32\"x40",
+    "dimensions": "32\"x40",
+    "series": "",
+    "description": "This photo series represents ongoing research into the inherently political aspects of sports and how the politicalization of sports functions throughout history. After a residency in Berlin, I began investigating the inner workings of the German Democratic Republic dictatorship established in East Germany post World War II. The GDR stands as the forerunner in the field of sports politics, and characteristics of the iconic political sports model lives on in contemporary capitalist socialites. High ranking government officials strategically mobilized an elite sport system as a means to increase international authority and image. Such high ranking political officers often referred to their athletes as, \"diplomats in tracksuits\", as the athletes' personal successes in the realms of sport (particularly the international Olympic stage) represented the strength of the young East German government. In this image the athlete-artist stands in a turquoise pant suit humorously taking on the sign of \"diplomat\" and exploring the the symbology and masking quality of \"the uniform\". I consider the uniform to be anything that condenses or hides individually while simultaneously connecting people through shared cloth (ie the athletic uniform, military uniform, the dress suit, etc). The masked athlete-artist faces the wall and mimics the surrounding turf (fake grass). In this way, the composition hints at the possibility, and likelihood, of warped truth.",
+    "images": [
+      "/media/diplomat-with-without-track-suit/01.jpg",
+      "/media/diplomat-with-without-track-suit/02.jpg",
+      "/media/diplomat-with-without-track-suit/03.jpg",
+      "/media/diplomat-with-without-track-suit/04.jpg",
+      "/media/diplomat-with-without-track-suit/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/photography/diplomat-with-without-track-suit",
+    "featured": false
+  },
+  {
+    "slug": "limbo-suspension",
+    "title": "Limbo Suspension",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "photography",
+    "medium": "Photographer Archival Inkjet print 32\"x40",
+    "dimensions": "32\"x40",
+    "series": "",
+    "description": "This photo series represents a response to and research into the concept of life after death. I posit, if the body is the vessel holding energy (energy that can not be created nor destroyed) where then, does this energy go when the body (vessel) breaks? This work considers the concept of limbo as the artist-athlete engages with the art historical narratives of the classical nude as seen in both painting and photography. Rendered suspended of my own accord I challenge the gaze while physically grappling with self-inflicted restraints. Suspended from the walls of a historical artistic institution (The Art Institute of Chicago) the performative sculpture both holds the body while threatening to collapse in and upon the same body. In this way I address risk of the body while garnering strength from my vulnerability.",
+    "images": [
+      "/media/limbo-suspension/01.jpg",
+      "/media/limbo-suspension/02.jpg",
+      "/media/limbo-suspension/03.jpg",
+      "/media/limbo-suspension/04.jpg",
+      "/media/limbo-suspension/05.jpg",
+      "/media/limbo-suspension/06.jpg",
+      "/media/limbo-suspension/07.jpg",
+      "/media/limbo-suspension/08.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/photography/limbo-suspension",
+    "featured": false
+  },
+  {
+    "slug": "human-measurements",
+    "title": "Human Measurements",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "works-on-paper",
+    "medium": "Sweat and body paint on archival paper",
+    "dimensions": "48\"x84",
+    "series": "",
+    "description": "",
+    "images": [
+      "/media/human-measurements/01.jpg",
+      "/media/human-measurements/02.jpg",
+      "/media/human-measurements/03.jpg",
+      "/media/human-measurements/04.jpg",
+      "/media/human-measurements/05.jpg",
+      "/media/human-measurements/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/works-on-paper/human-measurements",
+    "featured": false
+  },
+  {
+    "slug": "ah-pussy-of-the-sands-no-2",
+    "title": "Ah, Pussy, of the Sands, No.2",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "video",
+    "medium": "color video, sound",
+    "dimensions": "",
+    "series": "",
+    "description": "In, Ah, Pussy, of the Sands No.2 , I pull from my biography to explore the notion of the contemporary athlete as animal, specifically, as cat. I investigate perceived notions of authority and hierarchical understandings by conflating the objectification of the athletic body, the female body, and the natural realm. Evoking the appearance of Aimee Mullins’s leopard character in Mathew Barney’s Cremaster 3 (2002), with narration of Yves Klein’s renowned performance, Blue Women Art, 1962 , I draw parallels between two historically acclaimed male artists (Barney and Klein) who use the female body as a tool for their own means and benefit. Yet where Barney produced a personal mythology with idiosyncratic references in U.S. popular culture, I work within the myth of the studio itself, as embodied by artists such Bruce Nauman and Carolee Schneemann. The symbol of the cat goes back to Olympia, the dawn of modernism, and the rupture of agency beginning with Olympia's restrictive hand. The artist-athlete, like a figure for physical vitality or potency itself, subverts such concept by painting herself, pushing herself, highlighting her trained physicality, and flaunting her body and skill. My approach is modeled after iconic Schneemann works such as, Up to and Including her Limits (1972-76), and Aimee Mullins’s career as Olympic athlete, model, actress, and activist. Using my body as a literal means of production, I take back my body from the objectified pages of modern and contemporary art histories by means of fantastical play hybridized with a show of bodily power, strength, and force of will. The final product renders me the single agent of my trained body, mind, and practice, while nodding to the histories of women who came before.",
+    "images": [],
+    "sourceUrl": "https://www.jacquelinesurdell.com/video-ah-pussy-of-the-sands-no2",
+    "featured": false
+  },
+  {
+    "slug": "familial-endurance",
+    "title": "Familial Endurance",
+    "year": "2017",
+    "yearNum": 2017,
+    "category": "performance",
+    "medium": "Performance",
+    "dimensions": "",
+    "series": "",
+    "description": "Familial Endurance explores the concept of endurance in relation to familial histories. Through the lens of my Grandmothers’ having endured life, this 4 hour durational work pulls from the stories of their lives. In the act of sharing family mythology we grow closer. While my Grandmothers and mother share their stories I simultaneously build both collective and personal narratives physically manifesting the audio events as it is woven into my personal history and shared family history. Cycling represents the ongoing process of the manifestation of self — the rendering of personal identity created through familial tales. The indoor bike is an apparatus of stagnant change — as one increases the resistance the body endures and gains strength. As intense experiences are shared family ties grow stronger and confidence in the sense of self increases. This performance sits precariously at the brink of pretentiousness, and melodrama — a leisure activity turned excessive and absurd. In this way, the work seeks to address privileges in time and leisure labor.",
+    "images": [],
+    "sourceUrl": "https://www.jacquelinesurdell.com/performance/familial-endurance",
+    "featured": false
+  },
+  {
+    "slug": "shuddering-turns-to-sobbing",
+    "title": "Shuddering Turns to Sobbing",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "installation",
+    "medium": "",
+    "dimensions": "12\"x36",
+    "series": "",
+    "description": "Shuddering Turns to Sobbing , Video Installation, 2016 No Words , CNC steel cut text, aprox 12\"x36\", 2016 Survival Axe Sculpture , pine planks hacked apart with survival axe, wood glue, screws, 5’9\"x2’, 2016 Endurance of the Smile , Single-channel projection, color video, 07:30 minute loop, 2016 Body Size , gym court planks, maple, resin, enamel, 4’x3’, 2016 Coaches Award: An All Relative Color Field , epoxy on gym court plank with deflated Coaches Award/volleyball, 4’x3’, 2016 Steam rises the fog of your third eye. One eyebrow travels from the left to center – then the other. Pressing hard into the middle of your forehead — they meet under force long ends breaking under stress press skin of your forehead up towards your hairline. Soft pads wrinkly fingers press to their core. momentarily sooth, continue their tireless action to the center and up. press hard. Linear plains of string genetic fiber whips, turns; settling under their own wet weight like oil to skin — adhered and burning. dark mop fiber hanging, slopping, tangled but smooth. Plastic, greasy, sticky. Stained bones meet your forehead. rest there momentarily. Hard cartilage on skull — only a thin layer soft, rubbery, plainer cells between the two. eyelids extend — wrinkle up then smooth out over dark, glassy, eyeballs. Pressure — so much pressure within the dark eyes. Heat, floods, saturated warmth, burning – blood vessels burst leaving the color red. The color of blood — oxidized blood. Different than stains of the body, genderless People tell me I have \"nice eyes\" — brown in the shade green in the light. One must look closely to see the green — beneath darkness there is lightness. What is wrong with darkness I wonder — why are you commenting on my eyes what do my eyes say? — what language do they speak? Filling with clear lightness they rub up down and left and right upon soft, wet, skin. Little wrinkly lily pads, ten of them, caress, hold, push, press, stress upon raised muscle Below stains — they press. Lily pads on fingers, fingers on hands, hands to broken wrists. wrists crack, stress, open and close, joints creaking — they pull, tighten their grasp Skin shifts over bone. shuddering turns to sobbing Pellets strike, oil shifts, forearms tighten, water flows, hot, angry, eyebrows push — they push so hard. Listening. there is sound. loud. guitar. lyrics. screaming. is this my own personal baptism? octagons press, eyebrows pressure, knees crack in desperation, stain ever present. No way to clean it up now. forever stained. forever broken. forever tight.",
+    "images": [
+      "/media/shuddering-turns-to-sobbing/01.jpg",
+      "/media/shuddering-turns-to-sobbing/02.jpg",
+      "/media/shuddering-turns-to-sobbing/03.jpg",
+      "/media/shuddering-turns-to-sobbing/04.jpg",
+      "/media/shuddering-turns-to-sobbing/05.jpg",
+      "/media/shuddering-turns-to-sobbing/06.jpg",
+      "/media/shuddering-turns-to-sobbing/07.jpg",
+      "/media/shuddering-turns-to-sobbing/08.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/shuddering-turns-to-sobbing",
+    "featured": false
+  },
+  {
+    "slug": "coaches-award-an-all-relative-color-field",
+    "title": "Coaches Award: An All Relative Color Field",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "sculpture",
+    "medium": "2016 Black resin on gym court plank with deflated volleyball 4’x3.5'",
+    "dimensions": "",
+    "series": "",
+    "description": "Coaches Award is a playful take on Harold Rosenberg’s 1950s terminology of, \"action painting\". In his iconic article, The American Action Painters , Rosenberg describes the canvas as, \"an arena in which to act\". Here, the wood court not only represents a realm for action but is an arena upon which years of action or, \"gesticulation\" occurred. Encased in resin, the final exercise upon this arena is that of the artist. The process mirrors the artist body embracing and memorializing the expressions of athletic bodies ingrained within the wood court.",
+    "images": [
+      "/media/coaches-award-an-all-relative-color-field/01.jpg",
+      "/media/coaches-award-an-all-relative-color-field/02.jpg",
+      "/media/coaches-award-an-all-relative-color-field/03.jpg",
+      "/media/coaches-award-an-all-relative-color-field/04.jpg",
+      "/media/coaches-award-an-all-relative-color-field/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/coaches-award-an-all-relative-color-field",
+    "featured": false
+  },
+  {
+    "slug": "how-high-is-too-high",
+    "title": "How High is Too High?",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "sculpture",
+    "medium": "gym court plank, maple, resin, enamel",
+    "dimensions": "60\"x180",
+    "series": "",
+    "description": "In this iteration, the augmented vertec leans precariously at 15ft tall (well beyond human limits). The new height stages, performs, and measures the apex of the average leopard jump and reach. I choose the leopard, and employ \"leopard logic\", to explore socially constructed spaces of devision (hierarchies) versus physical realms of genetically altered bodily difference (height) in humans. Leopards are the smallest members of the large cat category. Yet, the leopard is highly adaptable and lives across the globe, from sub-Saharan Africa, to, Russia, China and the islands of Java and Sri Lanka, (according to the International Union for Conservation of Nature (IUCN)). These cats survive in almost any type of habitat, including rainforests, deserts, woodlands, grassland savannas, forests, mountain habitats, coastal scrubs, shrub lands and swampy areas. In fact, leopards live in more places than any other large cat. Their adaptability and status as predator makes the leopard the perfect metaphor to explore the ways in which humans create spaces of difference between each other — as we do with the natural realm. The project follows a form of nonsensical questions stemming from, \"leopard logic\": Why do we as humans consider ourselves above the natural world? Where does our sense of authority come from? Why do we create hierarchical understandings of existence in the manner in which we do? Who is really in power? Who is in control? Why?",
+    "images": [
+      "/media/how-high-is-too-high/01.jpg",
+      "/media/how-high-is-too-high/02.jpg",
+      "/media/how-high-is-too-high/03.jpg",
+      "/media/how-high-is-too-high/04.jpg",
+      "/media/how-high-is-too-high/05.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/how-high-is-too-high",
+    "featured": false
+  },
+  {
+    "slug": "lets-be-stars",
+    "title": "Let's be Stars",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "sculpture",
+    "medium": "braided cotton cord of various size, custom steel frame",
+    "dimensions": "31\"x31",
+    "series": "",
+    "description": "Applying cotton cord of various size, Let’s be Stars explores the terms of painting. The mass of jumbled knots accumulates, mutates, spreads and expands from the \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
+    "images": [
+      "/media/lets-be-stars/01.jpg",
+      "/media/lets-be-stars/02.jpg",
+      "/media/lets-be-stars/03.jpg",
+      "/media/lets-be-stars/04.jpg",
+      "/media/lets-be-stars/05.jpg",
+      "/media/lets-be-stars/06.jpg",
+      "/media/lets-be-stars/07.jpg",
+      "/media/lets-be-stars/08.jpg",
+      "/media/lets-be-stars/09.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/lets-be-stars",
+    "featured": false
+  },
+  {
+    "slug": "survival-axe-sculpture",
+    "title": "Survival Axe Sculpture",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "sculpture",
+    "medium": "2x4 pine planks hacked apart with survival axe, wood glue",
+    "dimensions": "2x4",
+    "series": "",
+    "description": "\"The day after Trump won the the elections last November, Surdell purchased a survival ax. She unleashed her frustration and anger on lumber in flurry of cathartic rage. She stacked the wounded beams into dimensions that echoed her own body as physical manifestation of her pain and disappointment.\" - Jared Packard, Curator of (Re)Flex Space, 2017",
+    "images": [
+      "/media/survival-axe-sculpture/01.jpg",
+      "/media/survival-axe-sculpture/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/survival-axe-sculpture",
+    "featured": false
+  },
+  {
+    "slug": "endurance-of-the-smile",
+    "title": "Endurance Of The Smile",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "video",
+    "medium": "color video",
+    "dimensions": "",
+    "series": "",
+    "description": "I wonder where stereotypes come from. I question how and why they are are perpetuated, in what contexts, and how they shift over time. Endurance of the Smile is a 07:33 minute long videoperformance where I interrogate my own stereotype, \"the smiley white-girl\", utilizing facial endurance as a tool to explore personal versus perceived perception. Here I smile until my facial muscles can no longer tighten. The simple, humorous, subversion seeks to ask questions of the viewer, to make viewers aware of themselves, as well as to reflect upon their own biases as they participate in the work. \"Jacqueline Surdell takes on perceptions of women in acerbic, highly physical performances. Taking on Yves Klein and the patriarchy, she reminds us that not only must women deal with being sexualized, we are also expected to smile through it.\" - Miranda Lash | Curator of Contemporary Art, Speed Art Museum",
+    "images": [],
+    "sourceUrl": "https://www.jacquelinesurdell.com/video/endurance-of-the-smile",
+    "featured": false
+  },
+  {
+    "slug": "youre-a-hack",
+    "title": "You're A Hack",
+    "year": "2016",
+    "yearNum": 2016,
+    "category": "video",
+    "medium": "color video, sound",
+    "dimensions": "",
+    "series": "",
+    "description": "\"The day after Trump won the the elections last November, Surdell purchased a survival ax. She unleashed her frustration and anger on lumber in flurry of cathartic rage. She stacked the wounded beams into dimensions that echoed her own body as physical manifestation of her pain and disappointment.\" - Jared Packard, Curator of (Re)Flex Space, 2017",
+    "images": [],
+    "sourceUrl": "https://www.jacquelinesurdell.com/video/youre-a-hack",
+    "featured": false
+  },
+  {
+    "slug": "ah-pussy-of-the-sands-iteration-iii",
+    "title": "Ah, Pussy, of the Sands, Iteration III",
+    "year": "2015-2018 (range)",
+    "yearNum": 2015,
+    "category": "installation",
+    "medium": "Untitled Body Size: An All Relative Colorfield (Pink over Blue)",
+    "dimensions": "",
+    "series": "",
+    "description": "Installation from left to right, including: Coaches Award: an all Relative Color Field ; Ah, Pussy, of the Sands No. 4 ; How High is too High? ; Untitled Body Size: An All Relative Colorfield (Pink over Blue); Limbo Suspension III ; Limbo Suspension as part of, Hand-Eye Coordination: Sports and Art",
+    "images": [
+      "/media/ah-pussy-of-the-sands-iteration-iii/01.jpg",
+      "/media/ah-pussy-of-the-sands-iteration-iii/02.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands-iteration-iii",
+    "featured": false
+  },
+  {
+    "slug": "dear-william-leonard-pereira",
+    "title": "Dear William Leonard Pereira",
+    "year": "2015",
+    "yearNum": 2015,
+    "category": "installation",
+    "medium": "braided cotton cord",
+    "dimensions": "dimensions variable",
+    "series": "",
+    "description": "I use knotting techniques as a type of connective drawing device, a way to create structure and define space. It is a transformative technique that combines the reedy and slack with volume and shape. The performative, repetitive nature of the technique imbues an element of time as much as it speaks of space and volume. Dear William Leonardo Piera represents ongoing explorations into the haptic quality of craftbased sculptures/installations existing within the built environment. The installations’ existence inside an administrative building (within a private institution) asks fundamental questions concerning expressions of power in the built environment.",
+    "images": [
+      "/media/dear-william-leonard-pereira/01.jpg",
+      "/media/dear-william-leonard-pereira/02.jpg",
+      "/media/dear-william-leonard-pereira/03.jpg",
+      "/media/dear-william-leonard-pereira/04.jpg",
+      "/media/dear-william-leonard-pereira/05.jpg",
+      "/media/dear-william-leonard-pereira/06.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/dear-william-leonard-pereira",
+    "featured": false
+  },
+  {
+    "slug": "examination-of-workroom",
+    "title": "Examination of Workroom",
+    "year": "2015",
+    "yearNum": 2015,
+    "category": "installation",
+    "medium": "Examination of Workroom/Knotted Environment, braided cotton cord of various size",
+    "dimensions": "9'x9'",
+    "series": "",
+    "description": "The idea of an artist, \"studio\" is fascinating. The traditionally four square/rectangular walls of white are on one hand exciting and on the other anxiety inducing. My installations respond and question the spaces of previously defined lines within built environments. Here, I expand upon the sterile-ness of the SAIC studio -- using the studio's \"bones\" as an armature off which to build knotted forms. The elaborate webs and new walls materialize as an invasion of an otherwise authoritarian space. In this way, this installation asks fundamental questions about the artists place, function, and broader respeonsibility within the built environment.",
+    "images": [
+      "/media/examination-of-workroom/01.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/examination-of-workroom",
+    "featured": false
+  },
+  {
+    "slug": "tectonic-cord",
+    "title": "Tectonic Cord",
+    "year": "2014",
+    "yearNum": 2014,
+    "category": "installation",
+    "medium": "Tectonic Cord",
+    "dimensions": "dimensions variable",
+    "series": "",
+    "description": "Tectonic Cord explores knotting techniques as a type of connective drawing device as a way to create structure and define space on an architectural scale. The installation transformed a public dining hall into a vibrant and colorful alternate ceiling becoming a gathering space prompting new conversations and social interaction. The work injects a fanciful component into a space where people often dine in a perfunctory way.",
+    "images": [
+      "/media/tectonic-cord/01.jpg",
+      "/media/tectonic-cord/02.jpg",
+      "/media/tectonic-cord/03.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/tectonic-cord",
+    "featured": false
+  },
+  {
+    "slug": "tents",
+    "title": "Tents",
+    "year": "2014",
+    "yearNum": 2014,
+    "category": "installation",
+    "medium": "cotton rope",
+    "dimensions": "",
+    "series": "",
+    "description": "\"Tents is a site-specific installation on Occidental College Campus. This project focuses on aesthetics of the human form through the context of vernacular architecture and the bodily scaled crafts of knitting and macramé. The three elements used for constructed, arundo grass harvested from the L.A. River, knit swaths, and dyed rope, loosely function as bones, skin, and viscera respectively. Tents aims to echo the human body in the form of nomadic homes. The form simulates osmosis on the larger scale of consciousness. In other words. The tents act as our bodies (vessels), the occupants symbolize consciences, fluidly moving through them, sharing them, demonstrating our inter-being.\" - Hannah Rindlaub",
+    "images": [
+      "/media/tents/01.jpg",
+      "/media/tents/02.jpg",
+      "/media/tents/03.jpg",
+      "/media/tents/04.jpg",
+      "/media/tents/05.jpg",
+      "/media/tents/06.jpg",
+      "/media/tents/07.jpg",
+      "/media/tents/08.jpg",
+      "/media/tents/09.jpg",
+      "/media/tents/10.jpg"
+    ],
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/tents",
+    "featured": false
+  }
 ]
