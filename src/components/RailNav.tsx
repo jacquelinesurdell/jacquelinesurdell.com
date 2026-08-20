@@ -19,7 +19,9 @@ export default function RailNav() {
     (works as Work[]).filter((w) => w.category === key && w.featured);
   const active = (href: string) => (path === href ? " active" : "");
 
-  const Groups = () => (
+  // A plain element, not a component. Declaring a component inside render makes
+  // React remount the whole list on every keystroke of state, and lint rejects it.
+  const groups = (
     <>
       <Link href="/all" className={`rail-link rail-all${active("/all")}`}>
         ALL
@@ -71,7 +73,7 @@ export default function RailNav() {
           <div className="hr" />
         </div>
         <div className="rail-scroll">
-          <Groups />
+          {groups}
         </div>
       </nav>
 
@@ -91,7 +93,7 @@ export default function RailNav() {
       {open ? (
         <div className="msheet" onClick={() => setOpen(false)}>
           <nav className="msheet-inner" onClick={(e) => e.stopPropagation()}>
-            <Groups />
+            {groups}
           </nav>
         </div>
       ) : null}
