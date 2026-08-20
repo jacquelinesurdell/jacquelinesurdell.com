@@ -78,10 +78,10 @@ content:
         description: For example, 43 x 35 x 12 inches.
 
       - name: featured
-        label: Show in the index
+        label: Show in the side navigation
         type: boolean
         default: true
-        description: Turn this off to keep a project on the site but out of the navigation list.
+        description: Controls the side navigation list only. Turn it off to keep a project on the site and on the home page, but out of that list. The home page shows every project that has at least one image, so this switch does not remove a project from the home page.
 
       - name: order
         label: Position

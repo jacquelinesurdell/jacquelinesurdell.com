@@ -34,14 +34,16 @@ to send it again.
    Individual works usually leave it blank.
 
    Images. Click the field, then upload. You can select many at once. After they upload, drag
-   them into the order you want. The first image is the one that leads the page and shows in
-   the index grid.
+   them into the order you want. The first image is the one that leads the page and shows on the
+   home page. A project with no images does not appear on the home page at all, so add at least
+   one.
 
    Medium and Dimensions. For individual works, for example cotton cord, nylon cord, steel and
    43 x 35 x 12 inches. Leave blank for exhibitions.
 
-   Show in the index. Leave this on. Turn it off only if you want a project to exist on the
-   site but stay out of the navigation list.
+   Show in the side navigation. Leave this on. Turn it off only if you want a project to stay
+   out of the side navigation list. It does not remove the project from the home page. The home
+   page shows every project that has at least one image.
 
    Position. Leave this blank. A new project automatically goes to the top of the list.
 
@@ -63,8 +65,9 @@ are resized automatically when you publish, so the site stays fast. Your origina
 
 To change an existing project, open Projects, click its name, edit, save, publish.
 
-To take a project down, open it and turn off Show in the index. That removes it from the
-navigation. Ask Ben if you want it deleted entirely.
+To take a project out of the side navigation, open it and turn off Show in the side
+navigation. The project stays on the home page. To remove it from the home page as well, or to
+delete it entirely, ask Ben.
 
 Reordering projects is done with the Position field, but you should rarely need it. If the
 order looks wrong, ask Ben rather than guessing.
