@@ -1,6 +1,8 @@
 name: Deploy to GitHub Pages
 
-# Manual-trigger only. Production deploy for jacquelinesurdell.com.
+# Manual-trigger only: this is the PREVIEW deploy to the github.io project
+# subpath (jacquelinesurdell.github.io/jacquelinesurdell.com/). At apex go-live,
+# unset NEXT_PUBLIC_BASE_PATH below and add a public/CNAME = jacquelinesurdell.com.
 on:
   workflow_dispatch:
 
@@ -24,7 +26,10 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          NEXT_PUBLIC_SITE_URL: https://jacquelinesurdell.com
+          # PREVIEW (github.io subpath). At apex go-live: set BASE_PATH to "" and
+          # SITE_URL to https://jacquelinesurdell.com, and add public/CNAME.
+          NEXT_PUBLIC_BASE_PATH: /jacquelinesurdell.com
+          NEXT_PUBLIC_SITE_URL: https://jacquelinesurdell.github.io/jacquelinesurdell.com
       - uses: actions/configure-pages@v5
         with:
           enablement: true
