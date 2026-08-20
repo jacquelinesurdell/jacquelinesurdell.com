@@ -1,0 +1,754 @@
+{
+  "_note": "Fields the Pages CMS editor does not manage. Pages CMS rewrites a project file with only the fields declared in .pages.yml, so anything kept here would be deleted on her first save. build-works.mjs merges these back in by slug. Edit this file by hand, never through the CMS.",
+  "a-heavy-dew": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/a-heavy-dew"
+  },
+  "adoration-garden": {
+    "imageCaptions": {
+      "/media/adoration-garden/03.jpg": {
+        "title": "AdorationGarden Busia’sHomeAltar",
+        "medium": "wood, paint",
+        "dimensions": "12x6 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/04.jpg": {
+        "title": "AdorationGarden I dread the loss of heaven",
+        "medium": "vinyl",
+        "dimensions": "10x5 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/06.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/07.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/08.jpg": {
+        "title": "AdorationGarden corner alter",
+        "medium": "wood, paint",
+        "dimensions": "3x3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/09.jpg": {
+        "title": "AdorationGarden",
+        "medium": "going up?, three-sided early 20th Century Elevator Directional Lantern salvaged from Chicago Medinah Athletic Club Tower Interior Lobby, bronze, glass",
+        "dimensions": "9 x 5 x 3 inches",
+        "year": 2023
+      },
+      "/media/adoration-garden/10.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/11.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/12.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/13.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/14.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/15.jpg": {
+        "title": "AdorationGarden",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/16.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W",
+        "year": 2023
+      },
+      "/media/adoration-garden/17.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/18.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/19.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/20.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      },
+      "/media/adoration-garden/21.jpg": {
+        "title": "AdorationGarden pano",
+        "medium": "nylon cord, rosaries, baseball practice mat, steel",
+        "dimensions": "168 [h] x 108 W.jpeg",
+        "year": 2023
+      }
+    }
+  },
+  "ah-pussy-of-the-sands-iteration-iii": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands-iteration-iii"
+  },
+  "ah-pussy-of-the-sands-no-2": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/video-ah-pussy-of-the-sands-no2"
+  },
+  "ah-pussy-of-the-sands": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/ah-pussy-of-the-sands"
+  },
+  "asymmetry": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/asymmetry"
+  },
+  "body-work": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/body-work"
+  },
+  "charybdis-iii": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/charybdis-iii"
+  },
+  "coaches-award-an-all-relative-color-field": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/coaches-award-an-all-relative-color-field"
+  },
+  "cotopaxi-blood-moon-after-frederic-edwin-church": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-cotopaxi-blood-moon-after-frederic-edwin-church"
+  },
+  "cotopaxi-with-cotton-candy-skies": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/cotopaxi-with-cotton-candy-skies"
+  },
+  "dear-william-leonard-pereira": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/dear-william-leonard-pereira"
+  },
+  "delicate": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/delicate"
+  },
+  "desire-to-ascend-our": {
+    "series": "Score! (installation)",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/desire-to-ascend-our"
+  },
+  "destruction": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/destruction"
+  },
+  "diplomat-with-without-track-suit": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/photography/diplomat-with-without-track-suit"
+  },
+  "earth-licker": {
+    "series": "Asymmetry (installation)",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/earth-licker"
+  },
+  "endurance-of-the-smile": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/video/endurance-of-the-smile"
+  },
+  "examination-of-workroom": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/examination-of-workroom"
+  },
+  "familial-endurance": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/performance/familial-endurance"
+  },
+  "find-the-open-space": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/find-the-open-space"
+  },
+  "her": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/her"
+  },
+  "how-high-is-too-high": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/how-high-is-too-high"
+  },
+  "human-measurements": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/works-on-paper/human-measurements"
+  },
+  "i-started-from-a-place-of-embracing-that-which-i-can-not-control": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/i-started-from-a-place-of-embracing-that-which-i-can-not-control"
+  },
+  "kerk-straat-church-street": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/kerk-straat-church-street"
+  },
+  "kerk-straat": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/performance/kerk-straat"
+  },
+  "lets-be-stars": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/lets-be-stars"
+  },
+  "limbo-suspension": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/photography/limbo-suspension"
+  },
+  "melancholy-of-always": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/melancholy-of-always"
+  },
+  "mist-in-lavender-series": {
+    "series": "Mist in Lavender Series",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/mist-in-lavender-series"
+  },
+  "not-one-but-not-two-either-blue": {
+    "series": "Asymmetry (installation)",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-blue"
+  },
+  "not-one-but-not-two-either-red": {
+    "series": "Asymmetry (installation)",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/not-one-but-not-two-either-red"
+  },
+  "pale-nightmares": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/pale-nightmares"
+  },
+  "penelopes-charybdis": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-penelopes-charybdis"
+  },
+  "reliquary-7": {
+    "series": "Score! (installation)",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/reliquary-7"
+  },
+  "score": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/score"
+  },
+  "scylla-iv": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-iv"
+  },
+  "scylla-series": {
+    "series": "Scylla Series",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-series"
+  },
+  "shuddering-turns-to-sobbing": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/shuddering-turns-to-sobbing"
+  },
+  "straight-laced": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/straight-laced"
+  },
+  "study-of-red-rope": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/study-of-red-ropes"
+  },
+  "survival-axe-sculpture": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/survival-axe-sculpture"
+  },
+  "tectonic-cord": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/tectonic-cord"
+  },
+  "tents": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/tents"
+  },
+  "the-armory-show": {
+    "imageCaptions": {
+      "/media/the-armory-show/01.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/02.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/03.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/04.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/05.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/06.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/07.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-armory-show/08.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/09.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/10.jpg": {
+        "title": "Installationview StigmataII Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) cotton cord, nylon cord, steel",
+        "medium": "28x26x9inches",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/11.jpg": {
+        "title": "Installationview TondoI Cloudscape cotton cord, nylon cord, steel",
+        "medium": "43 x 35 x 12inches",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/12.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/13.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/14.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/15.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/16.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/17.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/18.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/19.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/20.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/21.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) detail",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/22.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/23.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/24.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/25.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/26.jpg": {
+        "title": "StigmataII",
+        "medium": "nylon cord, cotton cord, steel",
+        "dimensions": "28x26x9inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/27.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/28.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/29.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/30.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/31.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/32.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/33.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/34.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/35.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      },
+      "/media/the-armory-show/36.jpg": {
+        "title": "TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "43 x 35 x 12inches",
+        "year": 2025
+      }
+    }
+  },
+  "the-consummation-state": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture-the-consummation-state"
+  },
+  "the-conversion": {
+    "imageCaptions": {
+      "/media/the-conversion/07.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches",
+        "year": 2025
+      },
+      "/media/the-conversion/08.jpg": {
+        "title": "Cloudscape;She Paused, Peering Through the Veil detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/09.jpg": {
+        "title": "Desire Path",
+        "medium": "detail",
+        "dimensions": "nylon cord, fabric, steel, 49 x 73 x 7 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/10.jpg": {
+        "title": "Desire Path",
+        "medium": "detail",
+        "dimensions": "nylon cord, fabric, steel, 49 x 73 x 7 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/19.jpg": {
+        "title": "Eve and Adam",
+        "medium": "Desire Path",
+        "dimensions": "Cloudscape",
+        "year": 2025
+      },
+      "/media/the-conversion/20.jpg": {
+        "title": "Installationview Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) Desire Path Cloudscape;She Paused, Peering Through the Veil StigmataI TondoI",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/21.jpg": {
+        "title": "Installationview Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) Desire Path Cloudscape;She Paused, Peering Through the Veil",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/22.jpg": {
+        "title": "Installationview My Kaleidoscopic View",
+        "medium": "Penance of Leaves",
+        "dimensions": "OriginStudy(Human Measurements)",
+        "year": 2025
+      },
+      "/media/the-conversion/23.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/24.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/25.jpg": {
+        "title": "Installationview",
+        "medium": "My Kaleidoscopic View",
+        "dimensions": "detail",
+        "year": 2025
+      },
+      "/media/the-conversion/26.jpg": {
+        "title": "Installationview Paul Tondos",
+        "medium": "scale",
+        "dimensions": "ianace",
+        "year": 2025
+      },
+      "/media/the-conversion/27.jpg": {
+        "title": "Kalideoscopic view Lionsgate Portal",
+        "medium": "Desire Path",
+        "dimensions": "Cloudscape",
+        "year": 2025
+      },
+      "/media/the-conversion/28.jpg": {
+        "title": "Lion detail",
+        "medium": "cotton cord, nylon cord, fabric, steel",
+        "dimensions": "51 x 76 x 13inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/29.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/30.jpg": {
+        "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "56 x 75 x 14 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/32.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/33.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches (2)",
+        "year": 2025
+      },
+      "/media/the-conversion/34.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/35.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/36.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/37.jpg": {
+        "title": "MyRomanEmpire",
+        "medium": "cotton cord, nylon cord, steel",
+        "dimensions": "74 x 90 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/38.jpg": {
+        "title": "Paul + Tondos",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/39.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/40.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/41.jpg": {
+        "title": "Paul detail",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/42.jpg": {
+        "title": "Paul",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "90 x 140 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/43.jpg": {
+        "title": "Penance of Leaves + Drawing",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/44.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/45.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/46.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/47.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/48.jpg": {
+        "title": "Penance of Leaves",
+        "medium": "nylon cord, fabric, steel",
+        "dimensions": "71 x 81 x 15 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/49.jpg": {
+        "title": "StigmataI TondoI",
+        "medium": "Paul",
+        "dimensions": "suddenly",
+        "year": 2025
+      },
+      "/media/the-conversion/50.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches",
+        "year": 2025
+      },
+      "/media/the-conversion/51.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/52.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/53.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/54.jpg": {
+        "title": "Suddenly, she was hell-bent and ravenous(after Giotto) detail",
+        "medium": "nylon cord,steel,printed fabric",
+        "dimensions": "261x192x10inches.jpg",
+        "year": 2025
+      },
+      "/media/the-conversion/55.jpg": {
+        "title": "Tondo I",
+        "medium": "nylon cord, steel",
+        "dimensions": "43 x 35 x 12 inches",
+        "year": 2025
+      },
+      "/media/the-conversion/56.jpg": {
+        "title": "installationview Paul StigmataI",
+        "medium": "TondoI",
+        "dimensions": "Scale",
+        "year": 2025
+      }
+    }
+  },
+  "toolbox-at-twenty": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/spoken-for"
+  },
+  "untitled-noir-series": {
+    "series": "Untitled Noir Series",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-noir-series"
+  },
+  "untitled-series": {
+    "series": "Untitled Series",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/untitled-series"
+  },
+  "urban-contours": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/installation/urban-contours"
+  },
+  "visions-of-medea": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/visions-of-medea"
+  },
+  "votive-series": {
+    "series": "Votive Series",
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/votive-series"
+  },
+  "we-will-win-our-banner-in-the-sky": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/we-will-win-our-banner-in-the-sky"
+  },
+  "youre-a-hack": {
+    "sourceUrl": "https://www.jacquelinesurdell.com/video/youre-a-hack"
+  }
+}

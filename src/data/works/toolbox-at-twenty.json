@@ -7,7 +7,6 @@
   "category": "exhibition",
   "medium": "",
   "dimensions": "22 × 6 × 2",
-  "series": "",
   "description": "\"Toolbox @ Twenty\" is an exhibit and performance series based on our Toolbox platform, a cross-disciplinary dialogue to inspire new choreographic tactics. In this, our first museum exhibit, we've invited a powerhouse of four Chicago artists to exchange with us and install their artwork: painter Jackie Kazarian, sculptor/builder Edra Soto, fiber artist Jacqueline Surdell, and sound artist Sadie Woods. Each guest artist has been dialoguing with a Seldoms dance artist. From these conversations, we've built new dancemaking tools and new short dances, which will be performed alongside their paintings, fiber work, dance film, and sound collage in the Hyde Park Art Center.",
   "images": [
     "/media/toolbox-at-twenty/01.jpg",
@@ -25,6 +24,5 @@
     "/media/toolbox-at-twenty/13.jpg",
     "/media/toolbox-at-twenty/14.jpg"
   ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/spoken-for",
   "featured": true
 }

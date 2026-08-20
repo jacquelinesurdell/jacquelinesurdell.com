@@ -7,7 +7,6 @@
   "category": "exhibition",
   "medium": "",
   "dimensions": "",
-  "series": "",
   "description": "Adoration Garden grew from my desire to create a memorial landscape for my Busia, honoring her life while reflecting on the ways grief, memory, and love become embedded in place. Rather than thinking of memorials as fixed monuments, I became interested in how acts of making, tending, and remembrance can transform landscape into a living space for reflection.",
   "venue": "Abroms-Engel Institute for the Visual Arts, Birmingham, AL",
   "images": [
@@ -34,116 +33,5 @@
     "/media/adoration-garden/21.jpg",
     "/media/adoration-garden/22.jpg"
   ],
-  "imageCaptions": {
-    "/media/adoration-garden/03.jpg": {
-      "title": "AdorationGarden Busia’sHomeAltar",
-      "medium": "wood, paint",
-      "dimensions": "12x6 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/04.jpg": {
-      "title": "AdorationGarden I dread the loss of heaven",
-      "medium": "vinyl",
-      "dimensions": "10x5 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/06.jpg": {
-      "title": "AdorationGarden corner alter",
-      "medium": "wood, paint",
-      "dimensions": "3x3 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/07.jpg": {
-      "title": "AdorationGarden corner alter",
-      "medium": "wood, paint",
-      "dimensions": "3x3 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/08.jpg": {
-      "title": "AdorationGarden corner alter",
-      "medium": "wood, paint",
-      "dimensions": "3x3 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/09.jpg": {
-      "title": "AdorationGarden",
-      "medium": "going up?, three-sided early 20th Century Elevator Directional Lantern salvaged from Chicago Medinah Athletic Club Tower Interior Lobby, bronze, glass",
-      "dimensions": "9 x 5 x 3 inches",
-      "year": 2023
-    },
-    "/media/adoration-garden/10.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/11.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/12.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/13.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/14.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/15.jpg": {
-      "title": "AdorationGarden",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/16.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W",
-      "year": 2023
-    },
-    "/media/adoration-garden/17.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W.jpeg",
-      "year": 2023
-    },
-    "/media/adoration-garden/18.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W.jpeg",
-      "year": 2023
-    },
-    "/media/adoration-garden/19.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W.jpeg",
-      "year": 2023
-    },
-    "/media/adoration-garden/20.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W.jpeg",
-      "year": 2023
-    },
-    "/media/adoration-garden/21.jpg": {
-      "title": "AdorationGarden pano",
-      "medium": "nylon cord, rosaries, baseball practice mat, steel",
-      "dimensions": "168 [h] x 108 W.jpeg",
-      "year": 2023
-    }
-  },
-  "sourceUrl": "",
   "featured": true
 }

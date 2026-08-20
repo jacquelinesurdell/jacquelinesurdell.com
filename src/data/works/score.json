@@ -7,7 +7,6 @@
   "category": "exhibition",
   "medium": "",
   "dimensions": "",
-  "series": "",
   "description": "",
   "images": [
     "/media/score/01.jpg",
@@ -29,6 +28,5 @@
     "/media/score/17.jpg",
     "/media/score/18.jpg"
   ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/score",
   "featured": true
 }

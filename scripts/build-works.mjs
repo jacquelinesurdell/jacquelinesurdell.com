@@ -5,12 +5,21 @@
 // This script is the guard rail between the CMS and the site: whatever subset of
 // fields an editor saves, every record emitted here has the full shape the
 // components expect.
+//
+// Pages CMS rewrites a project file with ONLY the fields declared in .pages.yml,
+// so any field kept there but not declared is deleted on the first save. Fields
+// we want to keep but not show her live in src/data/works-archive.json, which the
+// CMS never opens, and are merged back in here by slug.
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const dataDir = join(dirname(fileURLToPath(import.meta.url)), "..", "src", "data");
 const worksDir = join(dataDir, "works");
+
+// Fields the CMS is not allowed to touch, keyed by slug. See works-archive.json.
+const archive = JSON.parse(readFileSync(join(dataDir, "works-archive.json"), "utf8"));
+delete archive._note;
 
 const files = readdirSync(worksDir).filter((f) => f.endsWith(".json"));
 if (files.length === 0) throw new Error(`No project files found in ${worksDir}`);
@@ -46,6 +55,10 @@ const works = raw.map((w) => {
   // `year` is the label shown on the page and may be a range; `yearNum` sorts.
   const yearNum = typeof w.yearNum === "number" ? w.yearNum : Number(year.match(/\d{4}/)?.[0]) || 0;
 
+  // The project file wins if it still carries the field; otherwise fall back to
+  // the archive, which is where these live now that the CMS strips them.
+  const kept = archive[w.slug] || {};
+
   const out = {
     slug: w.slug,
     title: w.title,
@@ -54,16 +67,27 @@ const works = raw.map((w) => {
     category: w.category || "sculpture",
     medium: w.medium || "",
     dimensions: w.dimensions || "",
-    series: w.series || "",
+    series: w.series || kept.series || "",
     description: w.description || "",
   };
   if (w.venue) out.venue = w.venue;
   out.images = Array.isArray(w.images) ? w.images.filter(Boolean) : [];
-  if (w.imageCaptions) out.imageCaptions = w.imageCaptions;
-  out.sourceUrl = w.sourceUrl || "";
+  const imageCaptions = w.imageCaptions || kept.imageCaptions;
+  if (imageCaptions) out.imageCaptions = imageCaptions;
+  out.sourceUrl = w.sourceUrl || kept.sourceUrl || "";
   out.featured = Boolean(w.featured);
   return out;
 });
+
+// A stale archive entry means a project file was renamed or removed. Warn rather
+// than fail, so a rename never blocks a publish, but leave a trail.
+const orphans = Object.keys(archive).filter((slug) => !seen.has(slug));
+if (orphans.length > 0) {
+  console.warn(
+    `build-works: works-archive.json has no matching project for ${orphans.join(", ")}. ` +
+      `If a project was renamed, move its archive entry to the new name.`
+  );
+}
 
 writeFileSync(join(dataDir, "works.json"), JSON.stringify(works, null, 2) + "\n");
 console.log(`build-works: ${works.length} projects -> src/data/works.json`);

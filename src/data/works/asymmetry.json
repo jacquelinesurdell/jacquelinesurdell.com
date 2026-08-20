@@ -7,7 +7,6 @@
   "category": "exhibition",
   "medium": "",
   "dimensions": "",
-  "series": "",
   "description": "",
   "images": [
     "/media/asymmetry/01.jpg",
@@ -23,6 +22,5 @@
     "/media/asymmetry/11.jpg",
     "/media/asymmetry/12.jpg"
   ],
-  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/asymmetry",
   "featured": true
 }

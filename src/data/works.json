@@ -338,6 +338,8 @@
     "description": "Presented by SECRIST | BEACH, this installation brought together a selection of sculptures that explore landscape as a site of memory, transformation, and human intervention. Working with industrial cordage and steel, I translate the visual language of landscape painting into tactile relief, constructing environments that blur the boundaries between painting, sculpture, and architecture. Together, these works consider how landscapes are continually shaped by accumulation, erosion, labor, and time, inviting viewers to move between intimate material encounters and expansive imagined terrains.",
     "venue": "SECRIST | BEACH, New York, NY",
     "images": [
+      "/media/the-armory-show/47.jpg",
+      "/media/the-armory-show/10.jpg",
       "/media/the-armory-show/01.jpg",
       "/media/the-armory-show/02.jpg",
       "/media/the-armory-show/03.jpg",
@@ -347,7 +349,6 @@
       "/media/the-armory-show/07.jpg",
       "/media/the-armory-show/08.jpg",
       "/media/the-armory-show/09.jpg",
-      "/media/the-armory-show/10.jpg",
       "/media/the-armory-show/11.jpg",
       "/media/the-armory-show/12.jpg",
       "/media/the-armory-show/13.jpg",
@@ -384,7 +385,6 @@
       "/media/the-armory-show/44.jpg",
       "/media/the-armory-show/45.jpg",
       "/media/the-armory-show/46.jpg",
-      "/media/the-armory-show/47.jpg",
       "/media/the-armory-show/48.jpg",
       "/media/the-armory-show/49.jpg",
       "/media/the-armory-show/50.jpg",
@@ -679,7 +679,6 @@
       "/media/bliss/97.jpg",
       "/media/bliss/99.jpg"
     ],
-    "imageCaptions": {},
     "sourceUrl": "",
     "featured": true
   },
@@ -869,7 +868,6 @@
       "/media/lil-bebs/24.jpg",
       "/media/lil-bebs/25.jpg"
     ],
-    "imageCaptions": {},
     "sourceUrl": "",
     "featured": true
   },
