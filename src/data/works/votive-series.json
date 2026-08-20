@@ -1,0 +1,27 @@
+{
+  "order": 17,
+  "slug": "votive-series",
+  "title": "Votive Series",
+  "year": "2022",
+  "yearNum": 2022,
+  "category": "sculpture",
+  "medium": "",
+  "dimensions": "",
+  "series": "Votive Series",
+  "description": "",
+  "images": [
+    "/media/votive-series/01.jpg",
+    "/media/votive-series/02.jpg",
+    "/media/votive-series/03.jpg",
+    "/media/votive-series/04.jpg",
+    "/media/votive-series/05.jpg",
+    "/media/votive-series/06.jpg",
+    "/media/votive-series/07.jpg",
+    "/media/votive-series/08.jpg",
+    "/media/votive-series/09.jpg",
+    "/media/votive-series/10.jpg",
+    "/media/votive-series/11.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/votive-series",
+  "featured": true
+}

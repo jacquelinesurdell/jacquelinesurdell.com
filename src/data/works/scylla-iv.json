@@ -1,0 +1,19 @@
+{
+  "order": 20,
+  "slug": "scylla-iv",
+  "title": "Scylla iv",
+  "year": "2021",
+  "yearNum": 2021,
+  "category": "sculpture",
+  "medium": "",
+  "dimensions": "",
+  "series": "",
+  "description": "",
+  "images": [
+    "/media/scylla-iv/01.jpg",
+    "/media/scylla-iv/02.jpg",
+    "/media/scylla-iv/03.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/scylla-iv",
+  "featured": true
+}

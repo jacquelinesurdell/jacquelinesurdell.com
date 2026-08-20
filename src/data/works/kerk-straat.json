@@ -1,0 +1,24 @@
+{
+  "order": 38,
+  "slug": "kerk-straat",
+  "title": "Kerk Straat",
+  "year": "2018",
+  "yearNum": 2018,
+  "category": "performance",
+  "medium": "",
+  "dimensions": "",
+  "series": "",
+  "description": "",
+  "images": [
+    "/media/kerk-straat/01.jpg",
+    "/media/kerk-straat/02.jpg",
+    "/media/kerk-straat/03.jpg",
+    "/media/kerk-straat/04.jpg",
+    "/media/kerk-straat/05.jpg",
+    "/media/kerk-straat/06.jpg",
+    "/media/kerk-straat/07.jpg",
+    "/media/kerk-straat/08.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/performance/kerk-straat",
+  "featured": false
+}

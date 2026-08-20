@@ -1,0 +1,28 @@
+{
+  "order": 5,
+  "slug": "asymmetry",
+  "title": "Asymmetry",
+  "year": "2022",
+  "yearNum": 2022,
+  "category": "exhibition",
+  "medium": "",
+  "dimensions": "",
+  "series": "",
+  "description": "",
+  "images": [
+    "/media/asymmetry/01.jpg",
+    "/media/asymmetry/02.jpg",
+    "/media/asymmetry/03.jpg",
+    "/media/asymmetry/04.jpg",
+    "/media/asymmetry/05.jpg",
+    "/media/asymmetry/06.jpg",
+    "/media/asymmetry/07.jpg",
+    "/media/asymmetry/08.jpg",
+    "/media/asymmetry/09.jpg",
+    "/media/asymmetry/10.jpg",
+    "/media/asymmetry/11.jpg",
+    "/media/asymmetry/12.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/exhibition/asymmetry",
+  "featured": true
+}

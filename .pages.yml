@@ -1,0 +1,99 @@
+# Pages CMS configuration - https://pagescms.org
+# This drives the editing interface at https://app.pagescms.org
+
+media:
+  input: public/media
+  output: /media
+
+content:
+  - name: works
+    label: Projects
+    type: collection
+    path: src/data/works
+    format: json
+    filename: "{primary}.json"
+    view:
+      fields: [title, year, category, featured]
+      primary: title
+      sort: [title, year]
+      search: [title, venue, description]
+      default:
+        sort: year
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+        description: The name of the exhibition or work, as it should appear on the page.
+
+      - name: year
+        label: Year
+        type: string
+        required: true
+        description: Usually a single year, for example 2026. A range like 2015-2018 also works.
+
+      - name: category
+        label: Category
+        type: select
+        default: sculpture
+        description: Exhibitions, Installations and Select Works are the three sections of the site. The others are older categories that are no longer shown.
+        options:
+          values:
+            - { label: "Exhibitions", value: "exhibition" }
+            - { label: "Installations", value: "installation" }
+            - { label: "Select Works", value: "sculpture" }
+            - { label: "Performance (not shown)", value: "performance" }
+            - { label: "Photography (not shown)", value: "photography" }
+            - { label: "Video (not shown)", value: "video" }
+            - { label: "Works on paper (not shown)", value: "works-on-paper" }
+
+      - name: venue
+        label: Venue
+        type: string
+        description: For exhibitions only. For example, SECRIST | BEACH, Chicago, IL.
+
+      - name: description
+        label: Synopsis
+        type: text
+        description: A short paragraph shown above the images. Exhibitions show this; individual works usually leave it blank.
+
+      - name: images
+        label: Images
+        type: image
+        description: Upload as many as you like, then drag to reorder. The first image leads the page. Large files are fine, they are resized automatically when you publish.
+        options:
+          multiple: true
+          unique: true
+          extensions: [jpg, jpeg, png, webp]
+
+      - name: medium
+        label: Medium
+        type: string
+        description: For example, cotton cord, nylon cord, steel.
+
+      - name: dimensions
+        label: Dimensions
+        type: string
+        description: For example, 43 x 35 x 12 inches.
+
+      - name: featured
+        label: Show in the index
+        type: boolean
+        default: true
+        description: Turn this off to keep a project on the site but out of the navigation list.
+
+      - name: order
+        label: Position
+        type: number
+        description: Leave this blank on a new project and it goes to the top of the list. Only set it if you want to pin a project to a specific spot.
+
+actions:
+  - name: publish
+    label: Publish site
+    workflow: deploy.yml
+    ref: current
+    confirm:
+      title: Publish the site?
+      message: This rebuilds jacquelinesurdell.com with your latest changes. It usually takes a few minutes.
+      button: Publish

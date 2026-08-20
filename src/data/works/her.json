@@ -1,0 +1,21 @@
+{
+  "order": 30,
+  "slug": "her",
+  "title": "[her]",
+  "year": "2019",
+  "yearNum": 2019,
+  "category": "sculpture",
+  "medium": "",
+  "dimensions": "",
+  "series": "",
+  "description": "",
+  "images": [
+    "/media/her/01.jpg",
+    "/media/her/02.jpg",
+    "/media/her/03.jpg",
+    "/media/her/04.jpg",
+    "/media/her/05.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/her",
+  "featured": false
+}

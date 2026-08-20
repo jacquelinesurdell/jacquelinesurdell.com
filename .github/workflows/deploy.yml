@@ -1,8 +1,16 @@
 name: Deploy to GitHub Pages
 
-# Manual-trigger only. Production deploy for jacquelinesurdell.com.
+# Production deploy for jacquelinesurdell.com. Triggered by the "Publish site"
+# button in Pages CMS, or manually from the Actions tab.
 on:
   workflow_dispatch:
+    inputs:
+      # Sent by the Pages CMS action button. Unused, but the dispatch is
+      # rejected if the workflow does not declare the input it receives.
+      payload:
+        description: Context sent by Pages CMS
+        required: false
+        type: string
 
 permissions:
   contents: read
@@ -25,6 +33,14 @@ jobs:
       - run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: https://jacquelinesurdell.com
+      - name: Restore optimized image cache
+        uses: actions/cache@v4
+        with:
+          path: .image-cache
+          key: optimized-images-${{ github.sha }}
+          restore-keys: optimized-images-
+      - name: Optimize images for the web
+        run: npm run optimize:images
       - uses: actions/configure-pages@v5
         with:
           enablement: true

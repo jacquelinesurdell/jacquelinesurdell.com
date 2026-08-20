@@ -1,0 +1,22 @@
+{
+  "order": 12,
+  "slug": "earth-licker",
+  "title": "Earth Licker",
+  "year": "2022",
+  "yearNum": 2022,
+  "category": "sculpture",
+  "medium": "",
+  "dimensions": "",
+  "series": "Asymmetry (installation)",
+  "description": "",
+  "images": [
+    "/media/earth-licker/01.jpg",
+    "/media/earth-licker/02.jpg",
+    "/media/earth-licker/03.jpg",
+    "/media/earth-licker/04.jpg",
+    "/media/earth-licker/05.jpg",
+    "/media/earth-licker/06.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/sculpture/earth-licker",
+  "featured": true
+}

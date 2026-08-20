@@ -1,0 +1,26 @@
+{
+  "order": 57,
+  "slug": "tents",
+  "title": "Tents",
+  "year": "2014",
+  "yearNum": 2014,
+  "category": "installation",
+  "medium": "cotton rope",
+  "dimensions": "",
+  "series": "",
+  "description": "\"Tents is a site-specific installation on Occidental College Campus. This project focuses on aesthetics of the human form through the context of vernacular architecture and the bodily scaled crafts of knitting and macramé. The three elements used for constructed, arundo grass harvested from the L.A. River, knit swaths, and dyed rope, loosely function as bones, skin, and viscera respectively. Tents aims to echo the human body in the form of nomadic homes. The form simulates osmosis on the larger scale of consciousness. In other words. The tents act as our bodies (vessels), the occupants symbolize consciences, fluidly moving through them, sharing them, demonstrating our inter-being.\" - Hannah Rindlaub",
+  "images": [
+    "/media/tents/01.jpg",
+    "/media/tents/02.jpg",
+    "/media/tents/03.jpg",
+    "/media/tents/04.jpg",
+    "/media/tents/05.jpg",
+    "/media/tents/06.jpg",
+    "/media/tents/07.jpg",
+    "/media/tents/08.jpg",
+    "/media/tents/09.jpg",
+    "/media/tents/10.jpg"
+  ],
+  "sourceUrl": "https://www.jacquelinesurdell.com/installation/tents",
+  "featured": false
+}
