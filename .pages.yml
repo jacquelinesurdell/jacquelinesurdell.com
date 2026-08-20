@@ -12,6 +12,13 @@ content:
     path: src/data/works
     format: json
     filename: "{primary}.json"
+    # Renaming a project file would change its public web address and detach its
+    # entry in works-archive.json. Deleting one would strip its images and archive
+    # entry with no undo. Neither is something she should be able to do by accident,
+    # so both are turned off. Pages CMS defaults both to true for collections.
+    operations:
+      rename: false
+      delete: false
     view:
       fields: [title, year, category, featured]
       primary: title
@@ -25,7 +32,7 @@ content:
         label: Title
         type: string
         required: true
-        description: The name of the exhibition or work, as it should appear on the page.
+        description: The name of the exhibition or work, as it should appear on the page. You can change this later and the page updates, but the web address is set from the title you use when you first save, and it does not change. Ask Ben if a web address needs to be corrected.
 
       - name: year
         label: Year

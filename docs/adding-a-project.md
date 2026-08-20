@@ -67,7 +67,13 @@ To change an existing project, open Projects, click its name, edit, save, publis
 
 To take a project out of the side navigation, open it and turn off Show in the side
 navigation. The project stays on the home page. To remove it from the home page as well, or to
-delete it entirely, ask Ben.
+delete it entirely, ask Ben. Renaming and deleting are switched off on purpose, so you cannot
+break a project's web address or lose its images by accident.
+
+One thing worth knowing about titles. You can edit a title at any time and the page updates.
+The web address, the part after /work/, is set from the title you use the first time you save a
+new project, and it stays that way afterwards. Nothing breaks if they drift apart. If an address
+looks wrong, ask Ben and he can correct it.
 
 Reordering projects is done with the Position field, but you should rarely need it. If the
 order looks wrong, ask Ben rather than guessing.
