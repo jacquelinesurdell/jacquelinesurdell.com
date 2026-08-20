@@ -1,16 +1,12 @@
 {
-  "order": 1,
-  "slug": "the-armory-show",
   "title": "The Armory Show",
   "year": "2025",
-  "yearNum": 2025,
   "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "series": "",
-  "description": "Presented by SECRIST | BEACH, this installation brought together a selection of sculptures that explore landscape as a site of memory, transformation, and human intervention. Working with industrial cordage and steel, I translate the visual language of landscape painting into tactile relief, constructing environments that blur the boundaries between painting, sculpture, and architecture. Together, these works consider how landscapes are continually shaped by accumulation, erosion, labor, and time, inviting viewers to move between intimate material encounters and expansive imagined terrains.",
   "venue": "SECRIST | BEACH, New York, NY",
+  "description": "Presented by SECRIST | BEACH, this installation brought together a selection of sculptures that explore landscape as a site of memory, transformation, and human intervention. Working with industrial cordage and steel, I translate the visual language of landscape painting into tactile relief, constructing environments that blur the boundaries between painting, sculpture, and architecture. Together, these works consider how landscapes are continually shaped by accumulation, erosion, labor, and time, inviting viewers to move between intimate material encounters and expansive imagined terrains.",
   "images": [
+    "/media/the-armory-show/47.jpg",
+    "/media/the-armory-show/10.jpg",
     "/media/the-armory-show/01.jpg",
     "/media/the-armory-show/02.jpg",
     "/media/the-armory-show/03.jpg",
@@ -20,7 +16,6 @@
     "/media/the-armory-show/07.jpg",
     "/media/the-armory-show/08.jpg",
     "/media/the-armory-show/09.jpg",
-    "/media/the-armory-show/10.jpg",
     "/media/the-armory-show/11.jpg",
     "/media/the-armory-show/12.jpg",
     "/media/the-armory-show/13.jpg",
@@ -57,7 +52,6 @@
     "/media/the-armory-show/44.jpg",
     "/media/the-armory-show/45.jpg",
     "/media/the-armory-show/46.jpg",
-    "/media/the-armory-show/47.jpg",
     "/media/the-armory-show/48.jpg",
     "/media/the-armory-show/49.jpg",
     "/media/the-armory-show/50.jpg",
@@ -79,224 +73,6 @@
     "/media/the-armory-show/66.jpg",
     "/media/the-armory-show/67.jpg"
   ],
-  "imageCaptions": {
-    "/media/the-armory-show/01.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/02.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/03.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/04.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/05.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/06.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/07.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil[detail]",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches.jpg",
-      "year": 2025
-    },
-    "/media/the-armory-show/08.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/09.jpg": {
-      "title": "Cloudscape;She Paused, Peering Through the Veil",
-      "medium": "cotton cord, nylon cord, fabric, steel",
-      "dimensions": "51 x 76 x 13inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/10.jpg": {
-      "title": "Installationview StigmataII Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) cotton cord, nylon cord, steel",
-      "medium": "28x26x9inches",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/11.jpg": {
-      "title": "Installationview TondoI Cloudscape cotton cord, nylon cord, steel",
-      "medium": "43 x 35 x 12inches",
-      "dimensions": "51 x 76 x 13inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/12.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/13.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/14.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/15.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/16.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/17.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/18.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/19.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)[detail]",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/20.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/21.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier) detail",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/22.jpg": {
-      "title": "Lionsgate Portal; The Conversion of St. Paul (after Jerome Cartellier)",
-      "medium": "nylon cord, fabric, steel",
-      "dimensions": "56 x 75 x 14 inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/23.jpg": {
-      "title": "StigmataII",
-      "medium": "nylon cord, cotton cord, steel",
-      "dimensions": "28x26x9inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/24.jpg": {
-      "title": "StigmataII",
-      "medium": "nylon cord, cotton cord, steel",
-      "dimensions": "28x26x9inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/25.jpg": {
-      "title": "StigmataII",
-      "medium": "nylon cord, cotton cord, steel",
-      "dimensions": "28x26x9inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/26.jpg": {
-      "title": "StigmataII",
-      "medium": "nylon cord, cotton cord, steel",
-      "dimensions": "28x26x9inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/27.jpg": {
-      "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
-      "medium": "nylon cord,steel,printed fabric",
-      "dimensions": "261x192x10inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/28.jpg": {
-      "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
-      "medium": "nylon cord,steel,printed fabric",
-      "dimensions": "261x192x10inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/29.jpg": {
-      "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
-      "medium": "nylon cord,steel,printed fabric",
-      "dimensions": "261x192x10inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/30.jpg": {
-      "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
-      "medium": "nylon cord,steel,printed fabric",
-      "dimensions": "261x192x10inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/31.jpg": {
-      "title": "Suddenly, she was hell-bent and ravenous(after Giotto)",
-      "medium": "nylon cord,steel,printed fabric",
-      "dimensions": "261x192x10inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/32.jpg": {
-      "title": "TondoI",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "43 x 35 x 12inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/33.jpg": {
-      "title": "TondoI",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "43 x 35 x 12inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/34.jpg": {
-      "title": "TondoI",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "43 x 35 x 12inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/35.jpg": {
-      "title": "TondoI",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "43 x 35 x 12inches",
-      "year": 2025
-    },
-    "/media/the-armory-show/36.jpg": {
-      "title": "TondoI",
-      "medium": "cotton cord, nylon cord, steel",
-      "dimensions": "43 x 35 x 12inches",
-      "year": 2025
-    }
-  },
-  "sourceUrl": "",
-  "featured": true
+  "featured": true,
+  "order": 1
 }
