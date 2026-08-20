@@ -1,15 +1,11 @@
 {
-  "order": 2,
-  "slug": "bliss",
   "title": "Bliss!",
   "year": "2024",
-  "yearNum": 2024,
   "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "description": "Bliss! grew out of a month-long residency in Tokyo, Japan, where I became interested in the transformations that occur between a bird's-eye view of a place and the lived experience of moving through it. Spending time in Tokyo's gardens and cityscapes, I found myself returning to the quiet ways a landscape changes over the course of a day, as light shifts, shadows lengthen, colors deepen, and familiar places slowly become unfamiliar again. Rather than depicting specific locations, the works invite sustained looking, encouraging viewers to experience landscape as something that unfolds gradually through time, perception, and presence.",
   "venue": "Gallery COMMON, Tokyo, Japan",
+  "description": "Bliss! grew out of a month-long residency in Tokyo, Japan, where I became interested in the transformations that occur between a bird's-eye view of a place and the lived experience of moving through it. Spending time in Tokyo's gardens and cityscapes, I found myself returning to the quiet ways a landscape changes over the course of a day, as light shifts, shadows lengthen, colors deepen, and familiar places slowly become unfamiliar again. Rather than depicting specific locations, the works invite sustained looking, encouraging viewers to experience landscape as something that unfolds gradually through time, perception, and presence.",
   "images": [
+    "/media/bliss/84.jpg",
     "/media/bliss/01.jpg",
     "/media/bliss/05.jpg",
     "/media/bliss/07.jpg",
@@ -40,7 +36,6 @@
     "/media/bliss/79.jpg",
     "/media/bliss/80.jpg",
     "/media/bliss/82.jpg",
-    "/media/bliss/84.jpg",
     "/media/bliss/85.jpg",
     "/media/bliss/87.jpg",
     "/media/bliss/88.jpg",
@@ -50,5 +45,6 @@
     "/media/bliss/97.jpg",
     "/media/bliss/99.jpg"
   ],
-  "featured": true
+  "featured": true,
+  "order": 2
 }
