@@ -41,6 +41,9 @@ to send it again.
    Medium and Dimensions. For individual works, for example cotton cord, nylon cord, steel and
    43 x 35 x 12 inches. Leave blank for exhibitions.
 
+   On the website. Leave this on. Turn it off to take the project off the site completely, the
+   way you would delete it. See Taking a project down below.
+
    Show in the side navigation. Leave this on. Turn it off only if you want a project to stay
    out of the side navigation list. It does not remove the project from the home page. The home
    page shows every project that has at least one image.
@@ -65,10 +68,24 @@ are resized automatically when you publish, so the site stays fast. Your origina
 
 To change an existing project, open Projects, click its name, edit, save, publish.
 
-To take a project out of the side navigation, open it and turn off Show in the side
-navigation. The project stays on the home page. To remove it from the home page as well, or to
-delete it entirely, ask Ben. Renaming and deleting are switched off on purpose, so you cannot
-break a project's web address or lose its images by accident.
+## Taking a project down
+
+To remove a project from the site, open it, turn off On the website, save and publish. It
+disappears from the home page, from the side navigation, and its own page comes down. That is
+the same result as deleting it, and you can do it yourself whenever you like.
+
+Nothing is actually thrown away. The project, its text and all of its images stay saved. Turn On
+the website back on, publish, and it returns exactly as it was. There is no way to lose work this
+way, which is why it replaces a delete button.
+
+The Projects list has an On the website column, so you can see at a glance what is up and what is
+down.
+
+To take a project out of the side navigation but leave it on the home page, use Show in the side
+navigation instead.
+
+Renaming and permanent deletion are switched off on purpose, so you cannot break a project's web
+address or lose its images by accident. If you genuinely want something erased, ask Ben.
 
 One thing worth knowing about titles. You can edit a title at any time and the page updates.
 The web address, the part after /work/, is set from the title you use the first time you save a

@@ -13,14 +13,16 @@ content:
     format: json
     filename: "{primary}.json"
     # Renaming a project file would change its public web address and detach its
-    # entry in works-archive.json. Deleting one would strip its images and archive
-    # entry with no undo. Neither is something she should be able to do by accident,
-    # so both are turned off. Pages CMS defaults both to true for collections.
+    # entry in works-archive.json. Deleting one would remove the project from the
+    # repository outright, with no undo on her side. Pages CMS defaults both to true
+    # for collections, so both are off. The "On the website" field below is the
+    # reversible stand-in for delete: it takes a project off the site completely
+    # while the file, its images and its archive entry stay in git.
     operations:
       rename: false
       delete: false
     view:
-      fields: [title, year, category, featured]
+      fields: [title, year, category, visible]
       primary: title
       sort: [title, year]
       search: [title, venue, description]
@@ -83,6 +85,12 @@ content:
         label: Dimensions
         type: string
         description: For example, 43 x 35 x 12 inches.
+
+      - name: visible
+        label: On the website
+        type: boolean
+        default: true
+        description: Turn this off to take the project off the website completely. It disappears from the home page, from the side navigation, and its own page comes down. Nothing is deleted, the project and its images stay saved, and turning this back on puts it back exactly as it was.
 
       - name: featured
         label: Show in the side navigation

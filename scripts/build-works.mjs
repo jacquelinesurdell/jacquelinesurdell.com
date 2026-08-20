@@ -45,8 +45,24 @@ raw.sort((a, b) => {
   return (a.title || "").localeCompare(b.title || "");
 });
 
+// "On the website" is her reversible stand-in for deleting a project. A hidden
+// project is dropped from works.json, which takes it off the home page, out of the
+// side navigation and stops its own page being generated, while the file, its
+// images and its archive entry all stay in the repository.
+const hidden = raw.filter((w) => w.visible === false);
+const visible = raw.filter((w) => w.visible !== false);
+if (hidden.length > 0) {
+  console.log(
+    `build-works: ${hidden.length} project(s) turned off and left out of the site: ` +
+      hidden.map((w) => w.slug).join(", ")
+  );
+}
+if (visible.length === 0) {
+  console.warn("build-works: every project is turned off, so the site will have no work on it.");
+}
+
 const seen = new Set();
-const works = raw.map((w) => {
+const works = visible.map((w) => {
   if (!w.title) throw new Error(`Project "${w.slug}" is missing a title.`);
   if (seen.has(w.slug)) throw new Error(`Two projects share the name "${w.slug}".`);
   seen.add(w.slug);
@@ -81,7 +97,8 @@ const works = raw.map((w) => {
 
 // A stale archive entry means a project file was renamed or removed. Warn rather
 // than fail, so a rename never blocks a publish, but leave a trail.
-const orphans = Object.keys(archive).filter((slug) => !seen.has(slug));
+const allSlugs = new Set(raw.map((w) => w.slug));
+const orphans = Object.keys(archive).filter((slug) => !allSlugs.has(slug));
 if (orphans.length > 0) {
   console.warn(
     `build-works: works-archive.json has no matching project for ${orphans.join(", ")}. ` +
