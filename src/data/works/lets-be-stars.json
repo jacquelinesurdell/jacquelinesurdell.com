@@ -1,12 +1,7 @@
 {
-  "order": 49,
-  "slug": "lets-be-stars",
   "title": "Let's be Stars",
   "year": "2016",
-  "yearNum": 2016,
   "category": "sculpture",
-  "medium": "braided cotton cord of various size, custom steel frame",
-  "dimensions": "31\"x31",
   "description": "Applying cotton cord of various size, Let’s be Stars explores the terms of painting. The mass of jumbled knots accumulates, mutates, spreads and expands from the \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
   "images": [
     "/media/lets-be-stars/01.jpg",
@@ -19,5 +14,9 @@
     "/media/lets-be-stars/08.jpg",
     "/media/lets-be-stars/09.jpg"
   ],
-  "featured": false
+  "medium": "braided cotton cord of various size, custom steel frame",
+  "dimensions": "31\"x31",
+  "visible": false,
+  "featured": false,
+  "order": 49
 }
