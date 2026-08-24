@@ -1,13 +1,10 @@
 {
-  "order": 51,
-  "slug": "endurance-of-the-smile",
   "title": "Endurance Of The Smile",
   "year": "2016",
-  "yearNum": 2016,
   "category": "video",
-  "medium": "color video",
-  "dimensions": "",
   "description": "I wonder where stereotypes come from. I question how and why they are are perpetuated, in what contexts, and how they shift over time. Endurance of the Smile is a 07:33 minute long videoperformance where I interrogate my own stereotype, \"the smiley white-girl\", utilizing facial endurance as a tool to explore personal versus perceived perception. Here I smile until my facial muscles can no longer tighten. The simple, humorous, subversion seeks to ask questions of the viewer, to make viewers aware of themselves, as well as to reflect upon their own biases as they participate in the work. \"Jacqueline Surdell takes on perceptions of women in acerbic, highly physical performances. Taking on Yves Klein and the patriarchy, she reminds us that not only must women deal with being sexualized, we are also expected to smile through it.\" - Miranda Lash | Curator of Contemporary Art, Speed Art Museum",
-  "images": [],
-  "featured": false
+  "medium": "color video",
+  "visible": false,
+  "featured": false,
+  "order": 51
 }
