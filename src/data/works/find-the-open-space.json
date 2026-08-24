@@ -1,15 +1,12 @@
 {
-  "order": 36,
-  "slug": "find-the-open-space",
   "title": "Find the Open Space",
   "year": "2018",
-  "yearNum": 2018,
   "category": "sculpture",
-  "medium": "Braided cotton cord, steel, bungee cord",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/find-the-open-space/01.jpg"
   ],
-  "featured": false
+  "medium": "Braided cotton cord, steel, bungee cord",
+  "visible": false,
+  "featured": false,
+  "order": 36
 }
