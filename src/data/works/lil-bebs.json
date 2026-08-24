@@ -1,14 +1,9 @@
 {
-  "order": 4,
-  "slug": "lil-bebs",
   "title": "Lil Bebs",
   "year": "2023",
-  "yearNum": 2023,
   "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "description": "Lil Bebs explores the relationship between scale, patience, and process. Working on a more intimate scale challenged me to slow down and approach each sculpture with greater precision and restraint. Rather than relying on physical force or monumentality, these works emerged through sustained attention, where small gestures, subtle shifts, and repeated actions gradually accumulated into form. Like tending a garden, these works could not be rushed. They developed through time, care, and repetition, becoming reflections on the quiet labor of making and the ways growth unfolds through patience rather than force.",
   "venue": "Louis Buhl & Co., Detroit, MI",
+  "description": "Lil Bebs\nLouis Buhl & Co., Detroit, MI\n2023\n\nLil Bebs explores the relationship between scale, patience, and process. Working on a more intimate scale challenged me to slow down and approach each sculpture with greater precision and restraint. Rather than relying on physical force or monumentality, these works emerged through sustained attention, where small gestures, subtle shifts, and repeated actions gradually accumulated into form. Like tending a garden, these works could not be rushed. They developed through time, care, and repetition, becoming reflections on the quiet labor of making and on the ways growth unfolds through patience rather than force.",
   "images": [
     "/media/lil-bebs/01.jpg",
     "/media/lil-bebs/02.jpg",
@@ -19,22 +14,16 @@
     "/media/lil-bebs/07.jpg",
     "/media/lil-bebs/08.jpg",
     "/media/lil-bebs/09.jpg",
-    "/media/lil-bebs/10.jpg",
-    "/media/lil-bebs/11.jpg",
     "/media/lil-bebs/12.jpg",
-    "/media/lil-bebs/13.jpg",
     "/media/lil-bebs/14.jpg",
     "/media/lil-bebs/15.jpg",
     "/media/lil-bebs/16.jpg",
     "/media/lil-bebs/17.jpg",
     "/media/lil-bebs/18.jpg",
     "/media/lil-bebs/19.jpg",
-    "/media/lil-bebs/20.jpg",
-    "/media/lil-bebs/21.jpg",
-    "/media/lil-bebs/22.jpg",
-    "/media/lil-bebs/23.jpg",
-    "/media/lil-bebs/24.jpg",
-    "/media/lil-bebs/25.jpg"
+    "/media/lil-bebs/20.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 4
 }
