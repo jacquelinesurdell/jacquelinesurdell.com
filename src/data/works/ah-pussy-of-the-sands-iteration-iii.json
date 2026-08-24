@@ -1,16 +1,14 @@
 {
-  "order": 53,
-  "slug": "ah-pussy-of-the-sands-iteration-iii",
   "title": "Ah, Pussy, of the Sands, Iteration III",
   "year": "2015-2018 (range)",
-  "yearNum": 2015,
   "category": "installation",
-  "medium": "Untitled Body Size: An All Relative Colorfield (Pink over Blue)",
-  "dimensions": "",
   "description": "Installation from left to right, including: Coaches Award: an all Relative Color Field ; Ah, Pussy, of the Sands No. 4 ; How High is too High? ; Untitled Body Size: An All Relative Colorfield (Pink over Blue); Limbo Suspension III ; Limbo Suspension as part of, Hand-Eye Coordination: Sports and Art",
   "images": [
     "/media/ah-pussy-of-the-sands-iteration-iii/01.jpg",
     "/media/ah-pussy-of-the-sands-iteration-iii/02.jpg"
   ],
-  "featured": false
+  "medium": "Untitled Body Size: An All Relative Colorfield (Pink over Blue)",
+  "visible": false,
+  "featured": false,
+  "order": 53
 }
