@@ -1,13 +1,7 @@
 {
-  "order": 34,
-  "slug": "urban-contours",
   "title": "Urban Contours",
   "year": "2018",
-  "yearNum": 2018,
   "category": "installation",
-  "medium": "paint, wood, sound Dimensions: variable 2018",
-  "dimensions": "variable 2018",
-  "description": "",
   "images": [
     "/media/urban-contours/01.jpg",
     "/media/urban-contours/02.jpg",
@@ -15,5 +9,9 @@
     "/media/urban-contours/04.jpg",
     "/media/urban-contours/05.jpg"
   ],
-  "featured": false
+  "medium": "paint, wood, sound Dimensions: variable 2018",
+  "dimensions": "variable 2018",
+  "visible": false,
+  "featured": false,
+  "order": 34
 }
