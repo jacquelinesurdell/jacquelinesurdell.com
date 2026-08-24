@@ -1,13 +1,8 @@
 {
-  "order": 6,
-  "slug": "i-started-from-a-place-of-embracing-that-which-i-can-not-control",
   "title": "I Started from a Place of Embracing that Which I Can Not Control",
   "year": "2022",
-  "yearNum": 2022,
   "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
+  "description": "I Started from a Place of Embracing that Which I Cannot Control\n Patricia Sweetow Gallery, San Francisco, CA\n 2021",
   "images": [
     "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/01.jpg",
     "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/02.jpg",
@@ -26,5 +21,7 @@
     "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/15.jpg",
     "/media/i-started-from-a-place-of-embracing-that-which-i-can-not-control/16.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 6
 }
