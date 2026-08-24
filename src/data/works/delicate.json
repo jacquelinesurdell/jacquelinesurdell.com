@@ -1,16 +1,14 @@
 {
-  "order": 22,
-  "slug": "delicate",
   "title": "Delicate",
   "year": "2020",
-  "yearNum": 2020,
   "category": "sculpture",
-  "medium": "braided cotton cord, paracord, steel conduit",
-  "dimensions": "60\"x72\"x10",
-  "description": "",
   "images": [
     "/media/delicate/01.jpg",
     "/media/delicate/02.jpg"
   ],
-  "featured": false
+  "medium": "braided cotton cord, paracord, steel conduit",
+  "dimensions": "60\"x72\"x10",
+  "visible": false,
+  "featured": false,
+  "order": 22
 }
