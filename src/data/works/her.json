@@ -1,13 +1,7 @@
 {
-  "order": 30,
-  "slug": "her",
   "title": "[her]",
   "year": "2019",
-  "yearNum": 2019,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/her/01.jpg",
     "/media/her/02.jpg",
@@ -15,5 +9,7 @@
     "/media/her/04.jpg",
     "/media/her/05.jpg"
   ],
-  "featured": false
+  "visible": false,
+  "featured": false,
+  "order": 30
 }
