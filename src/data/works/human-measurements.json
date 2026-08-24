@@ -1,13 +1,7 @@
 {
-  "order": 43,
-  "slug": "human-measurements",
   "title": "Human Measurements",
   "year": "2017",
-  "yearNum": 2017,
   "category": "works-on-paper",
-  "medium": "Sweat and body paint on archival paper",
-  "dimensions": "48\"x84",
-  "description": "",
   "images": [
     "/media/human-measurements/01.jpg",
     "/media/human-measurements/02.jpg",
@@ -16,5 +10,9 @@
     "/media/human-measurements/05.jpg",
     "/media/human-measurements/06.jpg"
   ],
-  "featured": false
+  "medium": "Sweat and body paint on archival paper",
+  "dimensions": "48\"x84",
+  "visible": false,
+  "featured": false,
+  "order": 43
 }
