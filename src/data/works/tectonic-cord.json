@@ -1,17 +1,16 @@
 {
-  "order": 56,
-  "slug": "tectonic-cord",
   "title": "Tectonic Cord",
   "year": "2014",
-  "yearNum": 2014,
   "category": "installation",
-  "medium": "Tectonic Cord",
-  "dimensions": "dimensions variable",
   "description": "Tectonic Cord explores knotting techniques as a type of connective drawing device as a way to create structure and define space on an architectural scale. The installation transformed a public dining hall into a vibrant and colorful alternate ceiling becoming a gathering space prompting new conversations and social interaction. The work injects a fanciful component into a space where people often dine in a perfunctory way.",
   "images": [
     "/media/tectonic-cord/01.jpg",
     "/media/tectonic-cord/02.jpg",
     "/media/tectonic-cord/03.jpg"
   ],
-  "featured": false
+  "medium": "Tectonic Cord",
+  "dimensions": "dimensions variable",
+  "visible": false,
+  "featured": false,
+  "order": 56
 }
