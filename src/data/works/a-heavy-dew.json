@@ -1,16 +1,13 @@
 {
-  "order": 35,
-  "slug": "a-heavy-dew",
   "title": "A Heavy Dew",
   "year": "2018",
-  "yearNum": 2018,
   "category": "sculpture",
-  "medium": "Braided cotton cord, steel",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/a-heavy-dew/01.jpg",
     "/media/a-heavy-dew/02.jpg"
   ],
-  "featured": false
+  "medium": "Braided cotton cord, steel",
+  "visible": false,
+  "featured": false,
+  "order": 35
 }
