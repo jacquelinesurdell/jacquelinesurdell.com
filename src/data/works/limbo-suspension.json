@@ -1,12 +1,7 @@
 {
-  "order": 42,
-  "slug": "limbo-suspension",
   "title": "Limbo Suspension",
   "year": "2017",
-  "yearNum": 2017,
   "category": "photography",
-  "medium": "Photographer Archival Inkjet print 32\"x40",
-  "dimensions": "32\"x40",
   "description": "This photo series represents a response to and research into the concept of life after death. I posit, if the body is the vessel holding energy (energy that can not be created nor destroyed) where then, does this energy go when the body (vessel) breaks? This work considers the concept of limbo as the artist-athlete engages with the art historical narratives of the classical nude as seen in both painting and photography. Rendered suspended of my own accord I challenge the gaze while physically grappling with self-inflicted restraints. Suspended from the walls of a historical artistic institution (The Art Institute of Chicago) the performative sculpture both holds the body while threatening to collapse in and upon the same body. In this way I address risk of the body while garnering strength from my vulnerability.",
   "images": [
     "/media/limbo-suspension/01.jpg",
@@ -18,5 +13,9 @@
     "/media/limbo-suspension/07.jpg",
     "/media/limbo-suspension/08.jpg"
   ],
-  "featured": false
+  "medium": "Photographer Archival Inkjet print 32\"x40",
+  "dimensions": "32\"x40",
+  "visible": false,
+  "featured": false,
+  "order": 42
 }
