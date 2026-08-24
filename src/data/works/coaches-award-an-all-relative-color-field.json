@@ -1,12 +1,7 @@
 {
-  "order": 47,
-  "slug": "coaches-award-an-all-relative-color-field",
   "title": "Coaches Award: An All Relative Color Field",
   "year": "2016",
-  "yearNum": 2016,
   "category": "sculpture",
-  "medium": "2016 Black resin on gym court plank with deflated volleyball 4’x3.5'",
-  "dimensions": "",
   "description": "Coaches Award is a playful take on Harold Rosenberg’s 1950s terminology of, \"action painting\". In his iconic article, The American Action Painters , Rosenberg describes the canvas as, \"an arena in which to act\". Here, the wood court not only represents a realm for action but is an arena upon which years of action or, \"gesticulation\" occurred. Encased in resin, the final exercise upon this arena is that of the artist. The process mirrors the artist body embracing and memorializing the expressions of athletic bodies ingrained within the wood court.",
   "images": [
     "/media/coaches-award-an-all-relative-color-field/01.jpg",
@@ -15,5 +10,8 @@
     "/media/coaches-award-an-all-relative-color-field/04.jpg",
     "/media/coaches-award-an-all-relative-color-field/05.jpg"
   ],
-  "featured": false
+  "medium": "2016 Black resin on gym court plank with deflated volleyball 4’x3.5'",
+  "visible": false,
+  "featured": false,
+  "order": 47
 }
