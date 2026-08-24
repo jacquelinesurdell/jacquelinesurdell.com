@@ -1,18 +1,15 @@
 {
-  "order": 27,
-  "slug": "visions-of-medea",
   "title": "Visions of Medea",
   "year": "2020",
-  "yearNum": 2020,
   "category": "sculpture",
-  "medium": "nylon, paracord",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/visions-of-medea/01.jpg",
     "/media/visions-of-medea/02.jpg",
     "/media/visions-of-medea/03.jpg",
     "/media/visions-of-medea/04.jpg"
   ],
-  "featured": false
+  "medium": "nylon, paracord",
+  "visible": false,
+  "featured": false,
+  "order": 27
 }
