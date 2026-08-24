@@ -1,12 +1,7 @@
 {
-  "order": 57,
-  "slug": "tents",
   "title": "Tents",
   "year": "2014",
-  "yearNum": 2014,
   "category": "installation",
-  "medium": "cotton rope",
-  "dimensions": "",
   "description": "\"Tents is a site-specific installation on Occidental College Campus. This project focuses on aesthetics of the human form through the context of vernacular architecture and the bodily scaled crafts of knitting and macramé. The three elements used for constructed, arundo grass harvested from the L.A. River, knit swaths, and dyed rope, loosely function as bones, skin, and viscera respectively. Tents aims to echo the human body in the form of nomadic homes. The form simulates osmosis on the larger scale of consciousness. In other words. The tents act as our bodies (vessels), the occupants symbolize consciences, fluidly moving through them, sharing them, demonstrating our inter-being.\" - Hannah Rindlaub",
   "images": [
     "/media/tents/01.jpg",
@@ -20,5 +15,8 @@
     "/media/tents/09.jpg",
     "/media/tents/10.jpg"
   ],
-  "featured": false
+  "medium": "cotton rope",
+  "visible": false,
+  "featured": false,
+  "order": 57
 }
