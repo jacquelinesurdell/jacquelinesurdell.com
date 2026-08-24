@@ -1,12 +1,7 @@
 {
-  "order": 40,
-  "slug": "body-work",
   "title": "Body Work",
   "year": "2017",
-  "yearNum": 2017,
   "category": "installation",
-  "medium": "",
-  "dimensions": "9\"x3",
   "description": "Body Work , Video Installation, 2017 Ah, Pussy, of the Sands No.3 , single-channel projection, color video, sound, 30:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Jump box I, II , 12\"x12\", 36\"x36\", 2017 Human measure I, II, III , Sweat and body paint on archival paper, custom float frame, 48\"x84\", 2017 Limbo Suspension I, II , Archival Inkjet print, 32\"x40\", 2017 Body Work represents ongoing research into the cultural and societal anxieties surrounding the changing definitions and decisions of labor. The installation specifically examines artistic labor, athletic labor, female labor, and the concept of cultural production in the digital age. Through the use of found object sculpture, remnants of performance, photography, and video, Body Work situates sporting labor and the labor of the female artist within the broader sociopolitical landscape — one wrought with gender inequalities. Such actions allow me to think through the paradoxical ways in which success in either realm is considered a form of social aspiration as well as a form of entrapment. Here I identify the underpaid labor of both female athletes and female artists as part of a larger domestic economy with national and global ramifications. This dialectic approach to the economic and social issues plaguing women's labor functions as both sympathetic and highly critical.",
   "images": [
     "/media/body-work/01.jpg",
@@ -14,5 +9,8 @@
     "/media/body-work/03.jpg",
     "/media/body-work/04.jpg"
   ],
-  "featured": false
+  "dimensions": "9\"x3",
+  "visible": false,
+  "featured": false,
+  "order": 40
 }
