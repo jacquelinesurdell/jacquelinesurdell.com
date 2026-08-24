@@ -1,12 +1,7 @@
 {
-  "order": 31,
-  "slug": "scylla-series",
   "title": "Scylla Series",
   "year": "2019",
-  "yearNum": 2019,
   "category": "sculpture",
-  "medium": "braided cotton cord, paracord",
-  "dimensions": "18\"x20\"x6",
   "description": "This series of works references Homer's sea monster, Scylla. The mass of jumbled knots accumulates, mutates, spreads, and expands from the framed \"painterly rectangle’’ — highlighting the contrast between sculptural spatial form and the classical illusionism of the painted picture plane.",
   "images": [
     "/media/scylla-series/01.jpg",
@@ -17,5 +12,9 @@
     "/media/scylla-series/06.jpg",
     "/media/scylla-series/07.jpg"
   ],
-  "featured": false
+  "medium": "braided cotton cord, paracord",
+  "dimensions": "18\"x20\"x6",
+  "visible": false,
+  "featured": false,
+  "order": 31
 }
