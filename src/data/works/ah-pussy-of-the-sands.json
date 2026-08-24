@@ -1,12 +1,7 @@
 {
-  "order": 39,
-  "slug": "ah-pussy-of-the-sands",
   "title": "Ah, Pussy, of the Sands",
   "year": "2017",
-  "yearNum": 2017,
   "category": "installation",
-  "medium": "",
-  "dimensions": "9\"x3",
   "description": "Ah, Pussy, of the Sands , Video Installation, 2017 Ah, Pussy, of the Sands No.2 , double-channel projection, color video, sound, 29:00 minute loop, 2017 Body Size , gym court planks, 5’9\"x3’, 2016 Human measure I, II , Sweat and body paint on archival paper, 48\"x84\", 2017 Cassandra Davis, cinematography",
   "images": [
     "/media/ah-pussy-of-the-sands/01.jpg",
@@ -28,5 +23,8 @@
     "/media/ah-pussy-of-the-sands/17.jpg",
     "/media/ah-pussy-of-the-sands/18.jpg"
   ],
-  "featured": false
+  "dimensions": "9\"x3",
+  "visible": false,
+  "featured": false,
+  "order": 39
 }
