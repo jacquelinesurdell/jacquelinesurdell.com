@@ -1,13 +1,7 @@
 {
-  "order": 38,
-  "slug": "kerk-straat",
   "title": "Kerk Straat",
   "year": "2018",
-  "yearNum": 2018,
   "category": "performance",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/kerk-straat/01.jpg",
     "/media/kerk-straat/02.jpg",
@@ -18,5 +12,7 @@
     "/media/kerk-straat/07.jpg",
     "/media/kerk-straat/08.jpg"
   ],
-  "featured": false
+  "visible": false,
+  "featured": false,
+  "order": 38
 }
