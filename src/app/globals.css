@@ -147,6 +147,20 @@ hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
 .bio-aside {
   min-height: 1px;
 }
+.bio-video {
+  margin: 0;
+}
+.bio-video video {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #000;
+}
+.bio-video figcaption {
+  font-size: 0.8rem;
+  color: var(--ink-4);
+  margin-top: 0.6rem;
+}
 .cv-download {
   margin-top: 2rem;
 }

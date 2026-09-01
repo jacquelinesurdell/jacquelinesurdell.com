@@ -1,5 +1,6 @@
 import RailNav from "@/components/RailNav";
 import site from "@/data/site.json";
+import { asset } from "@/lib/asset";
 
 export const metadata = { title: "Bio — Jacqueline Surdell" };
 
@@ -41,8 +42,25 @@ export default function Bio() {
             </div>
           </div>
 
-          {/* Right column is reserved for the Deyson / SB video once supplied. */}
-          <aside className="bio-aside" />
+          <aside className="bio-aside">
+            {/* Process video. Transcoded from a 1.84 GB 4K master to 720p so the
+                page stays usable; preload="metadata" means only a few KB load
+                until someone presses play. */}
+            <figure className="bio-video">
+              <video
+                controls
+                preload="metadata"
+                playsInline
+                poster={asset("/media/surdell-process-poster.jpg")}
+                width={1280}
+                height={720}
+              >
+                <source src={asset("/media/surdell-process-720p.mp4")} type="video/mp4" />
+                Your browser cannot play this video.
+              </video>
+              <figcaption>In the studio</figcaption>
+            </figure>
+          </aside>
         </div>
       </main>
     </div>
