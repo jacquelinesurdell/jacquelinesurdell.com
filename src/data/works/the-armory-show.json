@@ -2,7 +2,7 @@
   "title": "The Armory Show",
   "year": "2025",
   "category": "exhibition",
-  "venue": "Javits Center, New York,  NY",
+  "venue": "Javits Center",
   "description": "Presented by SECRIST | BEACH, this installation brought together a selection of sculptures that explore landscape as a site of memory, transformation, and human intervention. Working with industrial cordage and steel, I translate the visual language of landscape painting into tactile relief, constructing environments that blur the boundaries between painting, sculpture, and architecture. Together, these works explore how landscapes are shaped by accumulation, erosion, labor, and time, inviting viewers to move between intimate material encounters and expansive imagined terrains.",
   "images": [
     "/media/the-armory-show/31.jpg",
@@ -28,5 +28,6 @@
   ],
   "visible": true,
   "featured": true,
-  "order": 1
+  "order": 1,
+  "city": "New York, NY"
 }

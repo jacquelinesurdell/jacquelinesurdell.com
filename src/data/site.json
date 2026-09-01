@@ -210,7 +210,7 @@
     ]
   },
   "contact": {
-    "email": "studio@jacquelinesurdell.com",
+    "email": "jacquelinesurdell@gmail.com",
     "instagram": "https://www.instagram.com/jacquelinesurdell/",
     "tumblr": "https://jacquelinesurdellthings.tumblr.com/",
     "website": "https://www.jacquelinesurdell.com"
@@ -226,7 +226,7 @@
     },
     {
       "key": "sculpture",
-      "label": "Select Works"
+      "label": "Selected Works"
     }
   ],
   "cvPdf": "/JacquelineSurdell-CV.pdf"

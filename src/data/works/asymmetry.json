@@ -2,7 +2,7 @@
   "title": "Asymmetry",
   "year": "2022",
   "category": "exhibition",
-  "venue": "Library Street Collective, Detroit, MI",
+  "venue": "Library Street Collective",
   "images": [
     "/media/asymmetry/01.jpg",
     "/media/asymmetry/09.jpg",
@@ -19,5 +19,6 @@
   ],
   "visible": true,
   "featured": true,
-  "order": 5
+  "order": 5,
+  "city": "Detroit, MI"
 }

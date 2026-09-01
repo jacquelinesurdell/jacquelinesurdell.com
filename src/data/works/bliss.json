@@ -2,8 +2,8 @@
   "title": "Bliss!",
   "year": "2024",
   "category": "exhibition",
-  "venue": "Gallery COMMON, Tokyo, Japan",
-  "description": "Bliss!\nGallery COMMON, Tokyo\n2024\n\nBliss! grew out of a month-long residency in Tokyo, Japan, where I became interested in the transformations that occur between a bird's-eye view of a place and the lived experience of moving through it. Spending time in Tokyo's gardens and cityscapes, I found myself returning to the quiet ways a landscape changes over the course of a day, as light shifts, shadows lengthen, colors deepen, and familiar places slowly become unfamiliar again. Rather than depicting specific locations, the works invite sustained looking, encouraging viewers to experience landscape as something that unfolds gradually through time, perception, and presence.",
+  "venue": "Gallery COMMON",
+  "description": "Bliss! grew out of a month-long residency in Tokyo, Japan, where I became interested in the transformations that occur between a bird's-eye view of a place and the lived experience of moving through it. Spending time in Tokyo's gardens and cityscapes, I found myself returning to the quiet ways a landscape changes over the course of a day, as light shifts, shadows lengthen, colors deepen, and familiar places slowly become unfamiliar again. Rather than depicting specific locations, the works invite sustained looking, encouraging viewers to experience landscape as something that unfolds gradually through time, perception, and presence.",
   "images": [
     "/media/bliss/99.jpg",
     "/media/bliss/84.jpg",
@@ -34,5 +34,6 @@
   ],
   "visible": true,
   "featured": true,
-  "order": 2
+  "order": 2,
+  "city": "Tokyo, Japan"
 }

@@ -2,8 +2,8 @@
   "title": "Lil Bebs",
   "year": "2023",
   "category": "exhibition",
-  "venue": "Louis Buhl & Co., Detroit, MI",
-  "description": "Lil Bebs\nLouis Buhl & Co., Detroit, MI\n2023\n\nLil Bebs explores the relationship between scale, patience, and process. Working on a more intimate scale challenged me to slow down and approach each sculpture with greater precision and restraint. Rather than relying on physical force or monumentality, these works emerged through sustained attention, where small gestures, subtle shifts, and repeated actions gradually accumulated into form. Like tending a garden, these works could not be rushed. They developed through time, care, and repetition, becoming reflections on the quiet labor of making and on the ways growth unfolds through patience rather than force.",
+  "venue": "Louis Buhl & Co.",
+  "description": "Lil Bebs explores the relationship between scale, patience, and process. Working on a more intimate scale challenged me to slow down and approach each sculpture with greater precision and restraint. Rather than relying on physical force or monumentality, these works emerged through sustained attention, where small gestures, subtle shifts, and repeated actions gradually accumulated into form. Like tending a garden, these works could not be rushed. They developed through time, care, and repetition, becoming reflections on the quiet labor of making and on the ways growth unfolds through patience rather than force.",
   "images": [
     "/media/lil-bebs/01.jpg",
     "/media/lil-bebs/02.jpg",
@@ -25,5 +25,6 @@
   ],
   "visible": true,
   "featured": true,
-  "order": 4
+  "order": 4,
+  "city": "Detroit, MI"
 }

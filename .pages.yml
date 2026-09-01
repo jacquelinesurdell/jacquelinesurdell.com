@@ -46,12 +46,12 @@ content:
         label: Category
         type: select
         default: sculpture
-        description: Exhibitions, Installations and Select Works are the three sections of the site. The others are older categories that are no longer shown.
+        description: Exhibitions, Installations and Selected Works are the three sections of the site. The others are older categories that are no longer shown.
         options:
           values:
             - { label: "Exhibitions", value: "exhibition" }
             - { label: "Installations", value: "installation" }
-            - { label: "Select Works", value: "sculpture" }
+            - { label: "Selected Works", value: "sculpture" }
             - { label: "Performance (not shown)", value: "performance" }
             - { label: "Photography (not shown)", value: "photography" }
             - { label: "Video (not shown)", value: "video" }
@@ -60,12 +60,17 @@ content:
       - name: venue
         label: Venue
         type: string
-        description: For exhibitions only. For example, SECRIST | BEACH, Chicago, IL.
+        description: For exhibitions only. Just the venue name, for example SECRIST | BEACH. Put the city in the next field.
+
+      - name: city
+        label: City
+        type: string
+        description: For exhibitions only. City and state or country, for example Chicago, IL. Shown under the venue.
 
       - name: description
         label: Synopsis
         type: text
-        description: A short paragraph shown above the images. Exhibitions show this; individual works usually leave it blank.
+        description: The paragraph shown above the images. Do NOT retype the title, venue, city or year here, they are their own fields now and appear above this text automatically. Individual works usually leave this blank.
 
       - name: images
         label: Images

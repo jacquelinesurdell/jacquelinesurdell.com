@@ -6,7 +6,7 @@ import works from "@/data/works.json";
 type Work = {
   slug: string; title: string; year: string; category: string;
   medium: string; dimensions: string; series: string; description: string;
-  images: string[]; sourceUrl: string;
+  images: string[]; sourceUrl: string; venue?: string; city?: string;
 };
 
 const ALL = works as Work[];
@@ -15,6 +15,7 @@ export default function WorkView({ slug }: { slug: string }) {
   const i = ALL.findIndex((w) => w.slug === slug);
   const w = ALL[i];
   if (!w) return null;
+  const hasBilling = w.category === "exhibition" && Boolean(w.venue || w.city);
   const prev = ALL[(i - 1 + ALL.length) % ALL.length];
   const next = ALL[(i + 1) % ALL.length];
 
@@ -35,9 +36,22 @@ export default function WorkView({ slug }: { slug: string }) {
         <div className="work-head">
           <h1 className="work-title">{w.title}</h1>
           <div className="work-meta">
-            {[w.year, w.medium, w.dimensions].filter(Boolean).join("\n")}
+            {/* An exhibition prints its year in the details block below, so it is
+                dropped here rather than shown twice. */}
+            {[hasBilling ? "" : w.year, w.medium, w.dimensions].filter(Boolean).join("\n")}
           </div>
         </div>
+
+        {/* Exhibition details read as their own block, above the synopsis, so the
+            venue, city and year do not run into the prose. Before this they were
+            not rendered at all, which is why they had been typed into the synopsis. */}
+        {hasBilling ? (
+          <div className="work-billing">
+            {w.venue ? <div className="work-venue">{w.venue}</div> : null}
+            {w.city ? <div>{w.city}</div> : null}
+            {w.year ? <div>{w.year}</div> : null}
+          </div>
+        ) : null}
 
         {w.description && w.category === "exhibition" ? (
           <p className="work-desc">{w.description}</p>

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { asset } from "@/lib/asset";
 import works from "@/data/works.json";
+import site from "@/data/site.json";
 
 type Work = {
   slug: string; title: string; year: string; medium: string;
@@ -9,14 +10,18 @@ type Work = {
 
 const ALL = (works as Work[]).filter((w) => w.images.length > 0);
 
+const cvPdf = (site as { cvPdf?: string }).cvPdf || "/JacquelineSurdell-CV.pdf";
+
 export default function IndexGrid() {
   return (
     <div className="index-wrap">
       <div className="index-name">
         <Link href="/">Jacqueline Surdell</Link>
-        <Link href="/bio" className="back">
-          Bio / CV
-        </Link>
+        <span className="back">
+          <Link href="/bio">Bio</Link>
+          {" / "}
+          <a href={cvPdf} target="_blank" rel="noopener">CV</a>
+        </span>
       </div>
       <div className="indexgrid">
         {ALL.map((w) => (

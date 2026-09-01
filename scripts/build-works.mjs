@@ -87,6 +87,7 @@ const works = visible.map((w) => {
     description: w.description || "",
   };
   if (w.venue) out.venue = w.venue;
+  if (w.city) out.city = w.city;
   out.images = Array.isArray(w.images) ? w.images.filter(Boolean) : [];
   const imageCaptions = w.imageCaptions || kept.imageCaptions;
   if (imageCaptions) out.imageCaptions = imageCaptions;

@@ -53,8 +53,8 @@ export default function RailNav() {
           <Link href="/bio" className={`rail-link${active("/bio")}`} onClick={() => setOpen(false)}>
             Bio
           </Link>
-          <Link href="/texts" className={`rail-link${active("/texts")}`} onClick={() => setOpen(false)}>
-            Texts
+          <Link href="/press" className={`rail-link${active("/press")}`} onClick={() => setOpen(false)}>
+            Press
           </Link>
         </div>
       </div>

@@ -2,8 +2,8 @@
   "title": "Adoration Garden",
   "year": "2023",
   "category": "exhibition",
-  "venue": "Abroms-Engel Institute for the Visual Arts, Birmingham, AL",
-  "description": "Adoration Garden\nAbroms-Engel Institute for the Visual Arts, Birmingham, Alabama\n2023\n\nAdoration Garden grew from my desire to create a memorial landscape for my Busia, honoring her life while reflecting on the ways grief, memory, and love become embedded in place. Rather than thinking of memorials as fixed monuments, I became interested in how acts of making, tending, and remembrance can transform landscape into a living space for reflection.",
+  "venue": "Abroms-Engel Institute for the Visual Arts",
+  "description": "Adoration Garden grew from my desire to create a memorial landscape for my Busia, honoring her life while reflecting on the ways grief, memory, and love become embedded in place. Rather than thinking of memorials as fixed monuments, I became interested in how acts of making, tending, and remembrance can transform landscape into a living space for reflection.",
   "images": [
     "/media/adoration-garden/10.jpg",
     "/media/adoration-garden/12.jpg",
@@ -25,5 +25,6 @@
   ],
   "visible": true,
   "featured": true,
-  "order": 3
+  "order": 3,
+  "city": "Birmingham, AL"
 }
