@@ -2,6 +2,11 @@
   "title": "My Kaleidoscopic View",
   "year": "2025",
   "category": "sculpture",
+  "images": [
+    "/media/2025_Surdell_My-Kaleidoscopic-View_73x73x15in_detail_01.jpg",
+    "/media/2025_Surdell_My-Kaleidoscopic-View_73x73x15in_detail_02.jpg",
+    "/media/2025_Surdell_My-Kaleidoscopic-View_73x73x15in_detail_03.jpg"
+  ],
   "medium": "Nylon cord, cotton cord, polyester fabric, steel",
   "dimensions": "73 x 73 x 15 in",
   "visible": false,
