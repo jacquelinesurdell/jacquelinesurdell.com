@@ -12,6 +12,6 @@
   "medium": "Braided cotton cord, nylon cord, paracord, fabric",
   "dimensions": "61 x 60 x 10 in",
   "visible": true,
-  "featured": false,
+  "featured": true,
   "order": 25
 }
