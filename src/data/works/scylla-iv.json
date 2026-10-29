@@ -1,17 +1,15 @@
 {
-  "order": 20,
-  "slug": "scylla-iv",
-  "title": "Scylla iv",
+  "title": "Scylla IV",
   "year": "2021",
-  "yearNum": 2021,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/scylla-iv/01.jpg",
     "/media/scylla-iv/02.jpg",
     "/media/scylla-iv/03.jpg"
   ],
-  "featured": true
+  "medium": "Cotton cord, nylon cord, paracord, Nike shoe, steel frame",
+  "dimensions": "27 x 27 x 10 in",
+  "visible": true,
+  "featured": true,
+  "order": 20
 }
