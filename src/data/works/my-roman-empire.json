@@ -9,5 +9,6 @@
   "medium": "Braided cotton cord, acrylic, enamel, steel",
   "dimensions": "74 x 90 x 12 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 115
 }
