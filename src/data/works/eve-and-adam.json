@@ -14,5 +14,6 @@
   "medium": "Nylon cord, fabric, steel",
   "dimensions": "100 x 44 x 7 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 112
 }
