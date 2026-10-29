@@ -1,13 +1,7 @@
 {
-  "order": 13,
-  "slug": "mist-in-lavender-series",
   "title": "Mist in Lavender Series",
   "year": "2022",
-  "yearNum": 2022,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/mist-in-lavender-series/01.jpg",
     "/media/mist-in-lavender-series/02.jpg",
@@ -15,5 +9,7 @@
     "/media/mist-in-lavender-series/04.jpg",
     "/media/mist-in-lavender-series/05.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 127
 }
