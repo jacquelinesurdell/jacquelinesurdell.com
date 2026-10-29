@@ -3,16 +3,16 @@
   "year": "2025",
   "category": "sculpture",
   "images": [
+    "/media/2025_Surdell_Eve-and-Adam_100x44x7in_06.jpg",
+    "/media/2025_Surdell_Eve-and-Adam_100x44x7in_05.jpg",
     "/media/2025_Surdell_Eve-and-Adam_100x44x7in_01.jpg",
     "/media/2025_Surdell_Eve-and-Adam_100x44x7in_02.jpg",
     "/media/2025_Surdell_Eve-and-Adam_100x44x7in_03.jpg",
     "/media/2025_Surdell_Eve-and-Adam_100x44x7in_04.jpg",
-    "/media/2025_Surdell_Eve-and-Adam_100x44x7in_05.jpg",
-    "/media/2025_Surdell_Eve-and-Adam_100x44x7in_06.jpg",
     "/media/2025_Surdell_Eve-and-Adam_100x44x7in_07.jpg"
   ],
   "medium": "Nylon cord, fabric, steel",
   "dimensions": "100 x 44 x 7 in",
-  "visible": false,
+  "visible": true,
   "featured": true
 }
