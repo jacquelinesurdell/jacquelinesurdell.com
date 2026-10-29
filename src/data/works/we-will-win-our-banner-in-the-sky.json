@@ -1,12 +1,7 @@
 {
-  "order": 28,
-  "slug": "we-will-win-our-banner-in-the-sky",
   "title": "We Will Win / Our Banner in the Sky",
   "year": "2020",
-  "yearNum": 2020,
   "category": "sculpture",
-  "medium": "cotton cord, nylon, paracord, fabric, ribbons",
-  "dimensions": "84\" x 108\" x 12\"; 120\" bar",
   "description": "Made during the turbulence of the election, this work explores the symbology of the stars on the American Flag. These weighty symbols are fused with abstracted topographies including heat maps of the California Fires and dying coral reefs.",
   "images": [
     "/media/we-will-win-our-banner-in-the-sky/01.jpg",
@@ -21,5 +16,9 @@
     "/media/we-will-win-our-banner-in-the-sky/10.jpg",
     "/media/we-will-win-our-banner-in-the-sky/11.jpg"
   ],
-  "featured": false
+  "medium": "cotton cord, nylon, paracord, fabric, ribbons",
+  "dimensions": "84\" x 108\" x 12\"; 120\" bar",
+  "visible": true,
+  "featured": false,
+  "order": 142
 }
