@@ -1,16 +1,17 @@
 {
-  "title": "EXPO Chicago 2024 (Library Street Collective)",
+  "title": "EXPO Chicago, Library Street Collective",
   "year": "2024",
   "category": "exhibition",
+  "venue": "Navy Pier Chicago, Booth 133",
   "city": "Chicago, IL",
   "images": [
+    "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_06.jpg",
     "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_01.jpg",
     "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_02.jpg",
     "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_03.jpg",
     "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_04.jpg",
-    "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_05.jpg",
-    "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_06.jpg"
+    "/media/2024_Surdell_EXPOChicago_LibraryStreetCollective_booth_05.jpg"
   ],
-  "visible": false,
+  "visible": true,
   "featured": true
 }
