@@ -1,15 +1,16 @@
 {
-  "title": "UNTITLED Art Fair 2023 (Library Street Collective)",
+  "title": "UNTITLED Art Fair, Library Street Collective",
   "year": "2023",
   "category": "exhibition",
+  "venue": "Booth C42",
   "city": "Miami Beach, FL",
   "images": [
-    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_JaSu024-1.jpg",
-    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_JaSu024-2.jpg",
     "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_Library-4.jpg",
     "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_Library-8.jpg",
-    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_Library-10.jpg"
+    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_Library-10.jpg",
+    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_JaSu024-1.jpg",
+    "/media/2023_Surdell_UNTITLED_LibraryStreetCollective_JaSu024-2.jpg"
   ],
-  "visible": false,
+  "visible": true,
   "featured": true
 }
