@@ -4,13 +4,12 @@
   "category": "sculpture",
   "images": [
     "/media/2026_Surdell_Tondo-golden_24x24x9.25in_01.jpg",
-    "/media/2026_Surdell_Tondo-golden_24x24x9.25in_02.jpg",
-    "/media/2026_Surdell_Tondo-golden_24x24x9.25in_03.jpg",
     "/media/2026_Surdell_Tondo-golden_24x24x9.25in_04.jpg",
-    "/media/2026_Surdell_Tondo-golden_24x24x9.25in_05.jpg"
+    "/media/2026_Surdell_Tondo-golden_24x24x9.25in_05.jpg",
+    "/media/2026_Surdell_Tondo-golden_24x24x9.25in_02.jpg"
   ],
   "medium": "Cotton cord, nylon cord, ink, steel",
   "dimensions": "24 x 24 x 9.25 in",
-  "visible": false,
+  "visible": true,
   "featured": true
 }
