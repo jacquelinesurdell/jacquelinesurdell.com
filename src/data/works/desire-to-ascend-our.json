@@ -1,13 +1,7 @@
 {
-  "order": 11,
-  "slug": "desire-to-ascend-our",
   "title": "Desire to Ascend (our)",
   "year": "2022",
-  "yearNum": 2022,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/desire-to-ascend-our/01.jpg",
     "/media/desire-to-ascend-our/02.jpg",
@@ -16,5 +10,9 @@
     "/media/desire-to-ascend-our/05.jpg",
     "/media/desire-to-ascend-our/06.jpg"
   ],
-  "featured": true
+  "medium": "Cotton cord, nylon cord, steel",
+  "dimensions": "120 x 60 x 24 in",
+  "visible": true,
+  "featured": true,
+  "order": 11
 }
