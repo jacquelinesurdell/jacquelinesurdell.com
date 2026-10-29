@@ -9,5 +9,6 @@
   "medium": "Nylon cord, cotton cord, polyester fabric, steel",
   "dimensions": "56 x 75 x 14 in",
   "visible": false,
-  "featured": true
+  "featured": true,
+  "order": 113
 }
