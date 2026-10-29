@@ -9,5 +9,6 @@
   "medium": "Nylon cord, paracord, steel",
   "dimensions": "25 x 25 x 6 in",
   "visible": false,
-  "featured": true
+  "featured": true,
+  "order": 105
 }
