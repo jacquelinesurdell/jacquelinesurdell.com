@@ -1,13 +1,7 @@
 {
-  "order": 15,
-  "slug": "not-one-but-not-two-either-red",
   "title": "Not one but not two either (red)",
   "year": "2022",
-  "yearNum": 2022,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/not-one-but-not-two-either-red/01.jpg",
     "/media/not-one-but-not-two-either-red/02.jpg",
@@ -16,5 +10,7 @@
     "/media/not-one-but-not-two-either-red/05.jpg",
     "/media/not-one-but-not-two-either-red/06.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 129
 }
