@@ -11,5 +11,6 @@
   "medium": "Cotton cord, nylon cord, ink, steel",
   "dimensions": "24 x 24 x 9.25 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 104
 }
