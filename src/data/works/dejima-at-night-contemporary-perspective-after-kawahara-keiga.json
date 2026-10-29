@@ -16,5 +16,6 @@
   "medium": "Nylon cord, cotton cord, custom steel frame",
   "dimensions": "72 x 50 x 15 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 120
 }
