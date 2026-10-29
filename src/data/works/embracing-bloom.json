@@ -17,5 +17,6 @@
   "medium": "Cotton cord, nylon cord, steel",
   "dimensions": "64 x 43 x 7.5 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 101
 }
