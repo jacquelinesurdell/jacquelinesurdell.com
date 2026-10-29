@@ -1,13 +1,9 @@
 {
-  "order": 7,
-  "slug": "score",
   "title": "Score!",
   "year": "2022",
-  "yearNum": 2022,
   "category": "exhibition",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
+  "venue": "Devening Projects",
+  "city": "Chicago, IL",
   "images": [
     "/media/score/01.jpg",
     "/media/score/02.jpg",
@@ -28,5 +24,7 @@
     "/media/score/17.jpg",
     "/media/score/18.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 7
 }
