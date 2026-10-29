@@ -12,5 +12,6 @@
   "medium": "Nylon cord, printed fabric, steel",
   "dimensions": "261 x 192 x 10 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 117
 }
