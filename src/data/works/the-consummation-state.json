@@ -1,13 +1,7 @@
 {
-  "order": 26,
-  "slug": "the-consummation-state",
   "title": "The Consummation State",
   "year": "2020",
-  "yearNum": 2020,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/the-consummation-state/01.jpg",
     "/media/the-consummation-state/02.jpg",
@@ -19,5 +13,7 @@
     "/media/the-consummation-state/08.jpg",
     "/media/the-consummation-state/09.jpg"
   ],
-  "featured": false
+  "visible": true,
+  "featured": false,
+  "order": 140
 }
