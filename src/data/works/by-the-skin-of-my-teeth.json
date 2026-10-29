@@ -14,5 +14,6 @@
   "medium": "Nylon rope, steel",
   "dimensions": "106 x 61 x 7 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 119
 }
