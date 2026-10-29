@@ -8,5 +8,6 @@
   "medium": "Nylon cord, cotton cord, steel",
   "dimensions": "25 x 25 x 12 in",
   "visible": false,
-  "featured": true
+  "featured": true,
+  "order": 107
 }
