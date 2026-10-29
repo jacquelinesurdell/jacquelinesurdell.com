@@ -12,5 +12,6 @@
   "medium": "Nylon cord, cotton cord, steel",
   "dimensions": "30 x 30 x 24 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 118
 }
