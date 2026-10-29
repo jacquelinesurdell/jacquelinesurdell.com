@@ -1,13 +1,7 @@
 {
-  "order": 16,
-  "slug": "reliquary-7",
   "title": "Reliquary #7",
   "year": "2022",
-  "yearNum": 2022,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/reliquary-7/01.jpg",
     "/media/reliquary-7/02.jpg",
@@ -17,5 +11,7 @@
     "/media/reliquary-7/06.jpg",
     "/media/reliquary-7/07.jpg"
   ],
-  "featured": true
+  "visible": true,
+  "featured": true,
+  "order": 130
 }
