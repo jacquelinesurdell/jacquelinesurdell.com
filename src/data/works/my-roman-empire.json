@@ -2,6 +2,10 @@
   "title": "My Roman Empire",
   "year": "2025",
   "category": "sculpture",
+  "images": [
+    "/media/2025_Surdell_My-Roman-Empire_74x90x12in_01.jpg",
+    "/media/2025_Surdell_My-Roman-Empire_74x90x12in_detail_01.jpg"
+  ],
   "medium": "Braided cotton cord, acrylic, enamel, steel",
   "dimensions": "74 x 90 x 12 in",
   "visible": false,
