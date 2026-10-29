@@ -1,17 +1,15 @@
 {
-  "order": 19,
-  "slug": "penelopes-charybdis",
   "title": "Penelope's Charybdis",
   "year": "2021",
-  "yearNum": 2021,
   "category": "sculpture",
-  "medium": "",
-  "dimensions": "",
-  "description": "",
   "images": [
     "/media/penelopes-charybdis/01.jpg",
     "/media/penelopes-charybdis/02.jpg",
     "/media/penelopes-charybdis/03.jpg"
   ],
-  "featured": true
+  "medium": "Nylon cord, cotton cord, paracord, shower curtain, steel macrame ring, steel",
+  "dimensions": "120 x 48 x 14 in",
+  "visible": true,
+  "featured": true,
+  "order": 19
 }
