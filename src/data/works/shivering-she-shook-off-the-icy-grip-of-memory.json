@@ -9,5 +9,6 @@
   "medium": "Cotton cord, nylon line, printed fabric, steel",
   "dimensions": "78 x 60 x 24 in",
   "visible": true,
-  "featured": true
+  "featured": true,
+  "order": 122
 }
