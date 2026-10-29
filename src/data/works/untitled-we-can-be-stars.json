@@ -1,16 +1,16 @@
 {
-  "title": "Untitled [we can be stars]",
+  "title": "Untitled (we can be stars)",
   "year": "2025",
   "category": "sculpture",
   "images": [
     "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_01.jpg",
-    "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_02.jpg",
     "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_03.jpg",
+    "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_02.jpg",
     "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_04.jpg",
     "/media/2025_Surdell_Untitled-we-can-be-stars_30x30x24in_05.jpg"
   ],
   "medium": "Nylon cord, cotton cord, steel",
   "dimensions": "30 x 30 x 24 in",
-  "visible": false,
+  "visible": true,
   "featured": true
 }
