@@ -8,12 +8,10 @@
     "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_03.jpg",
     "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_04.jpg",
     "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_05.jpg",
-    "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_06.jpg",
-    "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_07.jpg",
-    "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_08.jpg"
+    "/media/2026_Surdell_Untitled-Eden_54.5x48.5x14.5in_06.jpg"
   ],
   "medium": "Cotton cord, nylon line, printed fabric, steel",
   "dimensions": "54.5 x 48.5 x 14.5 in",
-  "visible": false,
+  "visible": true,
   "featured": true
 }
