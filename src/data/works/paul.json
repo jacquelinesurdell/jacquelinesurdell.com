@@ -4,7 +4,6 @@
   "category": "sculpture",
   "venue": "SECRIST | BEACH",
   "city": "Chicago, IL",
-  "description": "Paul, 2025\nnylon cord, cotton cord, fabric, and steel\n90 x 140 x 12 inches",
   "images": [
     "/media/20251024_Secrest_Beach_Jacqueline_Surdell16635 (1).jpg",
     "/media/20251024_Secrest_Beach_Jacqueline_Surdell16708.jpg",
@@ -14,6 +13,8 @@
     "/media/03_Paul_installation.jpg",
     "/media/20251024_Secrest_Beach_Jacqueline_Surdell16707.jpg"
   ],
+  "medium": "Nylon cord, cotton cord, polyester fabric, steel",
+  "dimensions": "90 x 140 x 12 in",
   "visible": true,
   "featured": true,
   "order": 103
