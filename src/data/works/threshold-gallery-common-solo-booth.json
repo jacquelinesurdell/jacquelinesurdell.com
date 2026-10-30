@@ -1,10 +1,18 @@
 {
-  "title": "Threshold (Gallery COMMON solo booth)",
+  "title": "East East, Gallery COMMON, Solo Booth",
   "year": "2023",
   "category": "exhibition",
-  "venue": "EAST EAST",
+  "venue": "Science Museum in Kitanomaru Park",
   "city": "Tokyo, Japan",
-  "visible": false,
+  "description": "Presented by Gallery COMMON at EASTEAST_2023 in Tokyo, this solo presentation featured a monumental woven installation spanning up to nine meters in width. Working with industrial rope on self-made, large-scale looms, I create sculptural forms that draw from the industrial history of Chicago, my background as an athlete, and my engagement with art history. Through repetitive weaving techniques and physically demanding processes, the work explores the relationship between labor, material, and power, challenging traditional boundaries between painting and sculpture. The installation reflects on how physical effort, precision, and accumulation shape both the construction of objects and the histories they carry.",
+  "images": [
+    "/media/a01_isisd1 (1).jpg",
+    "/media/Jacqueline_Surdell_Work_16.jpg",
+    "/media/Jacqueline_Surdell_Work_14-1.jpg",
+    "/media/Jacqueline_Surdell_Portrait_5.jpg",
+    "/media/Jacqueline_Surdell_Work_18.jpg"
+  ],
+  "visible": true,
   "featured": true,
   "order": 11
 }
