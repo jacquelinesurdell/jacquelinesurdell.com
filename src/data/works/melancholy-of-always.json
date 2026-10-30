@@ -7,9 +7,9 @@
     "/media/melancholy-of-always/01.jpg",
     "/media/melancholy-of-always/02.jpg"
   ],
-  "medium": "cotton cord, nylon, fabric paracord, steel Dimensions: 78\"x 80\"x",
-  "dimensions": "78\"x 80\"x\"; 96\" bar",
+  "medium": "Cotton cord, nylon, fabric paracord, steel ",
+  "dimensions": "78 x 80 x 96 ",
   "visible": true,
-  "featured": false,
+  "featured": true,
   "order": 138
 }
